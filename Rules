@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'pry'
+
 compile '/index.slim' do
   filter :slim
   layout '/default.*'
@@ -18,17 +20,19 @@ compile '/**/*.gs' do
   write item.identifier.without_ext + '/index.html'
 end
 
-ignore '/**/_*.sass'
-compile '/**/*.sass' do
-  filter :sassc, syntax: :sass, style: :compressed, load_paths: ['content/css/']
-  snapshot :css
-  write item.identifier.without_ext + '.css'
+%w(woff woff2).each do |ext|
+  compile("/**/*.#{ext}") do
+    write '/assets/fonts/' + File.basename(item.identifier.to_s)
+  end
 end
 
 ignore '/css/govuk/**/*'
+ignore '/**/_*.scss'
 
-compile '/**/*' do
-  write item.identifier.to_s
+compile '/**/*.scss' do
+  filter :sassc, syntax: :scss, style: :compressed, load_paths: ['content/css/']
+  snapshot :css
+  write item.identifier.without_ext + '.css'
 end
 
 compile '/**/*' do

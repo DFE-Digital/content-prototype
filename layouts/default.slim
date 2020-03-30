@@ -1,13 +1,13 @@
 doctype html
 
-html
-  head
-    title
-      - if item[:title]
-        ' #{item[:title]} - Prototype
-      - else
-        ' Prototype
+html.govuk-template lang='en'
+  == render '/partials/head.*'
 
-body
-
-  == yield
+  body.govuk-template__body
+    == render '/partials/header.*'
+    .govuk-width-container
+      main#main-content.govuk-main-wrapper
+        .govuk-grid-row
+          .govuk-grid-column-two-thirds
+            == yield
+    == render '/partials/footer.*'
