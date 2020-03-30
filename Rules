@@ -12,6 +12,12 @@ compile '/**/*.slim' do
   write item.identifier.without_ext + '/index.html'
 end
 
+compile '/**/*.gs' do
+  filter :govspeak
+  layout '/default.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 ignore '/**/_*.sass'
 compile '/**/*.sass' do
   filter :sassc, syntax: :sass, style: :compressed, load_paths: ['content/css/']

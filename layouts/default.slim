@@ -2,7 +2,11 @@ doctype html
 
 html
   head
-    title Hello
+    title
+      - if item[:title]
+        ' #{item[:title]} - Prototype
+      - else
+        ' Prototype
 
 body
 
