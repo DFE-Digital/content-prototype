@@ -1,0 +1,53 @@
+name: Lint
+on:
+  - push
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Cache Ruby Gems
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-ruby-gems
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+      - name: Cache Node Modules
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm # npm cache files are stored in `~/.npm` on Linux/macOS
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+      - name: Setup Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Setup Node 13.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: "13.x"
+      - name: Configure
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+          npm config set //npm.pkg.github.com/:_authToken=$GITHUB_TOKEN
+          npm config set @dfe-digital:registry=https://npm.pkg.github.com
+      - name: Rubocop
+        run: bundle exec rubocop . --format clang
+      - name: SCSS Lint
+        run: ./node_modules/.bin/stylelint **/*.scss **/*.css
+      - name: ESLint
+        run: ./node_modules/.bin/eslint .
