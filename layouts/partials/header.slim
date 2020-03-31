@@ -8,6 +8,11 @@ header.govuk-header role='banner' data-module='govuk-header'
   .govuk-header__container.govuk-width-container
     .govuk-header__logo
       a.govuk-header__link.govuk-header__link--homepage href="/"
+        span.govuk-header__logotype
+          == render '/partials/crown.*'
 
         span.govuk-header__logotype-text
-          | Prototype
+          | GOV.UK
+
+    .govuk-header__content
+      == link_to 'Learning during coronavirus', '/', class: 'govuk-header__link govuk-header__link--service-name'
