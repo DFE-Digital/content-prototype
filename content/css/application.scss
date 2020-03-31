@@ -9,3 +9,16 @@
 
 @import 'govuk_publishing_components/govuk_frontend_support';
 @import 'govuk_publishing_components/component_support';
+
+// kramdown table of contents
+#markdown-toc {
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    &::before {
+      content: '–';
+      margin-right: .5rem;
+    }
+  }
+}

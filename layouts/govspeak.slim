@@ -8,6 +8,9 @@ html.govuk-template lang='en'
     .govuk-width-container
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
+          .govuk-grid-column-full
+            h1.govuk-heading-xl = item[:title]
+        .govuk-grid-row
           .govuk-grid-column-two-thirds
             main.gem-c-govspeak
               == yield

@@ -2,11 +2,15 @@
 title: "Supporting your children's learning during coronavirus (COVID-19)"
 ---
 
-## Supporting your children's learning during coronavirus (COVID-19)
+^The page will continue to change in line with the latest information and expert guidance available.^
 
 Many UK children are not currently attending school due to measures put in place to prevent the spread of Coronavirus. Information, guidance and support is available for parents and carers of children who are learning at home.
 
-^The page will continue to change in line with the latest information and expert guidance available.^
+### Contents
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 
 Find out what support is available for children entitled to [free school meals](https://www.gov.uk/government/publications/covid-19-free-school-meals-guidance).
 
