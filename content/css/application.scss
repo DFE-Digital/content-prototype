@@ -18,16 +18,16 @@
 
   li {
     &::before {
-      content: '–';
-      margin-right: .5rem;
+      content: "–";
+      margin-right: 0.5rem;
     }
   }
 }
 
 .gem-c-govspeak {
   hr {
-    @include govuk-responsive-margin(6, 'top');
-    @include govuk-responsive-margin(6, 'bottom');
+    @include govuk-responsive-margin(6, "top");
+    @include govuk-responsive-margin(6, "bottom");
     border-top: 1px solid $govuk-border-colour;
     border-bottom: 0;
   }
