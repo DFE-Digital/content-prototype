@@ -22,5 +22,5 @@ RUN bundle exec nanoc compile
 
 FROM nginx:stable
 COPY --from=build /app/output/ /usr/share/nginx/html/
-RUN cat /etc/nginx/conf.d/default.conf | sed 's/listen ${NGINX_PORT}/listen ${PORT}/' | sed 's/#error_page  404/error_page  404/' > /tmp/default.conf && mv /tmp/default.conf /etc/nginx/conf.d/default.conf
+RUN cat /etc/nginx/conf.d/default.conf | sed 's/listen.*80;/listen ${PORT};/' | sed 's/#error_page  404/error_page  404/' > /tmp/default.conf && mv /tmp/default.conf /etc/nginx/conf.d/default.conf
 CMD ["nginx", "-g", "daemon off;"]
