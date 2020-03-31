@@ -23,3 +23,12 @@
     }
   }
 }
+
+.gem-c-govspeak {
+  hr {
+    @include govuk-responsive-margin(6, 'top');
+    @include govuk-responsive-margin(6, 'bottom');
+    border-top: 1px solid $govuk-border-colour;
+    border-bottom: 0;
+  }
+}
