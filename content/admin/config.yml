@@ -1,3 +1,4 @@
+publish_mode: editorial_workflow
 media_folder: "content/images/uploads"
 public_folder: "/images/uploads"
 collections:
