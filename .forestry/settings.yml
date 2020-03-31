@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: content
   label: All Pages
-  create: all
+  create: documents
   match: "**/*"
+  new_doc_ext: ".gs"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
