@@ -1,0 +1,30 @@
+media_folder: "content/images/uploads"
+public_folder: "/images/uploads"
+collections:
+  - name: teachers
+    label: /teachers
+    folder: content/teachers
+    extension: gs
+    format: yaml-frontmatter
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+  - name: root
+    label: /
+    folder: content/
+    extension: gs
+    format: yaml-frontmatter
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+backend:
+  name: github
+  repo: DFE-Digital/content-prototype
