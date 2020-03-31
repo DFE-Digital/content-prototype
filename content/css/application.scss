@@ -1,14 +1,14 @@
-@import 'govuk/settings/all';
-@import 'govuk/tools/all';
-@import 'govuk/helpers/all';
-@import 'govuk/core/all';
-@import 'govuk/objects/all';
-@import 'govuk/components/all';
-@import 'govuk/utilities/all';
-@import 'govuk/overrides/all';
+@import "govuk/settings/all";
+@import "govuk/tools/all";
+@import "govuk/helpers/all";
+@import "govuk/core/all";
+@import "govuk/objects/all";
+@import "govuk/components/all";
+@import "govuk/utilities/all";
+@import "govuk/overrides/all";
 
-@import 'govuk_publishing_components/govuk_frontend_support';
-@import 'govuk_publishing_components/component_support';
+@import "govuk_publishing_components/govuk_frontend_support";
+@import "govuk_publishing_components/component_support";
 
 // kramdown table of contents
 #markdown-toc {
