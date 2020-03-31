@@ -28,7 +28,7 @@ At school most pupils get exercise at PE and recess. Include time for physical a
 
 With no pupils physically present during lessons, it can be challenging marking attendance. Check with your school on their attendance policy during the pandemic. If you can set the policy for your pupils you could consider counting pupils present:
 
-* if they complete a certain percentage of the day’s assignments
+* if they complete a certain percentage of the day's assignments
 * when they attend scheduled synchronous activities
 
 
