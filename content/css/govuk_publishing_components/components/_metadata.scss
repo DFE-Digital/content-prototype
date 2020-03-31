@@ -1,0 +1,91 @@
+.gem-c-metadata {
+  @include govuk-text-colour;
+  @include govuk-font(16);
+  @include responsive-bottom-margin;
+  @include govuk-clearfix;
+
+  a {
+    @include govuk-link-common;
+    @include govuk-link-style-default;
+  }
+}
+
+.gem-c-metadata.direction-rtl {
+  direction: rtl;
+  text-align: start;
+}
+
+.gem-c-metadata--inverse {
+  color: govuk-colour("white");
+
+  a:link,
+  a:active,
+  a:visited {
+    color: govuk-colour("white");
+  }
+
+  a:focus {
+    color: govuk-colour("black");
+  }
+}
+
+.gem-c-metadata__term {
+  margin-top: .5em;
+  line-height: 1.4;
+
+  @include govuk-media-query($from: tablet) {
+    box-sizing: border-box;
+    float: left;
+    clear: left;
+    width: 30%;
+    max-width: 11em;
+    padding-right: govuk-spacing(2);
+    margin-top: 0;
+  }
+}
+
+.gem-c-metadata.direction-rtl .gem-c-metadata__term {
+  float: right;
+  clear: right;
+
+  @include govuk-media-query($from: tablet) {
+    padding-left: govuk-spacing(2);
+    padding-right: 0;
+  }
+}
+
+.gem-c-metadata__definition {
+  margin: 0;
+  line-height: 1.4;
+
+  @include govuk-media-query($from: tablet) {
+    float: left;
+    width: 70%;
+  }
+}
+
+.gem-c-metadata__definition-link {
+  text-decoration: none;
+}
+
+.gem-c-metadata__definition-link:focus,
+.gem-c-metadata__definition-link:active,
+.gem-c-metadata__definition-link:hover {
+  text-decoration: underline;
+}
+
+.gem-c-metadata.direction-rtl .gem-c-metadata__definition {
+  float: right;
+}
+
+.gem-c-metadata__toggle-wrap {
+  display: none;
+}
+
+.js-enabled .gem-c-metadata__toggle-wrap {
+  display: block;
+}
+
+.js-enabled .gem-c-metadata__toggle-items.js-hidden {
+  display: none;
+}

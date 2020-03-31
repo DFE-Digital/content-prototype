@@ -1,0 +1,15 @@
+// scss-lint:disable SelectorFormat
+
+.gem-c-step-nav-header__part-of {
+  display: block;
+}
+
+.gem-c-step-nav-header__title {
+  @include govuk-font(24, $weight: bold);
+}
+
+.gem-c-step-nav-header__skip-link {
+  display: none;
+}
+
+// scss-lint:enable SelectorFormat

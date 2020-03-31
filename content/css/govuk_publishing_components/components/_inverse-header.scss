@@ -1,0 +1,34 @@
+.gem-c-inverse-header {
+  width: 100%;
+  background-color: govuk-colour("blue");
+  color: govuk-colour("white");
+  margin-bottom: govuk-spacing(6);
+  padding: 0 govuk-spacing(6) govuk-spacing(6);
+  box-sizing: border-box;
+}
+
+.gem-c-inverse-header a {
+  color: govuk-colour("white");
+}
+
+
+.gem-c-inverse-header {
+  // This publication-header class is injected on publication pages, really
+  // it should be a component class or be a component in it's own right.
+  .gem-c-inverse-header__supplement,
+  .publication-header__last-changed {
+    @include govuk-font($size: 16, $line-height: 1.5);
+    color: govuk-colour("white");
+    margin: 0;
+  }
+}
+
+.gem-c-inverse-header--full-width {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: govuk-spacing(3);
+}
+
+.gem-c-inverse-header--padding-top {
+  padding-top: govuk-spacing(3);
+}

@@ -16,7 +16,7 @@ end
 
 compile '/**/*.gs' do
   filter :govspeak
-  layout '/default.*'
+  layout '/govspeak.*'
   write item.identifier.without_ext + '/index.html'
 end
 
@@ -30,7 +30,7 @@ ignore '/css/govuk/**/*'
 ignore '/**/_*.scss'
 
 compile '/**/*.scss' do
-  filter :sassc, syntax: :scss, style: :compressed, load_paths: ['content/css/']
+  filter :sassc, syntax: :scss, style: :compressed, load_paths: ['content/css/', 'content/css/govuk_publishing_components']
   snapshot :css
   write item.identifier.without_ext + '.css'
 end

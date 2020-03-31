@@ -1,0 +1,109 @@
+@import "govuk/components/button/button";
+
+$gem-secondary-button-colour: #00823b;
+$gem-secondary-button-hover-colour: darken($gem-secondary-button-colour, 5%);
+$gem-secondary-button-background-colour: govuk-colour("white");
+$gem-secondary-button-hover-background-colour: govuk-colour("light-grey", $legacy: "grey-4");
+
+$gem-quiet-button-colour: govuk-colour("dark-grey", $legacy: "grey-1");
+$gem-quiet-button-hover-colour: darken($gem-quiet-button-colour, 5%);
+
+// Because govuk-frontend adds a responsive bottom margin by default for each component
+// we reset it to zero so we can set it separately using `gem-c-button--bottom-margin`
+// If we decide to use responsive margins consistently across components we can remove this
+.gem-c-button {
+  margin-bottom: 0;
+}
+
+// this will be moved and extended into a model for general component spacing
+// once this has been decided upon and other work completed, see:
+// https://trello.com/c/KEkNsxG3/142-3-implement-customisable-spacing-for-components
+.gem-c-button--bottom-margin {
+  @include responsive-bottom-margin;
+}
+
+.gem-c-button--inline {
+  display: block;
+  width: 100%;
+  margin-bottom: govuk-spacing(1);
+  vertical-align: top;
+
+  @include govuk-media-query($from: desktop) {
+    display: inline-block;
+    width: auto;
+    vertical-align: baseline;
+    margin-right: govuk-spacing(2);
+  }
+}
+
+.gem-c-button__info-text {
+  @include govuk-text-colour;
+  @include govuk-font($size: 16);
+  display: block;
+  max-width: 14em;
+  margin-top: .5em;
+}
+
+.gem-c-button--secondary {
+  padding: (govuk-spacing(2) - $govuk-border-width-form-element) govuk-spacing(2); // s1
+  border-color: $gem-secondary-button-colour;
+  color: $gem-secondary-button-colour;
+  background-color: $gem-secondary-button-background-colour;
+  box-shadow: none;
+
+  &:link,
+  &:visited,
+  &:active,
+  &:focus {
+    color: $gem-secondary-button-colour;
+    background-color: $gem-secondary-button-background-colour;
+    text-decoration: none;
+  }
+
+  &:link:focus {
+    color: $gem-secondary-button-colour;
+  }
+
+  &:hover {
+    border-color: $gem-secondary-button-hover-colour;
+    color: $gem-secondary-button-hover-colour;
+    background-color: $gem-secondary-button-hover-background-colour;
+    text-decoration: none;
+  }
+
+  &:before {
+    content: none;
+  }
+}
+
+.gem-c-button--secondary-quiet {
+  padding: (govuk-spacing(2) - $govuk-border-width-form-element) govuk-spacing(2); // s1
+  border-color: $gem-quiet-button-colour;
+  color: $gem-quiet-button-colour;
+  background-color: $gem-secondary-button-background-colour;
+  box-shadow: none;
+
+  &:link,
+  &:visited,
+  &:active,
+  &:focus {
+    color: $gem-quiet-button-colour;
+    background-color: $gem-secondary-button-background-colour;
+    text-decoration: none;
+  }
+
+  &:link:focus {
+    color: $gem-quiet-button-colour;
+  }
+
+  &:hover {
+    border-color: $gem-quiet-button-hover-colour;
+    color: $gem-quiet-button-hover-colour;
+    background-color: $gem-secondary-button-hover-background-colour;
+    text-decoration: none;
+  }
+
+  &:before {
+    content: none;
+  }
+}

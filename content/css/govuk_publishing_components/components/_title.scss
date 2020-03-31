@@ -1,0 +1,41 @@
+.gem-c-title--inverse {
+  color: govuk-colour("white");
+
+  .gem-c-title__text,
+  .gem-c-title__context {
+    color: inherit;
+  }
+}
+
+.gem-c-title__context {
+  @include govuk-font(24);
+  color: $govuk-secondary-text-colour;
+  margin: 0;
+}
+
+.gem-c-title__context-link {
+  text-decoration: none;
+
+  &:link,
+  &:visited {
+    color: inherit;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:focus {
+    text-decoration: none;
+    color: $govuk-focus-text-colour;
+  }
+}
+
+.gem-c-title__text {
+  @extend %govuk-heading-xl;
+  margin: 0;
+}
+
+.gem-c-title__text--long {
+  @extend %govuk-heading-l;
+}

@@ -1,0 +1,510 @@
+// This file contains the styles for the Component Guide.
+
+@import "govuk_publishing_components/components/helpers/govuk-frontend-settings";
+@import "govuk_publishing_components/components/helpers/markdown-typography";
+@import "govuk/settings/all";
+@import "govuk/tools/all";
+@import "govuk/helpers/all";
+@import "govuk/core/all";
+
+$gem-guide-border-width: 1px;
+
+.component-list {
+  @include govuk-text-colour;
+  @extend %govuk-list--bullet;
+
+  li {
+    @include govuk-font($size: 19);
+    margin-bottom: $govuk-gutter-half;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.component-search {
+  display: none;
+
+  .js-enabled & {
+    display: block;
+    margin-top: $govuk-gutter * 2;
+  }
+}
+
+.component-guide-hidden {
+  display: none;
+}
+
+.component-doc {
+  @include govuk-font($size: 16);
+
+  .component-doc-h2:first-child {
+    margin-top: 0;
+  }
+}
+
+.component-violation {
+  @include govuk-text-colour;
+  border: 3px solid $govuk-error-colour;
+  margin: 0 0 $govuk-gutter;
+  padding: $govuk-gutter $govuk-gutter;
+
+  .component-violation__title {
+    @include govuk-font($size: 24, $weight: bold);
+    margin: 0;
+  }
+
+  .component-violation__link {
+    display: block;
+    @include govuk-font($size: 19, $weight: bold);
+    color: $govuk-error-colour;
+    margin: $govuk-gutter-half 0;
+  }
+}
+
+.component-doc-h2 {
+  @include govuk-text-colour;
+  @include govuk-font($size: 27, $weight: bold);
+  margin: ($govuk-gutter * 1.5) 0 $govuk-gutter;
+
+  small {
+    @include govuk-font($size: 16, $weight: bold);
+  }
+}
+
+.component-doc-h3 {
+  @include govuk-text-colour;
+  margin: $govuk-gutter 0 $govuk-gutter-half;
+  @include govuk-font($size: 19, $weight: bold);
+}
+
+.component-call {
+  margin-top: -$gem-guide-border-width;
+  margin-bottom: $govuk-gutter-half;
+
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
+  font-size: 16px;
+  line-height: 1.5;
+  border: $gem-guide-border-width solid $govuk-border-colour;
+
+  &[contenteditable]:hover {
+    cursor: text;
+  }
+
+  &[contenteditable]:focus {
+    outline: 3px solid $govuk-focus-colour;
+  }
+
+  > pre {
+    margin: 0;
+    padding: $govuk-gutter;
+    max-height: 300px;
+    overflow: auto;
+    font-family: inherit;
+
+    > code {
+      font-family: inherit;
+      display: block;
+    }
+  }
+}
+
+.component-output {
+  > pre {
+    max-height: 200px;
+  }
+}
+
+.component-guide-preview {
+  padding: ($govuk-gutter * 1.5) $govuk-gutter $govuk-gutter;
+  border: $gem-guide-border-width solid $govuk-border-colour;
+  position: relative;
+
+  &.direction-rtl {
+    direction: rtl;
+    text-align: start;
+  }
+
+  &.dark-background {
+    background-color: govuk-colour("blue");
+  }
+
+  &.component-output {
+    padding: 0;
+  }
+
+  &:before {
+    @include govuk-font($size: 14);
+    content: attr(data-content);
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: .21053em .78947em;
+    background: $govuk-border-colour;
+    color: govuk-colour("black");
+    font-weight: bold;
+  }
+}
+
+.component-guide-preview--simple {
+  border: 0;
+  padding: 0;
+
+  &:before {
+    display: none;
+  }
+}
+
+.component-guide-preview--violation,
+.component-guide-preview--warning {
+  @include govuk-text-colour;
+  margin-top: -$gem-guide-border-width;
+
+  @include govuk-font($size: 19);
+
+  &:empty {
+    display: none;
+  }
+
+  p,
+  h3,
+  h4 {
+    margin-top: 0;
+    margin-bottom: $govuk-gutter / 2;
+  }
+
+  h3 a {
+    @extend %govuk-link;
+  }
+
+  h3:not(:first-child) {
+    margin-top: $govuk-gutter;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    padding-left: 1em;
+    margin-bottom: 1em;
+  }
+
+  .selector {
+    font-style: italic;
+  }
+}
+
+.component-guide-preview--warning {
+  border-color: govuk-colour("yellow");
+
+  &:before {
+    background-color: govuk-colour("yellow");
+  }
+}
+
+.component-guide-preview--violation {
+  border-color: govuk-colour("red");
+
+  &:before {
+    background-color: govuk-colour("red");
+    color: govuk-colour("white");
+  }
+}
+
+.examples {
+  .component-example {
+    margin: 0 0 $govuk-gutter * 1.5;
+
+    .example-title {
+      @include govuk-text-colour;
+      @include govuk-font($size: 24, $weight: bold);
+      margin: $govuk-gutter-half 0;
+
+      small {
+        @include govuk-font($size: 16, $weight: bold);
+      }
+    }
+  }
+}
+
+.component-markdown {
+  @include markdown-typography;
+}
+
+// Preview Page Styling
+html {
+  background: govuk-colour("white");
+}
+
+.hide-header-and-footer {
+  // scss-lint:disable IdSelector
+  // sass-lint:disable no-ids
+  #global-header,
+  #global-header-bar,
+  #global-breadcrumb,
+  #footer {
+    display: none;
+  }
+  // sass-lint:enable no-ids
+  // scss-lint:enable IdSelector
+}
+
+.component-guide-preview-page {
+  padding: ($govuk-gutter * 1.5) 0;
+  position: relative;
+
+  .preview-title {
+    margin-top: 0;
+    margin-bottom: 1em;
+    @include govuk-font($size: 16, $weight: bold);
+
+    a {
+      @include govuk-link-common;
+      @include govuk-link-style-text;
+    }
+  }
+}
+
+// Hide survey banner
+// scss-lint:disable IdSelector
+// sass-lint:disable no-ids
+#user-satisfaction-survey-container,
+#global-cookie-message {
+  display: none;
+}
+// sass-lint:enable no-ids
+// scss-lint:enable IdSelector
+
+// Rouge syntax highlighting
+// Based on https://github.com/alphagov/tech-docs-template/blob/master/template/source/stylesheets/palette/_syntax-highlighting.scss
+
+$code-00: scale-color(govuk-colour("light-grey", $legacy: "grey-4"), $lightness: 50%); // Default Background
+$code-01: #f5f5f5; // Lighter Background (Unused)
+$code-02: #bfc1c3; // Selection Background
+$code-03: darken($govuk-secondary-text-colour, 2%); // Comments, Invisibles, Line Highlighting
+$code-04: #e8e8e8; // Dark Foreground (Unused)
+$code-05: $govuk-text-colour; // Default Foreground, Caret, Delimiters, Operators
+$code-06: #ffffff; // Light Foreground (Unused)
+$code-07: #ffffff; // Light Background (Unused)
+
+$code-08: #ae5f3d; // Variables, XML Tags, Markup Link Text, Markup Lists
+$code-09: #0e7754; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
+$code-0a: #4c4077; // Classes, Markup Bold, Search Text Background
+$code-0b: govuk-colour("blue"); // Strings, Inherited Class, Markup Code
+$code-0c: govuk-colour("blue"); // Support, Regular Expressions, Escape Characters, Markup Quotes
+$code-0d: #4c4077; // Functions, Methods, Attribute IDs, Headings
+$code-0e: #a71d5d; // Keywords, Storage, Selector, Markup Italic
+$code-0f: #c92424; // Deprecated, Opening/Closing Embedded Language Tags e.g. <?php ?> (Unused)
+
+$code-insert-bg: #def8ca;
+$code-delete-bg: #fadddd;
+
+// sass-lint:disable no-empty-rulesets
+.component-highlight {
+
+  // Map Rouge / Pygments Tokens to work with 'Base 16' themes
+
+  background: $code-00;
+  color: $code-05;
+
+  //
+  // Comments
+  //
+
+  .c,       // Comment
+  .cm,      // Comment.Multiline
+  .cp,      // Comment.Preproc
+  .c1,      // Comment.Single
+  .cs {     // Comment.Special
+    color: $code-03;
+  }
+
+  //
+  // Keywords
+  //
+
+  .k,       // Keyword
+  .kc,      // Keyword.Constant
+  .kd,      // Keyword.Declaration
+  .kp,      // Keyword.Pseudo
+  .kr {     // Keyword.Reserved
+    color: $code-0e;
+  }
+
+  .kn {     // Keyword.Namespace
+    color: $code-0c;
+  }
+
+  .kt {     // Keyword.Type
+    color: $code-0a;
+  }
+
+  //
+  // Operators
+  //
+
+  .o,       // Operator
+  .ow {     // Operator.Word
+    color: $code-0c;
+  }
+
+  //
+  // Names
+  //
+
+  .n,       // Name
+  .nb,      // Name.Builtin
+  .bp,      // Name.Builtin.Pseudo
+  .ni,      // Name.Entity
+  .nl,      // Name.Label
+  .py {     // Name.Property
+    // Default styling
+  }
+
+  .nc,      // Name.Class
+  .nn {     // Name.Namespace
+    color: $code-0a;
+  }
+
+  .na,      // Name.Attribute
+  .nf {     // Name.Function
+    color: $code-0d;
+  }
+
+  .nv,      // Name.Variable
+  .no,      // Name.Constant
+  .vc,      // Name.Variable.Class
+  .vg,      // Name.Variable.Global
+  .vi {     // Name.Variable.Instance
+    color: $code-08;
+  }
+
+  .nd {     // Name.Decorator
+    color: $code-0c;
+  }
+
+  .nt,      // Name.Tag
+  .nx {     // Name.Other
+    color: $code-09;
+  }
+
+  .ne {     // Name.Exception
+    color: $code-0f;
+  }
+
+  //
+  // Literals
+  //
+
+  .l  {     // Literal
+    color: $code-09;
+  }
+
+  .ld {     // Literal.Date
+    color: $code-0b;
+  }
+
+  .m,       // Literal.Number
+  .mf,      // Literal.Number.Float
+  .mh,      // Literal.Number.Hex
+  .mi,      // Literal.Number.Integer
+  .il,      // Literal.Number.Integer.Long
+  .mo {     // Literal.Number.Oct
+    color: $code-09;
+  }
+
+  .s,       // Literal.String
+  .sb,      // Literal.String.Backtick
+  .s2,      // Literal.String.Double
+  .sh {     // Literal.String.Heredoc
+    color: $code-0b;
+  }
+
+  .sx,      // Literal.String.Other
+  .sr,      // Literal.String.Regex
+  .s1,      // Literal.String.Single
+  .ss {     // Literal.String.Symbol
+    color: $code-0b;
+  }
+
+  .se,      // Literal.String.Escape
+  .si {     // Literal.String.Interpol
+    color: $code-09;
+  }
+
+  .sd {     // Literal.String.Doc
+    color: $code-03;
+  }
+
+  .sc {     // Literal.String.Char
+    // Default styling
+  }
+
+  //
+  // Diffs
+  //
+
+  .gi {     // Generic.Inserted
+    background-color: $code-insert-bg;
+  }
+
+  .gd {     // Generic.Deleted
+    background-color: $code-delete-bg;
+  }
+
+  //
+  // Misc
+  //
+
+  .p {      // Punctuation
+    // Default styling
+  }
+
+  .w {      // Text.Whitespace
+    // Default styling
+  }
+
+  .hll {    // Highlight
+    background-color: $code-02;
+  }
+
+  .err,     // Error
+  .gr,      // Generic.Error
+  .gt {     // Generic.Traceback
+    color: $code-0f;
+  }
+
+  .gs {     // Generic.Strong
+    font-weight: bold;
+  }
+
+  .ge {     // Generic.Emph
+    font-style: italic;
+  }
+
+  .gh {     // Generic.Heading
+    font-weight: bold;
+  }
+
+  .gu {     // Generic.Subheading
+    color: $code-0a;
+    font-weight: bold;
+  }
+
+  .gp {     // Generic.Prompt
+    color: $code-03;
+    font-weight: bold;
+  }
+}
+// sass-lint:enable no-empty-rulesets
+
+// Specific for this Gem, optimized for erb render statements
+.component-highlight {
+  .s2 {
+    color: $code-08;
+  }
+
+  .n + .s2 {
+    color: $code-09;
+  }
+}
