@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem "nanoc"
 gem "nanoc-live"
@@ -12,3 +12,5 @@ gem "nokogiri"
 gem "govspeak"
 gem "pry"
 gem "pry-byebug"
+gem "rubocop-govuk"
+gem "slim_lint"
