@@ -39,6 +39,17 @@ bundle exec nanoc view
 
 You can now open http://localhost:3000
 
+## 🐳 Docker
+
+Run the app in a docker container
+
+```bash
+docker build -t dfe-content-prototype:latest .
+docker run -e PORT=3000 -p 3000:3000 --rm -it dfe-content-prototype
+```
+
+You can now open http://localhost:3000
+
 ## 📦 Deployment
 
 ```bash
