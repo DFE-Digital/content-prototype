@@ -6,7 +6,7 @@
 
 ## 🧪 Staging
 
-The staging site is available [here](https://dfe-content-prototype.herokuapp.com/)
+The staging site is available [on heroku](https://dfe-content-prototype.herokuapp.com/)
 
 ## 🎲 Installation
 
