@@ -28,6 +28,7 @@ jobs:
       - name: Configure
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HUSKY_SKIP_INSTALL: 1
         run: |
           echo 'gem: --no-document' >> ~/.gemrc
           gem install bundler
