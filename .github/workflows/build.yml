@@ -40,6 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CYPRESS_INSTALL_BINARY: '0'
+          HUSKY_SKIP_INSTALL: 1
         run: |
           echo 'gem: --no-document' >> ~/.gemrc
           gem install bundler
