@@ -1,3 +1,6 @@
+[![Build](https://github.com/DFE-Digital/content-prototype/workflows/Build/badge.svg)](https://github.com/DFE-Digital/content-prototype/actions?query=workflow%3ABuild)
+[![Lint](https://github.com/DFE-Digital/content-prototype/workflows/Lint/badge.svg)](https://github.com/DFE-Digital/content-prototype/actions?query=workflow%3ALint)
+[![Cypress Tests (Chrome)](https://github.com/DFE-Digital/content-prototype/workflows/Cypress%20Tests%20(Chrome)/badge.svg)](https://github.com/DFE-Digital/content-prototype/actions?query=workflow%3A%22Cypress+Tests+%28Chrome%29%22)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-important.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./.github/CONTRIBUTING.md)
 # Content Prototype
