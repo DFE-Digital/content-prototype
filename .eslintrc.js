@@ -12,7 +12,7 @@ module.exports = {
   ],
   rules: {
     semi: ["error", "always"],
-    "prettier/prettier": ["error", { sindleQuote: true }],
+    "prettier/prettier": ["error"],
     "max-lines-per-function": ["error", 25],
     "no-console": [
       "error",
