@@ -39,7 +39,9 @@ jobs:
       - name: Configure
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CYPRESS_INSTALL_BINARY: '0'
         run: |
+          echo 'gem: --no-document' >> ~/.gemrc
           gem install bundler
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
