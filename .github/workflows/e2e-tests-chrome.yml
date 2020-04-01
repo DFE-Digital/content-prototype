@@ -42,7 +42,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CYPRESS_BASE_URL: http://localhost:3000
         with:
-          start: bundle exec nanoc && bundle exec nanoc view --port 3000
+          start: npm start
           wait-on: "http://localhost:3000"
           # parallel: true
           # record: true
