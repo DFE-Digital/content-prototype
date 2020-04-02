@@ -1,5 +1,7 @@
 ---
 title: Teaching during coronavirus (COVID-19)
+update_warning: true
+safety_warning: true
 ---
 
 ## A guide for teachers and leaders
