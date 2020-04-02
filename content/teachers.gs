@@ -18,13 +18,13 @@ Have realistic expectations for teaching during the pandemic and maintain close 
 
 ---
 
-### [Preparing to teach during the coronavirus outbreak](/teachers/remote-teaching-during-coronavirus/)
+### [Preparing to teach during the coronavirus outbreak](/teachers/preparing-to-teach-during-the-coronavirus-outbreak/)
 
 Develop a plan for communicating with parents and pupils and assess the impact of home environments on remote teaching.
 
 ---
 
-### [Teaching during the coronavirus outbreak](/teachers/teaching-approaches-during-coronavirus/)
+### [Teaching during the coronavirus outbreak](/teachers/teaching-during-the-coronavirus-outbreak/)
 
 Tailor an approach to remote teaching that works with all pupils, whatever their age group and whether they have digital access or not.
 
