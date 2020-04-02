@@ -5,6 +5,10 @@ describe("Homepage", () => {
   });
 
   it("Shows the initial pages", () => {
-    cy.get(".govuk-grid-column-two-thirds").should("exist");
+    cy.get(".govuk-grid-column-two-thirds")
+      .should("exist")
+      .should((el) => {
+        expect(el.find("a")).to.have.class("govuk-link");
+      });
   });
 });

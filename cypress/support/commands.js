@@ -25,10 +25,11 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
-  cy.get(".govuk-header__content").should(
-    "contain.text",
-    "Learning during coronavirus"
-  );
+  cy.get(".govuk-header__content")
+    .should("contain.text", "Learning during coronavirus")
+    .should((el) => {
+      expect(el.find("a")).to.not.have.class("govuk-link");
+    });
   cy.get(".govuk-footer").should(
     "contain.text",
     "All content is available under the Open Government Licence v3.0, except where otherwise stated"
