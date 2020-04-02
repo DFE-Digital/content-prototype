@@ -1,6 +1,7 @@
 ---
 title: Scheduling the school day during the coronavirus outbreak
 safety_warning: true
+show_teacher_contents: true
 ---
 
 Teaching remotely won't allow you to follow the same schedule you used in the classroom. You should have a flexible schedule. This will take into account pupils who are sharing digital devices or have no internet connection, as well as teachers who have caring duties or might fall sick.

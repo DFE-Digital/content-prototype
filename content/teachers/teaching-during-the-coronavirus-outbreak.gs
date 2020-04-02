@@ -1,6 +1,7 @@
 ---
 title: Teaching during the coronavirus outbreak
 safety_warning: true
+show_teacher_contents: true
 ---
 
 To get the most out of the time your pupils spend studying, your school will be working to develop a teaching approach that can work remotely. These suggested strategies draw on what's worked for teachers in other schools.

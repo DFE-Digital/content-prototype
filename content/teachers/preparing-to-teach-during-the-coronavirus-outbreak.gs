@@ -1,6 +1,7 @@
 ---
 title: Preparing to teach during the coronavirus outbreak
 safety_warning: true
+show_teacher_contents: true
 ---
 
 ## Assess pupils' education environments

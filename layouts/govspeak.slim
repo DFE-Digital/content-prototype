@@ -23,4 +23,8 @@ html.govuk-template lang='en'
 
             main.gem-c-govspeak
               == yield
+
+          .govuk-grid-column-one-third
+            - if item[:show_teacher_contents]
+              == render '/partials/teacher_contents.*'
     == render '/partials/footer.*'

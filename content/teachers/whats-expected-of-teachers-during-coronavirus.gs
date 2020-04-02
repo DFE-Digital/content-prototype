@@ -1,6 +1,7 @@
 ---
 title: What’s expected of teachers and leaders during the coronavirus outbreak
 safety_warning: true
+show_teacher_contents: true
 ---
 
 The coronavirus outbreak has created extraordinarily challenging circumstances for everyone in society. Teachers and leaders are facing challenges around planning pupils' education and remote teaching. Teachers and parents might not be sure where to turn for help while adjusting.
