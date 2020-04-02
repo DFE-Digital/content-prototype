@@ -15,6 +15,16 @@ html.govuk-template lang='en'
             h1.govuk-heading-xl = item[:title]
         .govuk-grid-row
           .govuk-grid-column-two-thirds
+            - if item[:update_warning]
+              == render '/partials/update_warning.*'
+
+            - if item[:safety_warning]
+              == render '/partials/safety_warning.*'
+
             main.gem-c-govspeak
               == yield
+
+          .govuk-grid-column-one-third
+            - if item[:show_teacher_contents]
+              == render '/partials/teacher_contents.*'
     == render '/partials/footer.*'
