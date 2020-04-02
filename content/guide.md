@@ -66,7 +66,7 @@ Congratulations, it's built. Now we can view it.
 
     $ bundle exec nanoc view
 
-Now navigaate to http://localhost:3000 in a web browser. If you can see a GOV.UK website, congratulations!
+Now navigate to http://localhost:3000 in a web browser. If you can see a GOV.UK website, congratulations!
 
 If it didn't work, we're happy to help!
 
@@ -81,6 +81,5 @@ The URL will match your file name and directory structure. `hello.gs` will be vi
 The main site index is located in `content/index.slim`, you can copy and paste one of the existing links and customise to link to your new page.
 
 To run the site in _live_ mode, where every change is automatically shown instantly in the browser, run
-
 
     $ bundle exec nanoc live
