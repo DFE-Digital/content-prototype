@@ -72,7 +72,7 @@ School closures can lead to uncertainty, stress and isolation. Consider developi
 * parents can communicate with you and each other
 * you can communicate with your colleagues
 
-## Supporting SEND pupils and vulnerable or disadvantaged children
+## Support SEND pupils and vulnerable or disadvantaged children
 
 Consider more regular and direct contact with disadvantaged and vulnerable pupils and their parents. This is likely to include:
 

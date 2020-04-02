@@ -1,6 +1,5 @@
 ---
 title: "Supporting your children's learning during coronavirus (COVID-19)"
-update_warning: true
 ---
 
 Many UK children are not currently attending school due to measures put in place to prevent the spread of Coronavirus. Information, guidance and support is available for parents and carers of children who are learning at home.
