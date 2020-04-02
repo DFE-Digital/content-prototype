@@ -76,4 +76,7 @@ The URL will match your file name and directory structure. `hello.gs` will be vi
 
 The main site index is located in `content/index.slim`, you can copy and paste one of the existing links and customise to link to your new page.
 
-You need to rebuild the site after every change.
+To run the site in _live_ mode, where every change is automatically shown instantly in the browser, run
+
+
+    $ bundle exec nanoc live
