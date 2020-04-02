@@ -1,7 +1,5 @@
 ---
 title: Teaching during coronavirus (COVID-19)
-update_warning: true
-safety_warning: true
 ---
 
 ## A guide for teachers and leaders
@@ -10,7 +8,7 @@ To help protect our communities from coronavirus, the government has temporarily
 
 This collection of guidance and resources is for teachers, school leaders, parents and carers to support learning from home.
 
----
+@This page will be updated regularly to include further resources and reflect the latest information and developments.@
 
 ### [What's expected of teachers during the coronavirus outbreak](/teachers/whats-expected-of-teachers-during-coronavirus/)
 
