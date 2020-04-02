@@ -16,11 +16,15 @@ If at any point something doesn't make sense or doesn't work, please request ass
 
 ## Clone the repo and bundle the requirements
 
-The repository is currenty set to **private**. Users belonging to the DfE organisation on GitHub should have access already.
+The repository is currenty set to **private**. Users belonging to the DfE organisation on GitHub should have access already. You can find it at https://github.com/DFE-Digital/content-prototype
 
-    $ git clone git@github.com:DFE-Digital/content-prototype.git
+Now click 'Fork' to create your own version of the repo. Name your fork after the team or workstream that you're on. Ensure it's set to private.
 
-Now we can install the required packages.
+![github fork button](/guide/fork-button.png)
+
+    $ git clone git@github.com:DFE-Digital/[your-fork-name].git
+
+Change to the newly-forked repo's directory and we can install the required packages.
 
     $ bundle install
 
