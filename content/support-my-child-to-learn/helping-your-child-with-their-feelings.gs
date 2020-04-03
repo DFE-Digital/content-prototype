@@ -1,6 +1,9 @@
 ---
 title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 breadcrumb: 'Helping your child with their feelings'
+previous:
+  path: '/support-my-child-to-learn/socialising-and-spending-time-with-others/'
+  text: 'Socialising and spending time with others'
 ---
 
 * [Overview](/support-my-child-to-learn/)
