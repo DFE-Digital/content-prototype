@@ -1,8 +1,10 @@
 ---
-title: 'Sample title'
+title: Sample title
 ---
 
 # This is a GovSpeak sample
+
+$Esomething$E
 
 ^This is an information callout^
 
