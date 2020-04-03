@@ -2,7 +2,7 @@
 
 CMS.registerEditorComponent({
   id: "highlight-statistic-headline",
-  lable: "Highlight Statisic Headline",
+  label: "Highlight Statisic Headline",
   fields: [{ name: "body", label: "Content", widget: "string" }],
   pattern: /^{stat-headline}\n?(.*)\n?{\/stat-headline}$/,
   fromBlock: function (match) {
