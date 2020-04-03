@@ -26,7 +26,7 @@ If you do not know other children who can talk online, try a call with other peo
 
 Sit and do the call with them to help. Do not worry if this does not work. Not all children will like it, try again another time or have the calls with family members while you are sitting down and eating a meal.
 
-Read our advice on [screen time](link to screen time section).
+Read our advice on [screen time](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home#screen-time).
 
 ###Social media
 
