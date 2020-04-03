@@ -2,7 +2,7 @@
 title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 pagination:
   next:
-    path: '/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home#the-best-ways-to-help-your-child-learn-at-home'
+    path: '/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
     text: 'The best ways to help your child learn at home'
 ---
 
