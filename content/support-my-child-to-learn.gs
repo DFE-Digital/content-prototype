@@ -4,8 +4,8 @@ title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 
 * Overview
 * [The best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
-* [Socialising and spending time with others](#ok)
-* [Helping your child with their feelings](#ok)
+* [Socialising and spending time with others](/support-my-child-to-learn/socialising-and-spending-time-with-others/)
+* [Helping your child with their feelings](/support-my-child-to-learn/helping-your-child-with-their-feelings/)
 
 ---
 

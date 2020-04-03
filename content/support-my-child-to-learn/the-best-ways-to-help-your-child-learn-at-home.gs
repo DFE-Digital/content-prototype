@@ -5,8 +5,8 @@ breadcrumb: 'The best ways to help your child learn at home'
 
 * [Overview](/support-my-child-to-learn/)
 * The best ways to help your child learn at home
-* [Socialising and spending time with others](#ok)
-* [Helping your child with their feelings](#ok)
+* [Socialising and spending time with others](/support-my-child-to-learn/socialising-and-spending-time-with-others/)
+* [Helping your child with their feelings](/support-my-child-to-learn/helping-your-child-with-their-feelings/)
 
 ---
 
