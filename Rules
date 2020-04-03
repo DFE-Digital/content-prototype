@@ -20,6 +20,13 @@ compile '/**/*.gs' do
   write item.identifier.without_ext + '/index.html'
 end
 
+ignore '/css/**/*.md'
+compile '/**/*.md' do
+  filter :kramdown
+  layout '/govspeak.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 %w(woff woff2).each do |ext|
   compile("/**/*.#{ext}") do
     write '/assets/fonts/' + File.basename(item.identifier.to_s)
