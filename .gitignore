@@ -6,3 +6,4 @@ output/*
 cypress/videos
 cypress/screenshots
 Staticfile.auth
+.byebug_history

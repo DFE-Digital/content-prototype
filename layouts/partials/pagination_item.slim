@@ -3,12 +3,17 @@ li.gem-c-pagination__item.gem-c-pagination__item--next
 
     span.gem-c-pagination__link-title
 
-      == arrow_svg
+      - if is_next
+        == right_arrow_svg
+        span.gem-c-pagination__link-text Next
 
-      span.gem-c-pagination__link-text Next
+      - else
+        == left_arrow_svg
+        span.gem-c-pagination__link-text Previous
+
 
     - if text
       span.gem-c-pagination__link-divider.visually-hidden
         | :
       span.gem-c-pagination__link-label
-        = text
+        == text
