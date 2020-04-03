@@ -2,7 +2,7 @@
 
 CMS.registerEditorComponent({
   id: "highlight-answer",
-  lable: "Highlight Answer",
+  label: "Highlight Answer",
   fields: [{ name: "body", label: "Content", widget: "markdown" }],
   pattern: /^{::highlight-answer}\n?(.*)\n?{:\/highlight-answer}$/,
   fromBlock: function (match) {
