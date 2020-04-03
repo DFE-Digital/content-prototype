@@ -47,7 +47,7 @@ Children should be active for at least 3 hours a day. There are plenty of things
 * making an obstacle course
 * playing music and having a dance-off
 
-It will do children good to get some fresh air every day. If you do not have a garden and are taking them away from home, to a park for instance, make sure you follow all the [rules on social distancing](https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others)
+It will do children good to get some fresh air every day. If you do not have a garden and are taking them away from home, to a park for instance, make sure you follow all the [rules on social distancing](https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others).
 
 ###Screen time
 

@@ -17,7 +17,7 @@ You may be concerned about their development or finding the best things to do wi
 
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
-While children can gain a lot from nursery, research shows that the things parents do at home with help their development more. There are lots of simple, everyday things you can do at home to help their learning and development
+While children can gain a lot from nursery, research shows that the things parents do at home help their development more. There are lots of simple, everyday things you can do at home to help their learning and development.
 
 See [the best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/).
 
