@@ -4,6 +4,10 @@ title: 'Sample title'
 
 # This is a GovSpeak sample
 
+^This is an information callout^
+
+%This is a warning callout%
+
 $E
 **Example**: Open the pod bay doors
 $E
