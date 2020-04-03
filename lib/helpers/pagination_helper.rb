@@ -1,5 +1,5 @@
 module Helpers
-  module SvgHelper
+  module PaginationHelper
     def left_arrow_svg
       <<~HTML
       <svg class="gem-c-pagination__link-icon" height="13" width="17" viewBox="0 0 17 13">
