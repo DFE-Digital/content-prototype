@@ -1,0 +1,14 @@
+li.gem-c-pagination__item.gem-c-pagination__item--next
+  a.gem-c-pagination__link href="#{path}"
+
+    span.gem-c-pagination__link-title
+
+      == arrow_svg
+
+      span.gem-c-pagination__link-text Next
+
+    - if text
+      span.gem-c-pagination__link-divider.visually-hidden
+        | :
+      span.gem-c-pagination__link-label
+        = text
