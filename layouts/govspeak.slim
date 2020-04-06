@@ -21,6 +21,9 @@ html.govuk-template lang='en'
             main.gem-c-govspeak
               == yield
 
+            - if item[:pagination]
+              == render '/partials/pagination.*', pagination: item[:pagination]
+
           .govuk-grid-column-one-third
             - if item[:show_teacher_contents]
               == render '/partials/teacher_contents.*'

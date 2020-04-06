@@ -1,0 +1,7 @@
+nav.gem-c-pagination
+  ul.gem-c-pagination__list
+    - if previous_page = pagination[:previous]
+      == render '/partials/pagination_item.*', is_next: false, path: previous_page.fetch(:path), text: previous_page.fetch(:text)
+
+    - if next_page = pagination[:next]
+      == render '/partials/pagination_item.*', is_next: true, path: next_page.fetch(:path), text: next_page.fetch(:text)
