@@ -2,6 +2,13 @@
 title: Teaching during the coronavirus outbreak
 safety_warning: true
 show_teacher_contents: true
+pagination:
+  previous:
+    path: /teachers/preparing-to-teach-during-the-coronavirus-outbreak/
+    text: Preparing to teach during the coronavirus outbreak
+  next:
+    path: /teachers/scheduling-the-school-day-during-coronavirus/
+    text: Scheduling the school day during the coronavirus outbreak
 ---
 
 To get the most out of the time your pupils spend studying, your school will be working to develop a teaching approach that can work remotely. These suggested strategies draw on what's worked for teachers in other schools.

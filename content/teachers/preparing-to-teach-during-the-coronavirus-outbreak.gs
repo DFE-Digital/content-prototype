@@ -2,6 +2,13 @@
 title: Preparing to teach during the coronavirus outbreak
 safety_warning: true
 show_teacher_contents: true
+pagination:
+  previous:
+    path: /teachers/whats-expected-of-teachers-during-coronavirus/
+    text: "What's expected of teachers during the coronavirus outbreak"
+  next:
+    path: /teachers/teaching-during-the-coronavirus-outbreak/
+    text: Teaching during the coronavirus outbreak
 ---
 
 ## Assess pupils' education environments
