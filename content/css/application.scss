@@ -18,7 +18,9 @@ $info-bg: #edf8ff;
   margin-left: 0;
   margin-bottom: 2rem;
   list-style: none;
-  &.ul, ul {
+
+  &ul,
+  ul {
     list-style: none;
   }
 
