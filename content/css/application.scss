@@ -15,9 +15,12 @@ $info-bg: #edf8ff;
 
 // kramdown table of contents
 #markdown-toc {
-  list-style: none;
   margin-left: 0;
   margin-bottom: 2rem;
+  list-style: none;
+  &.ul, ul {
+    list-style: none;
+  }
 
   li {
     &::before {
