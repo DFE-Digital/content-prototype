@@ -31,3 +31,5 @@ collections:
 backend:
   name: github
   repo: DFE-Digital/content-prototype
+  site_domain: remote-learning-prototype.london.cloudapps.digital
+
