@@ -60,7 +60,7 @@ of how it will be rendered on the page.
 
 Clicking 'Save' will open a GitHub pull request containing all of your changes. This allows other
 people in the team to see and review your changes. Actual previews of the site will be automatically
-createf for every pull request.
+created for every pull request.
 
 To edit a page simply click it in the collection list. The editor page will open and it works
 similarly to the 'new' page.
