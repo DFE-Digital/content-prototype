@@ -29,7 +29,7 @@ collections:
         name: body
         widget: markdown
 backend:
-  name: github
+  name: git-gateway
   repo: DFE-Digital/content-prototype
   site_domain: remote-learning-prototype.london.cloudapps.digital
 
