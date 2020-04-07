@@ -32,7 +32,7 @@ We’re working to make communication between schools, parents and students acce
 
 ### Resources
 
-The department has created a list of free, online educational resources that teachers can consider using to support children to learn at home. These websites have been identified by educational experts and offer support and resources for all key stages. 
+The department has created a list of free, [online educational resources](#) that teachers can consider using to support children to learn at home. These websites have been identified by educational experts and offer support and resources for all key stages. 
 
 This resource list currently prioritises core subjects, so teachers will be able to find online resources for English, maths and science that could support the remote education of years 10 and 12.  
 
