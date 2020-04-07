@@ -32,10 +32,15 @@ We’re working to make communication between schools, parents and students acce
 
 ### Resources
 
-The department has created a list of free, [online educational resources](#) that teachers can consider using to support children to learn at home. These websites have been identified by educational experts and offer support and resources for all key stages. 
 
-This resource list currently prioritises core subjects, so teachers will be able to find online resources for English, maths and science that could support the remote education of years 10 and 12.  
-
+The department has created a list of free, [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources) that teachers can consider using to support students to learn at home. These websites have been identified by educational experts and offer support and resources for all key stages. 
+ 
+This resource list currently prioritises core subjects, with a range of online resources that could be suitable for years 10 and 12 in:
+ 
+* [English](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education#english-secondary)
+* [Maths](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education#maths-secondary)
+* [Science](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education#science-secondary)
+ 
 The list will be reviewed and updated regularly to include more resources. 
 
 
