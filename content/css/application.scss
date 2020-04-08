@@ -50,3 +50,24 @@ $info-bg: #edf8ff;
 code {
   background-color: #fff5f5;
 }
+
+.approach-heading {
+  margin: 3rem 0 0;
+}
+
+.approach {
+  padding: 2rem 0rem 2rem;
+
+  &:first-of-type {
+    border-top: 1px solid govuk-colour("mid-grey");
+  }
+
+  &:not(:last-child) {
+    border-bottom: 1px solid govuk-colour("mid-grey");
+  }
+
+  .pros-and-cons {
+    background: govuk-colour("light-grey");
+    border-top: solid 5px govuk-colour("blue");
+  }
+}
