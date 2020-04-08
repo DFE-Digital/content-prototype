@@ -9,11 +9,11 @@ RUN curl -sL https://deb.nodesource.com/setup_12.x | bash - && \
 
 RUN mkdir /app
 WORKDIR /app
-ENV BUNDLE_PATH /gems
 
 COPY package.json /app/
 RUN npm install
 
+ENV BUNDLE_PATH /gems
 COPY Gemfile* /app/
 RUN bundle
 
@@ -23,11 +23,10 @@ RUN bundle exec nanoc compile
 FROM nginx:stable
 # Install htpasswd command
 RUN apt-get update -yqq && apt-get install -yqq apache2-utils
+ENV PORT=80
 
-COPY default.conf.template /etc/nginx/conf.d/default.conf.template
-COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /app/output/ /usr/share/nginx/html/
-COPY http_basic_auth.sh http_basic_auth.sh
 
-ENTRYPOINT ["./http_basic_auth.sh"]
-CMD /bin/bash -c "envsubst '\$PORT' < /etc/nginx/conf.d/default.conf.template > /etc/nginx/conf.d/default.conf" && nginx -g 'daemon off;'
+COPY docker-run.sh /
+
+CMD "./docker-run.sh"

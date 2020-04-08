@@ -8,9 +8,12 @@ if [ $BASIC_AUTH_USERNAME ] && [ $BASIC_AUTH_PASSWORD ]; then
   sed -i 's/location \/ {/location \/ {\
     auth_basic "Restricted";\
     auth_basic_user_file \/etc\/nginx\/.htpasswd;\
-/' /etc/nginx/conf.d/default.conf.template
+/' /etc/nginx/conf.d/default.conf
 
   htpasswd -bc /etc/nginx/.htpasswd $BASIC_AUTH_USERNAME $BASIC_AUTH_PASSWORD
 fi
 
-exec "$@"
+# Update default.conf to listen on Heroku's dynamic port
+sed -i "s/listen       80;/listen $PORT;/" /etc/nginx/conf.d/default.conf
+
+exec nginx -g 'daemon off;'
