@@ -71,3 +71,54 @@ code {
     border-top: solid 5px govuk-colour("blue");
   }
 }
+
+.masthead {
+  background-color: govuk-colour('black');
+
+  .govuk-header__container {
+    border-bottom: 0;
+    margin-bottom: 0;
+    .govuk-header {
+      margin-bottom: 0;
+      border-bottom: 0;
+    }
+
+  }
+
+  .masthead__content {
+    border-top: 10px solid govuk-colour('yellow');
+
+    .masthead__header > h1 {
+      color: govuk-colour('white');
+      margin: 2rem 0;
+    }
+  }
+
+  $submasthead-bg: #272828;
+
+  .submasthead {
+    background-color: $submasthead-bg;
+
+    * {
+      color: govuk-colour('white');
+    }
+
+    .submasthead__top_row {
+      border-bottom: 4px solid govuk-colour('yellow');
+    }
+
+    .submasthead__links-header {
+      margin: 2rem 0 0.5rem;
+    }
+
+    .submasthead__link {
+      margin: 0.5rem 0 2rem;
+      @include govuk-font($size: 19);
+    }
+
+    .submasthead__content {
+      margin: 2rem 0;
+    }
+
+  }
+}
