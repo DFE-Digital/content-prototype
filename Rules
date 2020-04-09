@@ -4,7 +4,7 @@ require 'pry'
 
 compile '/index.slim' do
   filter :slim
-  layout '/default.*'
+  layout '/coronavirus.*'
   write '/index.html'
 end
 
