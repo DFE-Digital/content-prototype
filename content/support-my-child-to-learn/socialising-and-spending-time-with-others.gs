@@ -2,9 +2,6 @@
 title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 breadcrumb: 'Socialising and spending time with others'
 pagination:
-  next:
-    path: '/support-my-child-to-learn/helping-your-child-with-their-feelings/index.html#helping-your-child-with-their-feelings'
-    text: 'Helping your child with their feelings'
   previous:
     path: '/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
     text: 'The best ways to help your child learn at home'
@@ -13,13 +10,12 @@ pagination:
 * [Overview](/support-my-child-to-learn/)
 * [The best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
 * Socialising and spending time with others
-* [Helping your child with their feelings](/support-my-child-to-learn/helping-your-child-with-their-feelings/)
 
 ---
 
 ##Socialising and spending time with others
 
-Spending time with other children is important for your child’s development. But at this time it is **more** important for children to stay at home unless you are a critical worker.
+Spending time with other children is important for your child’s development. But at this time it is **more** important for children to stay at home, unless they’re a child specifically allowed to go to nursery or childcare.
 
 It will help them if everyone in the home talks with them through the day, responding to them and being led by the things they are interested in.
 
@@ -33,11 +29,9 @@ If you do not know other children who can talk online, try a call with other peo
 
 Sit and do the call with them to help. Do not worry if this does not work. Not all children will like it, try again another time or have the calls with family members while you are sitting down and eating a meal.
 
-Read our advice on [screen time](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#screen-time).
-
 ###Social media
 
-Share things your child makes on social media and encourage friends and family to do the same. Your child might enjoy seeing things they have made online or seeing what other children have done.
+Share things your child makes with your friends and family online and encourage them to do the same. Your child might enjoy seeing things they have made on the screen or seeing what other children have done.
 
 ###Photos
 
