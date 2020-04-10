@@ -2,13 +2,13 @@
 title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 pagination:
   next:
-    path: '/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
+    path: '/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
     text: 'The best ways to help your child learn at home'
 ---
 
 * Overview
-* [The best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
-* [Socialising and spending time with others](/support-my-child-to-learn/socialising-and-spending-time-with-others/)
+* [The best ways to help your child learn at home](/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
+* [Socialising and spending time with others](/parents/support-my-child-to-learn/socialising-and-spending-time-with-others/)
 
 ---
 
@@ -24,7 +24,7 @@ No one expects parents to act as teachers or childcare providers. Or to be able 
 
 While children can gain a lot from nursery, research shows that the things parents do at home helps their development more. There are lots of simple, everyday things you can do at home to help their learning and development
 
-See [the best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home).
+See [the best ways to help your child learn at home](/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home).
 
 It’s also important to take care of yourself, see our [advice on mental health and wellbeing](https://www.gov.uk/government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing).
 

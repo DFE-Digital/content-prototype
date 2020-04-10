@@ -3,12 +3,12 @@ title: 'Help 2 to 4 year olds learn at home during coronavirus (COVID-19)'
 breadcrumb: 'Socialising and spending time with others'
 pagination:
   previous:
-    path: '/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
+    path: '/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
     text: 'The best ways to help your child learn at home'
 ---
 
-* [Overview](/support-my-child-to-learn/)
-* [The best ways to help your child learn at home](/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
+* [Overview](/parents/support-my-child-to-learn/)
+* [The best ways to help your child learn at home](/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
 * Socialising and spending time with others
 
 ---
