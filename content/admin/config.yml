@@ -28,6 +28,19 @@ collections:
       - label: Body
         name: body
         widget: markdown
+  - name: remote-teaching
+    label: /remote-teaching
+    folder: content/remote-teaching
+    extension: gs
+    format: yaml-frontmatter
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
 backend:
   name: github
   repo: DFE-Digital/content-prototype
