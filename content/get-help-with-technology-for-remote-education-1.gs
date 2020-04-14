@@ -27,4 +27,4 @@ $E
 CTA to support and training when it exists
 $E
 
-<Link to press release>
+Link to press release
