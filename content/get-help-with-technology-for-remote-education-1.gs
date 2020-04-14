@@ -5,7 +5,7 @@ Schools and colleges will soon be able to get access to remote teaching and lear
 
 The Department for Education is working in partnership with technology suppliers such as Google and Microsoft to provide:
 
-* remote learning environments
+* remote learning environments for schools
 * digital devices – such as laptops – for learners who don’t have one
 * internet access for learners who don’t already have it
 * training on using remote learning resources from the technology suppliers
