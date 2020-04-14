@@ -8,16 +8,20 @@ pagination:
   next:
     text: 'Children with special educational needs and disabilities (SEND)'
     path: '/parents/help-primary-school-chidren-learn-at-home/children-with-special-educational-needs-and-disabilities/index.html#children-with-special-educational-needs-and-disabilities-send'
----
-
-* [Overview](/parents/help-primary-school-chidren-learn-at-home/index.html)
-* [Reception, year 1 and year 2 children](/parents/help-primary-school-chidren-learn-at-home/reception-year-1-and-year2-children/index.html)
-* Year 3 to 6 children
-* [Children with special educational needs and disabilities (SEND)](/parents/help-primary-school-chidren-learn-at-home/children-with-special-educational-needs-and-disabilities/index.html)
-* [Structuring the day](/parents/help-primary-school-chidren-learn-at-home/structuring-the-day/index.html)
-* [Reading together](/parents/help-primary-school-chidren-learn-at-home/reading-together/index.html)
-* [Using digital devices](/parents/help-primary-school-chidren-learn-at-home/using-digital-devices/index.html)
-
+jumplinks:
+  - text: Overview
+    path: /parents/help-primary-school-chidren-learn-at-home/index.html
+  - text: Reception, year 1 and year 2 children
+    path: /parents/help-primary-school-chidren-learn-at-home/reception-year-1-and-year2-children/index.html
+  - text: Year 3 to 6 children
+  - text: Children with special educational needs and disabilities (SEND)
+    path: /parents/help-primary-school-chidren-learn-at-home/children-with-special-educational-needs-and-disabilities/index.html
+  - text: Structuring the day
+    path: /parents/help-primary-school-chidren-learn-at-home/structuring-the-day/index.html
+  - text: Reading together
+    path: /parents/help-primary-school-chidren-learn-at-home/reading-together/index.html
+  - text: Using digital devices
+    path: /parents/help-primary-school-chidren-learn-at-home/using-digital-devices/index.html
 ---
 
 ##Year 3 to 6 children

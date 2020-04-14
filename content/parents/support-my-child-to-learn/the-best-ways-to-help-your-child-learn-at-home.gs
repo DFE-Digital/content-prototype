@@ -8,12 +8,12 @@ pagination:
   previous:
     path: '/parents/support-my-child-to-learn/index.html#overview'
     text: 'Overview'
----
-
-* [Overview](/parents/support-my-child-to-learn/)
-* The best ways to help your child learn at home
-* [Socialising and spending time with others](/parents/support-my-child-to-learn/socialising-and-spending-time-with-others/)
-
+jumplinks:
+  - text: Overview
+    path: /parents/support-my-child-to-learn/
+  - text: The best ways to help your child learn at home
+  - text: Socialising and spending time with others
+    path: /parents/support-my-child-to-learn/socialising-and-spending-time-with-others/
 ---
 
 ##The best ways to help your child learn at home

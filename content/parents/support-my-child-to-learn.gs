@@ -4,12 +4,12 @@ pagination:
   next:
     path: '/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/index.html#the-best-ways-to-help-your-child-learn-at-home'
     text: 'The best ways to help your child learn at home'
----
-
-* Overview
-* [The best ways to help your child learn at home](/parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/)
-* [Socialising and spending time with others](/parents/support-my-child-to-learn/socialising-and-spending-time-with-others/)
-
+jumplinks:
+  - text: Overview
+  - text: The best ways to help your child learn at home
+    path: /parents/support-my-child-to-learn/the-best-ways-to-help-your-child-learn-at-home/
+  - text: Socialising and spending time with others
+    path: /parents/support-my-child-to-learn/socialising-and-spending-time-with-others/
 ---
 
 ##Overview

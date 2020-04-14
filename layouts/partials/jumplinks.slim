@@ -1,0 +1,11 @@
+nav.gem-c-contents-list.gem-c-contents-list--no-underline
+  h2.gem-c-contents-list__title Contents
+  ol.gem-c-contents-list__list
+    - jumplinks.each do |jumplink|
+      li.gem-c-contents-list__list-item.gem-c-contents-list__list-item--dashed
+        - if jumplink[:path]
+          == link_to jumplink[:text], jumplink[:path], class: 'gem-c-contents-list__link govuk-link'
+        - else
+          == jumplink[:text]
+.gem-c-govspeak
+  hr

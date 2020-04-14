@@ -18,6 +18,8 @@ html.govuk-template lang='en'
             - if item[:safety_warning]
               == render '/partials/safety_warning.*'
 
+            - if item[:jumplinks]
+              == render '/partials/jumplinks.*', jumplinks: item[:jumplinks]
             main.gem-c-govspeak
               == yield
 
