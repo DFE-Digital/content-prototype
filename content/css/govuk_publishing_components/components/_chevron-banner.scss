@@ -49,7 +49,7 @@ $yellow: #ffdd00;
   }
 
   .gem-c-chevron-banner__text:after {
-    background-image: image-url("govuk_publishing_components/chevron-banner/chevron-banner-small-focus.svg");
+    background-image: url("govuk_publishing_components/chevron-banner/chevron-banner-small-focus.svg");
   }
 
   .gem-c-chevron-banner__chevron-point,
@@ -83,7 +83,7 @@ $yellow: #ffdd00;
   top: 0;
   width: 25px;
   height: 100%;
-  background-image: image-url("govuk_publishing_components/chevron-banner/chevron-banner-small.svg");
+  background-image: url("govuk_publishing_components/chevron-banner/chevron-banner-small.svg");
   background-size: 25px 25px;
   background-repeat: no-repeat;
   background-position: center right;
