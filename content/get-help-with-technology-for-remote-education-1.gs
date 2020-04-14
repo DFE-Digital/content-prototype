@@ -1,11 +1,11 @@
 ---
 title: Get help with technology for remote education (draft)
 ---
- Schools will soon be able to get access to more remote teaching and learning resources during the school closure period. 
+Schools and colleges will soon be able to get access to remote teaching and learning resources during the school closure period. 
 
 The Department for Education is working in partnership with technology suppliers such as Google and Microsoft to provide:
 
-* remote learning environments
+* remote learning environments for schools
 * digital devices – such as laptops – for learners who don’t have one
 * internet access for learners who don’t already have it
 * training on using remote learning resources from the technology suppliers
@@ -19,14 +19,9 @@ We will prioritise vulnerable and disadvantaged learners. We’ll let you know m
 
 We’ll update this page with more information about what is included and how to apply.
 
-$E
-CTA to industry coalition when it exists
-$E
+[Find out more about the industry coalition]()
 
-$E
-CTA to support and training when it exists
-$E
 
-$E
-Link to press release
-$E
+[Find out more about support and training for teachers and learners]()
+
+[Link to press release]()
