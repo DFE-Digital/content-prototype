@@ -19,14 +19,9 @@ We will prioritise vulnerable and disadvantaged learners. We’ll let you know m
 
 We’ll update this page with more information about what is included and how to apply.
 
-$E
-CTA to industry coalition when it exists
-$E
+[Find out more about the industry coalition]()
 
-$E
-CTA to support and training when it exists
-$E
 
-$E
-Link to press release
-$E
+[Find out more about support and training for teachers and learners]()
+
+[Link to press release]()
