@@ -42,6 +42,11 @@ compile '/**/*.scss' do
   write item.identifier.without_ext + '.css'
 end
 
+compile '**/*.svg' do
+  write '/css/govuk_publishing_components/' + File.basename(item.identifier.to_s)
+  write '/css/component_guide/' + File.basename(item.identifier.to_s)
+end
+
 compile '/**/*' do
   write item.identifier.to_s
 end
