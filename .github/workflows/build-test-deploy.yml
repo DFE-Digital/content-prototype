@@ -138,7 +138,7 @@ jobs:
           path: ./output
       - name: Create Staticfile.auth
         run: |
-          echo "remote:$apr1$dcj56f7r$jJiPy3aUdhzSqIc7g6cs91" >> ./Staticfile.auth
+          echo "remote:{SHA}6p/7brSl8Wf2op4RQLORZdR3NP0=" >> ./Staticfile.auth
       - name: Publish site
         uses: citizen-of-planet-earth/cf-cli-action@v1
         with: 
