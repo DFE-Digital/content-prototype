@@ -41,6 +41,19 @@ collections:
       - label: Body
         name: body
         widget: markdown
+  - name: parents
+    label: /parents
+    folder: content/parents
+    extension: gs
+    format: yaml-frontmatter
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
 backend:
   name: github
   repo: DFE-Digital/content-prototype
