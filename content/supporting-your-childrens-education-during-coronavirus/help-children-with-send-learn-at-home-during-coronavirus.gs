@@ -1,5 +1,9 @@
 ---
 title: Help children with SEND learn at home during coronavirus (COVID-19)
+pagination:
+  previous:
+    path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus
+    text: Help primary school children learn at home during coronavirus (COVID-19)
 ---
 
 ## Advice for parents and carers looking after children with special educational needs and disabilities (SEND)
