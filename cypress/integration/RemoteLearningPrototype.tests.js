@@ -25,7 +25,7 @@ describe("Remote learning prototype - HomePage", () => {
 });
 describe("Remote learning prototype - Learning during coronavirus page", () => {
   beforeEach(() => {
-    cy.visit(Cypress.env("Url"), {
+    cy.visit("/", {
       auth: { username: "remote", password: "learning" },
     });
   });
