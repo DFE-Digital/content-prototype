@@ -1,5 +1,5 @@
 ---
-title: Remote learning: safeguarding during coronavirus (COVID-19)
+title: "Remote learning: safeguarding during coronavirus (COVID-19)"
 ---
 
 This guidance is to help schools and teachers to support pupils to continue learning at home during the coronavirus (COVID-19) outbreak. 
@@ -120,4 +120,3 @@ Schools and colleges should continue to follow GDPR when managing personal data 
 * taking care not to share contact details when emailing multiple people
 * sharing of usernames and other personal data for access to online resources
 * providing access to schools data systems safely
-
