@@ -1,5 +1,5 @@
 ---
-title: Get help with technology for remote education (draft)
+title: Get help with technology for remote education
 ---
 Schools and colleges will soon be able to get access to more remote teaching and learning resources during the school closure period. 
 
