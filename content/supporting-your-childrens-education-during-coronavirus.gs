@@ -12,8 +12,7 @@ No one expects parents to act as teachers, or to provide the activities and feed
 
 Get specific advice on learning at home for your children:
 
-
-* [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](#)
+* [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
 * [Help primary school children learn at home during coronavirus (COVID-19)](#)
 * [Help children with SEND learn at home during coronavirus (COVID-19)](#)
 
@@ -41,7 +40,7 @@ The situation is being reviewed regularly. By following the government’s advic
 
 ## Advice for children of different ages
 
-### [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](#)
+### [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
 
 Information in incorporating learning into everyday life and play.
 
