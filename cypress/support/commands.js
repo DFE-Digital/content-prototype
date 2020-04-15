@@ -27,12 +27,6 @@
 Cypress.Commands.add("shouldHaveHeading", () => {
   cy.get(".govuk-heading-xl").should("exist");
 });
-Cypress.Commands.add("shouldHaveFooter", () => {
-  cy.get(".govuk-footer").should(
-    "contain.text",
-    "All content is available under the Open Government Licence v3.0, except where otherwise stated"
-  );
-});
 Cypress.Commands.add("clockOnTeachingduringcoronaviruslink", () => {
   cy.get(".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link").click();
 });
