@@ -11,7 +11,8 @@ pagination:
     text: Scheduling the school day during the coronavirus outbreak
 ---
 
-This
+This guidance is to help schools and teachers support pupils to continue learning at home during the coronavirus (COVID-19) outbreak. 
+
 ## A guide for teachers and leaders
 
 To help protect communities from coronavirus, the UK government has temporarily closed schools and educational settings across the UK, except to the [children of critical workers and vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers), and the staff needed to look after them.
