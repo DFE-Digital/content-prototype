@@ -14,7 +14,7 @@ Get specific advice on learning at home for your children:
 
 * [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
 * [Help primary school children learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus)
-* [Help children with SEND learn at home during coronavirus (COVID-19)](#)
+* [Help children with SEND learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus)
 
 Parents of secondary school children should contact their school for guidance. Additional advice will be available for these parents soon.
 
