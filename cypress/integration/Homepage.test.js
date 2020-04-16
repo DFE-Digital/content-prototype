@@ -14,6 +14,12 @@ describe("Remote learning prototype - HomePage", () => {
       ".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link"
     ).should("exist");
   });
+});
+
+describe("Remote learning prototype - HomePage", () => {
+  beforeEach(() => {
+    cy.visit("/");
+  });
   it("Validate the system is navigating to next page if user clicks on Teaching during coronavirus (COVID-19) link", () => {
     cy.get(
       ".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link"
