@@ -5,7 +5,7 @@ pagination:
     path: /teachers/help-with-technology/
     text: Get help with technology for remote education
 ---
-This guidance is to help schools and teachers support pupils to continue education at home during the coronavirus (COVID-19) outbreak.It includes information about:
+This guidance is to help schools and teachers support pupils to continue education at home during the coronavirus (COVID-19) outbreak. It includes information about:
 
 * safeguarding pupils and teachers online
 * reporting concerns
@@ -26,18 +26,18 @@ Keeping teachers safe when providing remote education is also essential. Remote 
 
 Schools may wish to use these resources to understand more about ensuring online education is safe:
 
-* remote education advice from[ The Key for School Leaders](https://schoolleaders.thekeysupport.com/covid-19/safeguard-and-support-pupils/safeguarding-while-teaching/remote-teaching-safeguarding-pupils-and-staff/?marker=content-body)
-* advice from[ NSPCC](https://learning.nspcc.org.uk/news/2020/march/undertaking-remote-teaching-safely) on undertaking remote education safely
-* guidance from the[UK Safer Internet Centre](https://swgfl.org.uk/resources/safe-remote-learning/)on remote education
+* remote education advice from [The Key for School Leaders](https://schoolleaders.thekeysupport.com/covid-19/safeguard-and-support-pupils/safeguarding-while-teaching/remote-teaching-safeguarding-pupils-and-staff/?marker=content-body)
+* advice from [NSPCC](https://learning.nspcc.org.uk/news/2020/march/undertaking-remote-teaching-safely) on undertaking remote education safely
+* guidance from the [UK Safer Internet Centre](https://swgfl.org.uk/resources/safe-remote-learning/) on remote education
 
-The [Teaching online safety in schools](https://www.gov.uk/government/publications/teaching-online-safety-in-schools) guidance provides information to help schools ensure their pupils understand how to stay safe and behave online.
+Guidance on [teaching online safety in schools](https://www.gov.uk/government/publications/teaching-online-safety-in-schools) provides information to help schools ensure their pupils understand how to stay safe and behave online.
 
-School contact with parents and carers during this time can also be used to reinforce the importance of children being safe.
+School contact with parents and carers during this time can also be used to reinforce the importance of children staying safe online.
 
 It’s especially important for parents and carers to be aware of what their children are being asked to do, including:
 
 * sites they will be asked to use
-* school members their child will interact with
+* school staff their child will interact with
 
 Schools should emphasise the importance of a safe online environment and encourage parents and carers to consider internet filters to block malicious websites and age appropriate parental controls on digital devices. These are usually free, but often need to be turned on.
 
@@ -49,9 +49,8 @@ Use these resources to support parents and carers to keep their children safe on
 * [Internet matters](https://www.internetmatters.org/?gclid=EAIaIQobChMIktuA5LWK2wIVRYXVCh2afg2aEAAYASAAEgIJ5vD_BwE) provides age-specific online safety checklists, guides on how to set parental controls on a range of devices, and a host of practical tips to help children get the most out of their digital world
 * [London Grid for Learning](https://www.lgfl.net/online-safety/) has support for parents and carers to keep their children safe online, including 6 top tips to keep primary aged children safe online
 * [Net-aware](https://www.net-aware.org.uk/) has support for parents and carers from the NSPCC, including a guide to social networks, apps and games
-* [Let’s Talk About It](https://www.ltai.info/staying-safe-online/) has advice for parents and carers to keep children safe from online radicalisation
-
-[UK Safer Internet Centre](https://www.saferinternet.org.uk/advice-centre/parents-and-carers) has tips, advice, guides and other resources to help keep children safe online, including parental controls offered by home internet providers and safety tools on social networks and other online services.
+* [Let’s Talk About It](https://www.ltai.info/staying-safe-online/) has advice for parents and carers to keep children safe from online radicalisation[](https://www.saferinternet.org.uk/advice-centre/parents-and-carers)[](https://www.saferinternet.org.uk/advice-centre/parents-and-carers)[](https://www.saferinternet.org.uk/advice-centre/parents-and-carers)[](https://www.saferinternet.org.uk/advice-centre/parents-and-carers)[](https://www.saferinternet.org.uk/advice-centre/parents-and-carers)
+* [UK Safer Internet Centre](https://www.saferinternet.org.uk/advice-centre/parents-and-carers) has tips, advice, guides and other resources to help keep children safe online, including parental controls offered by home internet providers and safety tools on social networks and other online services.
 
 ## Reporting concerns
 
@@ -83,7 +82,7 @@ Schools can access the free [Professionals Online Safety Helpline](https://swgfl
 
 Although education is now having to take place remotely, it’s important for schools, teachers and pupils to maintain professional practice as much as possible. When communicating online with parents and pupils, schools should:
 
-* communicate within school hours as much as possible (or hours agreed with the school to suit teachers’ needs)
+* communicate within school hours as much as possible (or hours agreed with the school to suit the needs of staff)
 * communicate through the school channels approved by the senior leadership team
 * use school email accounts (not personal ones)
 * use school devices over personal devices wherever possible
@@ -109,8 +108,8 @@ This should be discussed and approved by the senior leadership team to assess an
 
 ## Personal data and GDPR
 
-Schools and colleges should continue to follow theguidance outlined in [Data protection: toolkit for schools](https://www.gov.uk/government/publications/data-protection-toolkit-for-schools) when managing personal data and may need to consider:
+Schools and colleges should continue to follow thev guidance outlined in the [data protection: toolkit for schools](https://www.gov.uk/government/publications/data-protection-toolkit-for-schools) when managing personal data and may need to consider:
 
 * taking care not to share contact details when emailing multiple people
-* sharing of usernames and other personal data for access to online resources
+* being careful when sharing usernames and other personal data for access to online resources
 * providing access to school data systems safely
