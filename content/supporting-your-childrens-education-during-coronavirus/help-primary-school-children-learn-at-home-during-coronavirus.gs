@@ -2,10 +2,10 @@
 title: Help primary school children learn at home during coronavirus (COVID-19)
 pagination:
   previous:
-    path: /supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus
+    path: /supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/
     text: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
   next:
-    path: /supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus
+    path: /supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/
     text: Help children with SEND learn at home during coronavirus (COVID-19)
 ---
 
