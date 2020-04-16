@@ -41,6 +41,19 @@ collections:
       - label: Body
         name: body
         widget: markdown
+  - name: supporting-your-childrens-education-during-coronavirus
+    label: /supporting-your-childrens-education-during-coronavirus
+    folder: content/supporting-your-childrens-education-during-coronavirus
+    extension: gs
+    format: yaml-frontmatter
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
 backend:
   name: github
   repo: DFE-Digital/content-prototype
