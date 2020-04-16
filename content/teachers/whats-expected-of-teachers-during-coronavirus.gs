@@ -1,7 +1,7 @@
 ---
 title: What’s expected of teachers and leaders during the coronavirus outbreak
 safety_warning: true
-show_teacher_contents: true
+show_teacher_contents: false
 pagination:
   next:
     path: /teachers/preparing-to-teach-during-the-coronavirus-outbreak/
