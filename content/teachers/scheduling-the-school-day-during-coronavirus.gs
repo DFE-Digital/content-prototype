@@ -1,7 +1,7 @@
 ---
 title: Scheduling the school day during the coronavirus outbreak
 safety_warning: true
-show_teacher_contents: true
+show_teacher_contents: false
 pagination:
   previous:
     path: /teachers/teaching-during-the-coronavirus-outbreak/

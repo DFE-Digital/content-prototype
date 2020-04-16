@@ -1,33 +1,24 @@
 ---
-title: Teaching during coronavirus (COVID-19)
+title: Remote teaching during coronavirus (COVID-19)
 ---
+%This page will be updated regularly to include further resources and reflect the latest information and developments.%
 
 ## A guide for teachers and leaders
 
-To help protect our communities from coronavirus, the government has temporarily closed schools and educational settings across the UK, except to [the children of critical workers and vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/), and to the staff needed to look after them.
+To help protect our communities from coronavirus ICOVID-19), schools and educational settings are closed, except to [the children of critical workers and vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/) and to the staff needed to look after them.
 
-This collection of guidance and resources is for teachers, school leaders, parents and carers to support learning from home.
+This guidance includes strategies and practices that teachers and leaders have found useful for supporting education in the home environment. It has been produced by the Department for Education with the education sector.
 
-@This page will be updated regularly to include further resources and reflect the latest information and developments.@
+You can also find [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) covering various subjects and age groups that have been recommended by teachers and school leaders.
 
-### [What's expected of teachers during the coronavirus outbreak](/teachers/whats-expected-of-teachers-during-coronavirus/)
+Your school might also consider using resources from Oak National Academy, which is a new, high-quality collection of lessons and online resources. It has been set up in response to school closures and is supported by the government. From Monday 20 April, it will offer video lessons by teachers for primary and secondary school children in a range of core curriculum subjects.
 
-Have realistic expectations for teaching during the pandemic and maintain close communication with school team.
+### [Safeguarding and remote teaching during coronavirus (COVID-19)](/teachers/safeguarding-and-remote-teaching-during-coronavirus-covid-19/)
 
----
+Understand how to follow safeguarding procedures when planning remote education strategies and teaching remotely
 
-### [Preparing to teach during the coronavirus outbreak](/teachers/preparing-to-teach-during-the-coronavirus-outbreak/)
+- - -
 
-Develop a plan for communicating with parents and pupils and assess the impact of home environments on remote teaching.
+### [Get help with technology for remote education](/teachers/help-with-technology/)
 
----
-
-### [Teaching during the coronavirus outbreak](/teachers/teaching-during-the-coronavirus-outbreak/)
-
-Tailor an approach to remote teaching that works with all pupils, whatever their age group and whether they have digital access or not.
-
----
-
-### [Scheduling the school day during the coronavirus outbreak](/teachers/scheduling-the-school-day-during-coronavirus/)
-
-Find the balance between structure and flexibility when setting up a remote teaching schedule.
+The Department for Education is working in partnership with an industry coalition to provide technology to support remote education

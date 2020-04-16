@@ -1,7 +1,7 @@
 ---
 title: Preparing to teach during the coronavirus outbreak
 safety_warning: true
-show_teacher_contents: true
+show_teacher_contents: false
 pagination:
   previous:
     path: /teachers/whats-expected-of-teachers-during-coronavirus/
