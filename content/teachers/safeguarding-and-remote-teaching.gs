@@ -4,11 +4,11 @@ safety_warning: false
 show_teacher_contents: true
 pagination:
   previous:
-    path: /teachers/preparing-to-teach-during-the-coronavirus-outbreak/
-    text: Preparing to teach during the coronavirus outbreak
+    path: /teachers/teaching-during-the-coronavirus-outbreak/
+    text: Teaching during coronavirus (COVID-19)
   next:
-    path: /teachers/scheduling-the-school-day-during-coronavirus/
-    text: Scheduling the school day during the coronavirus outbreak
+    path: /teachers/help-with-technology/
+    text: Get help with technology for remote education
 ---
 
 This guidance is to help schools and teachers support pupils to continue learning at home during the coronavirus (COVID-19) outbreak. 

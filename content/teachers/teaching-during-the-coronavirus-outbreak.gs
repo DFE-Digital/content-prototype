@@ -3,12 +3,9 @@ title: Teaching during coronavirus (COVID-19)
 safety_warning: false
 show_teacher_contents: true
 pagination:
-  previous:
-    path: /teachers/preparing-to-teach-during-the-coronavirus-outbreak/
-    text: Preparing to teach during the coronavirus outbreak
   next:
-    path: /teachers/scheduling-the-school-day-during-coronavirus/
-    text: Scheduling the school day during the coronavirus outbreak
+    path: /teachers/safeguarding-and-remote-teaching/
+    text: Safeguarding and remote teaching
 ---
 
 This page will be updated regularly to include further resources and reflect the latest information and developments.
