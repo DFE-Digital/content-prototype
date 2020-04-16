@@ -1,8 +1,8 @@
-describe("Remote learning prototype - HomePage", () => {
+describe("HomePage", () => {
   beforeEach(() => {
     cy.visit("/");
   });
-  it("Validate the user is able to launch remote learning prototype portal", () => {
+  it("Shows the initial pages", () => {
     cy.shouldHaveHeading();
     cy.get(".govuk-grid-column-two-thirds")
       .should("exist")
@@ -13,22 +13,20 @@ describe("Remote learning prototype - HomePage", () => {
     cy.get(
       ".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link"
     ).should("exist");
+    cy.get(".govuk-footer").should(
+      "contain.text",
+      "All content is available under the Open Government Licence v3.0, except where otherwise stated"
+    );
   });
 });
 
-describe("Remote learning prototype - HomePage", () => {
-  beforeEach(() => {
-    cy.visit("/");
-  });
-  it("Validate the system is navigating to next page if user clicks on Teaching during coronavirus (COVID-19) link", () => {
-    cy.get(
-      ".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link"
-    ).click();
-    cy.contains("Teaching during coronavirus (COVID-19)").should("exist");
-    cy.contains("Safeguarding and remote teaching").should("exist");
-    cy.contains("Get help with technology for remote education").should(
-      "exist"
-    );
-    cy.shouldHaveHeaderAndFooter();
+describe("Teaching during coronavirus (COVID-19) hyperlink", () => {
+  cy.visit("/");
+  it("Checks the Teaching during coronavirus (COVID-19) hyperlink works", () => {
+    cy.get(".govuk-grid-column-two-thirds .govuk-link")
+      .should("have.attr", "href")
+      .should("equal", "/teachers/")
+      .click();
+    cy.location("pathname").should("equal", "/teachers/");
   });
 });
