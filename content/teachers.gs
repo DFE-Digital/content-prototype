@@ -10,24 +10,22 @@ This collection of guidance and resources is for teachers, school leaders, paren
 
 @This page will be updated regularly to include further resources and reflect the latest information and developments.@
 
-### [What's expected of teachers during the coronavirus outbreak](/teachers/whats-expected-of-teachers-during-coronavirus/)
+### [Teaching during coronavirus (COVID-19)](/teachers/teaching-during-the-coronavirus-outbreak/)
 
-Have realistic expectations for teaching during the pandemic and maintain close communication with school team.
-
----
-
-### [Preparing to teach during the coronavirus outbreak](/teachers/preparing-to-teach-during-the-coronavirus-outbreak/)
-
-Develop a plan for communicating with parents and pupils and assess the impact of home environments on remote teaching.
+Teaching during coronavirus
 
 ---
 
-### [Teaching during the coronavirus outbreak](/teachers/teaching-during-the-coronavirus-outbreak/)
+### [Safeguarding and remote teaching](/teachers/safeguarding-and-remote-teaching/)
 
-Tailor an approach to remote teaching that works with all pupils, whatever their age group and whether they have digital access or not.
+Safeguarding and remote teaching
 
 ---
 
-### [Scheduling the school day during the coronavirus outbreak](/teachers/scheduling-the-school-day-during-coronavirus/)
+### [Get help with technology for remote education](/teachers/help-with-technology/)
+
+Get help with technology for remote education
+
+---
 
 Find the balance between structure and flexibility when setting up a remote teaching schedule.
