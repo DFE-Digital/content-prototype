@@ -14,9 +14,9 @@ No one expects parents to act as teachers, or to provide the activities and feed
 
 Get specific advice on learning at home for your children:
 
-* [aged 2 to 4](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
-* [at primary school](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus)
-* [with SEND](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus)
+* [aged 2 to 4](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/)
+* [at primary school](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/)
+* [with SEND](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/)
 
 Parents of secondary school children should contact their school for guidance. Additional advice will be available for these parents soon.
 
@@ -36,11 +36,11 @@ Guidance is also available to help you [look after your own mental health](https
 
 Information in incorporating learning into everyday life and play.
 
-### [Help primary school children learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus)
+### [Help primary school children learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/)
 
 Structuring your day and knowing how to provide support and feedback.
 
-### [Help children with SEND learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus)
+### [Help children with SEND learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/)
 
 Resources designed to support special educational needs and disabilities.
 
