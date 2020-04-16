@@ -9,9 +9,7 @@ This guide will be expanded to include additional remote education resources.
 
 Guidance will include strategies and practices that teachers and leaders have found useful for supporting education in the home environment. These are being produced by the department with input from teaching unions and experts in the education sector.
 
-@
-This page will be updated regularly to include further resources and reflect the latest information and developments.
-@
+@This page will be updated regularly to include further resources and reflect the latest information and developments.@
 
 Safeguarding and remote education during coronavirus (COVID-19)
 
