@@ -25,10 +25,9 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 Cypress.Commands.add("shouldHaveHeading", () => {
-  cy.get(".govuk-heading-xl").should("exist");
-});
-Cypress.Commands.add("clockOnTeachingduringcoronaviruslink", () => {
-  cy.get(".govuk-grid-column-two-thirds > :nth-child(1) > .govuk-link").click();
+  cy.get(".govuk-heading-xl")
+    .should("exist")
+    .should("contain.text", "Coronavirus (COVID-19): what you need to do");
 });
 Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
   cy.get(".masthead__header").should(
