@@ -11,9 +11,15 @@ pagination:
 
 Specific guidance is available for supporting children in [reception, year 1 and year 2](#reception-year-1-and-year-2-children), and [year 3 to 6](#year-3-to-6-children).
 
+^Read [advice for children of other age groups](#), and understand [which children may still attend school](#).^
+
+While staying at home due to coronavirus (COVID-19), parents and carers will be concerned about their children’s education and the impact of missing school.
+
 No one expects parents to act as teachers, or to provide the activities and feedback that a school would. Speak to your school who will be planning work for your child to do. Parents and carers should do their best to help children and support their learning.
 
-^Read [advice for children of other age groups](#), and understand [which children may still attend school](#).^
+Alongside any work your children receive from school, you can try using [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) which have been recommended by teachers and school leaders.
+
+Educational programmes to help children learn at home are available on the BBC.
 
 ## Structuring the day
 
@@ -41,14 +47,12 @@ Digital devices are not the only way to learn. Manage screen time with a timer a
 * be active and get away from the screen regularly - see a selection of [physical activity resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education#pe-and-physical-activity-primary) for primary school children
 * stop using digital devices at least an hour before bed
 
-Make sure everyone in the home talks with them, so digital devices are not their main form of communication.
-
 ## Reception, year 1 and year 2 children
 
 The best way to help children aged 4 to 7 learn is to:
 
 * sit with them as they work
-* do active, practical things, rather than trying to make them sit and listen for long periods
+* do active and practical things, rather than trying to make them sit and listen for long periods
 * try to break down the work into shorter periods, based on how long they can concentrate
 * take frequent breaks
 * praise or reward them when they do well
@@ -73,7 +77,7 @@ Ask your child questions about what you are reading as you go. For example:
 * ask some questions that need a longer answer, such as how is a character feeling
 * ask them to tell you what has happened in the story so far
 
-Libraries are also currently closed, however, you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
+Libraries are currently closed, however, you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
 
 
 ### Phonics
@@ -86,7 +90,7 @@ Contact your school who will be working on ways to help you with this. Try to si
 
 Try to help children to continue to practise their writing. This may include the formation of letters and familiarity with pens and pencils for younger children, or practising creative writing for older children.
 
-Ask children to write about their day-to-day experiences of being at home, or to write letters to send to family members. You can take a picture and send it to them online.
+Ask children to write about their day-to-day experiences of being at home, or to write letters to send to family members.
 
 ### Numbers
 
@@ -99,14 +103,14 @@ For older children learning sums, ask your school for help or see a list of reso
 The best way to help children aged 7 to 11 learn is to:
 
 * give them support and direction, but encourage them to do work independently too
-* include active, practical things, rather than trying to make them sit and listen for long periods
+* include active and practical things, rather than trying to make them sit and work for long periods
 * try to break down the work into shorter periods, based on how long they can concentrate
 * take frequent breaks
 * praise or reward them when they do well
 
 To check if they are learning try to:
 
-* ask them questions as you go along
+* ask them questions as they go
 * talk about things they learned
 
 ### Talking
@@ -122,7 +126,7 @@ Ask your child questions about what they are reading. For example:
 * ask questions that make them think about the story, such as how a character is feeling
 * ask them to tell you what has happened in the story so far
 
-Libraries are also currently closed, however, you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
+Libraries are currently closed, however, you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
 
 ### Writing
 

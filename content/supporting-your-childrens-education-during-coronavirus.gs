@@ -8,11 +8,11 @@ Many UK children are not currently attending school due to measures put in place
 
 ## Information, guidance and support for parents and carers of children who are learning at home
 
+[Schools, nurseries and childcare providers are currently closed](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#closures-of-schools-childcare-and-other-educational-settings) to the majority of children. Places are available for [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers).
+
 While staying at home due to coronavirus (social distancing), parents and carers may be worried about their children's development and the impact of missing school or nursery.
 
 No one expects parents to act as teachers, or to provide the activities and feedback that a school or nursery would. Parents and carers should do their best to help children and support their learning while dealing with competing demands.
-
-[Schools, nurseries and childcare providers are currently closed](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#closures-of-schools-childcare-and-other-educational-settings) to the majority of children. Places are available for [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers).
 
 Get specific advice on learning at home for your children:
 
@@ -22,9 +22,9 @@ Get specific advice on learning at home for your children:
 
 Parents of secondary school children should contact their school for guidance. Additional advice will be available for these parents soon.
 
-Alongside any work your children receive from school, [this list of online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) covering various subjects and age groups has been recommended by teachers and school leaders.
+Alongside any work your children receive from school, [this list of online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) covering various subjects and age groups. These have been recommended by teachers and school leaders.
 
-Daily programmes to help parents and children with schoolwork at home are available on the BBC.
+Educational programmes to help children learn at home are available on the BBC.
 
 ## Mental health and wellbeing
 

@@ -8,11 +8,11 @@ pagination:
 
 ## Advice for parents and carers looking after children with special educational needs and disabilities (SEND)
 
-No one expects parents to act as teachers or childcare providers, or to provide the activities and feedback that a school or nursery would. Parents and carers should do their best to help and support their children with their learning while they are at home.
-
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend school](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
 
 Staying at home can be more disruptive to the lives and routines of children with special educational needs and disabilities.
+
+No one expects parents to act as teachers or childcare providers, or to provide the activities and feedback that a school or nursery would. Parents and carers should do their best to help and support their children with their learning while they are at home.
 
 If your child usually goes to school but is currently at home, their school should be working to provide them with work and giving them feedback in a format that meets their needs. Contact the school if you are not already in touch.
 

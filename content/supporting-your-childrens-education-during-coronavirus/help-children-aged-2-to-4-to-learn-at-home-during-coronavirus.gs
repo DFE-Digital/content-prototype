@@ -40,11 +40,11 @@ Do not worry about trying to keep to the full routine that your child had in nur
 
 ### Keeping active
 
-Children should be active for at least 3 hours a day in total.
+Young children should be active for at least 3 hours a day in total.
 
-It is also good to get some fresh air every day. If you do not have a garden and are taking them outside to exercise, make sure you follow the rules on social distancing. 
+It is also good to get some fresh air every day. If you do not have a garden and are taking children outside to exercise, make sure you follow the rules on social distancing. 
 
-While inside, there are plenty of things you can do, such as:
+While inside, there are plenty of things you can do to keep children active, such as:
 
 * playing hide-and-seek
 * seeing who can do the most star jumps
@@ -53,7 +53,7 @@ While inside, there are plenty of things you can do, such as:
 
 ### Television and using digital devices
 
-There are lots of ways to help your child to learn. You can use what children have watched on television or the internet to help their learning. Talk with them about what they are watching or use their favourite TV characters in other games and activities.
+There are lots of ways to help your child to learn such as reading together and make-believe play. You can also use what children have watched on television or the internet to help their learning. Talk with them about what they are watching or use their favourite TV characters in other games and activities.
 
 Digital devices such as a laptop, desktop, tablet or smartphone can help some children learn. If your child does use them, try downloading some [apps that will help them learn](https://hungrylittleminds.campaign.gov.uk/#information).
 
