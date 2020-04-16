@@ -14,9 +14,9 @@ No one expects parents to act as teachers, or to provide the activities and feed
 
 Get specific advice on learning at home for your children:
 
-* [Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
-* [Help primary school children learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus)
-* [Help children with SEND learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus)
+* [aged 2 to 4](/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus)
+* [at primary school](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus)
+* [with SEND](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus)
 
 Parents of secondary school children should contact their school for guidance. Additional advice will be available for these parents soon.
 
@@ -29,10 +29,6 @@ Daily programmes to help parents and children with schoolwork at home are availa
 The change of routine and staying at home may make this a difficult time for some children. Public Health England has published advice on how to [support your children's wellbeing](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing) during the coronavirus outbreak.
 
 Guidance is also available to help you [look after your own mental health](https://www.gov.uk/government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing).
-
-## When will school closures end?
-
-The situation is being reviewed regularly. By following the government’s advice and staying at home, you are doing your part to help resolve things sooner.
 
 ## Advice for children of different ages
 
