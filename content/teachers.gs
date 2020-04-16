@@ -13,6 +13,8 @@ Guidance will include strategies and practices that teachers and leaders have fo
 
 Safeguarding and remote education during coronavirus (COVID-19)
 
-- - -
+### [Safeguarding and remote teaching during coronavirus](/teachers/safeguarding-and-remote-teaching-during-coronavirus-covid-19/)
 
-### [](/teachers/safeguarding-and-remote-teaching/)[Get help with technology for remote education](/teachers/help-with-technology/)
+---
+
+### [Get help with technology for remote education](/teachers/help-with-technology/)

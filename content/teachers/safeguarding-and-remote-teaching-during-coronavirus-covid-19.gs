@@ -1,5 +1,9 @@
 ---
 title: Safeguarding and remote teaching during coronavirus (COVID-19)
+pagination:
+  next:
+    path: /teachers/help-with-technology/
+    text: Get help with technology for remote education
 ---
 This guidance is to help schools and teachers support pupils to continue education at home during the coronavirus (COVID-19) outbreak.It includes information about:
 
