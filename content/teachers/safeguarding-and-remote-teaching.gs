@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus (COVID-19): Safeguarding and remote teaching"
 safety_warning: false
-show_teacher_contents: true
+show_teacher_contents: false
 pagination:
   previous:
     path: /teachers/teaching-during-the-coronavirus-outbreak/

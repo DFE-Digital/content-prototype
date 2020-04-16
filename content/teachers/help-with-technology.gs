@@ -1,7 +1,7 @@
 ---
 title: Get help with technology for remote education
 safety_warning: false
-show_teacher_contents: true
+show_teacher_contents: false
 pagination:
   previous:
     path: /teachers/safeguarding-and-remote-teaching/
