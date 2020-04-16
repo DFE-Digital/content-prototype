@@ -134,10 +134,10 @@ Year 6 children (aged 10 to 11) should continue doing any work set for them by t
 
 To prepare for going to secondary school this can be a good time to follow their own interests. For example:
 
-* history, visiting the English Heritage website to explore England’s history
+* history, visiting the [English Heritage](https://www.english-heritage.org.uk/members-area/kids/) website to explore England’s history
 * geography, researching other countries
-* science, finding out more about the human body on BBC Bitesize
-* art, trying the activities on TATE Kids
+* science, finding out more about the human body on [BBC Bitesize](https://www.bbc.co.uk/bitesize/topics/zcyycdm)
+* art, trying the activities on [TATE Kids](https://www.tate.org.uk/kids)
 
 Ask your primary school about how you can help your child prepare for moving up to secondary school.
 
