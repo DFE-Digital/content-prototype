@@ -1,9 +1,9 @@
 ---
-title: Help children with SEND learn at home during coronavirus (COVID-19)
+title: Help children with SEND continue their education during coronavirus (COVID-19)
 pagination:
   previous:
     path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
-    text: Help primary school children learn at home during coronavirus (COVID-19)
+    text: Help primary school children continue their education during coronavirus (COVID-19)
 ---
 
 ## Advice for parents and carers looking after children with special educational needs and disabilities (SEND)
@@ -26,4 +26,3 @@ We have also worked with other organisations to create information on ways you c
 
 * [advice on supporting children with a learning disability or autistic spectrum disorder (ASD)](https://councilfordisabledchildren.org.uk/help-resources/resources/supporting-children-learning-disability-asd-coping-covid-19-isolation) from the Council for Disabled Children
 * [recommendations on special educational needs](https://educationendowmentfoundation.org.uk/tools/guidance-reports/special-educational-needs-disabilities/) from the Education Endowment Foundation
-
