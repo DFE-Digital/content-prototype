@@ -4,14 +4,14 @@ CMS.registerEditorComponent({
   id: "highlight-advisory",
   label: "Highlight Advisory",
   fields: [{ name: "body", label: "Content", widget: "string" }],
-  pattern: /^@\n?(.*)\n?@$/,
+  pattern: /^@(.*)@$/,
   fromBlock: function (match) {
     return {
       body: match[1],
     };
   },
   toBlock: function (obj) {
-    return ["@", obj.body, "@"].join("\n");
+    return `@${obj.body}@`;
   },
   toPreview: function (obj) {
     var str = [

@@ -4,14 +4,14 @@ CMS.registerEditorComponent({
   id: "callout-warning",
   label: "Callout Warning",
   fields: [{ name: "body", label: "Body", widget: "markdown" }],
-  pattern: /^%\n?(.*)\n?%$/,
+  pattern: /^%(.*)%$/,
   fromBlock: function (match) {
     return {
       body: match[1],
     };
   },
   toBlock: function (obj) {
-    return ["%", obj.body, "%"].join("\n");
+    return `%${obj.body}%`;
   },
   toPreview: function (obj) {
     var str = [
