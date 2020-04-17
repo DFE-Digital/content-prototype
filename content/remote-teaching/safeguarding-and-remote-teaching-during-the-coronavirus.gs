@@ -1,8 +1,8 @@
 ---
-title: "Safeguarding and remote teaching during the coronavirus outbreak (COVID-19)"
+title: Safeguarding and remote teaching during the coronavirus outbreak (COVID-19)
 ---
 
-This guidance is to help schools and teachers support pupils education at home during the coronavirus (COVID-19) outbreak. 
+This guidance is to help schools and teachers support pupils' education at home during the coronavirus (COVID-19) outbreak. 
 
 
 It includes information about:
@@ -18,12 +18,12 @@ This should be read along side [coronavirus (COVID-19): safeguarding in schools,
 
 ## Safeguarding teachers and pupils online
 
-Most children are learning at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategies. While this is happening, it is important that schools continue to follow safeguarding procedures.
+Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategies. While this is happening, it is important that schools continue to follow safeguarding procedures. 
 
 As set out in the [coronavirus: safeguarding in schools, colleges and other providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers#child-protection-policy) guidance,
-online teaching should follow the same principles set out in your school’s staff behaviour policy (sometimes known as a code of conduct).
+online education should follow the same principles set out in your school’s staff behaviour policy (sometimes known as a code of conduct).
 
-Keeping teachers safe when providing remote teaching is also essential. Remote education is a new experience for both staff and pupils, so it’s important that schools understand how to approach safeguarding procedures online.
+Keeping teachers safe when providing remote education is also essential. Remote education is a new experience for both staff and pupils, so it’s important that schools understand how to approach safeguarding procedures online. 
 
 Schools may wish to use these resources to understand more about ensuring online education is safe:
 
@@ -105,7 +105,7 @@ Helping parents, carers and pupils to make a weekly plan or structure that inclu
 
 As set out in [Public Health England’s guidance for parents and carers](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing/guidance-for-parents-and-carers-on-supporting-children-and-young-peoples-mental-health-and-wellbeing-during-the-coronavirus-covid-19-outbreak#helping-children-and-young-people-cope-with-stress), routine can give children and young people an increased feeling of safety in the context of uncertainty.
 
-Schools might want to consider whether one-to-one sessions could be appropriate in some circumstances. For example, to provide pastoral care or provide support for SEN/D pupils.
+Schools might want to consider whether one-to-one sessions could be appropriate in some circumstances. For example, to provide pastoral care or provide support for pupils with special educational needs and disabilities (SEND).
 
 This should be discussed and approved by the senior leadership team to assess any risks. There may be helpful solutions, such as including a parent or additional staff member in the call.
 
