@@ -2,11 +2,9 @@
 title: "Supporting your children's education during coronavirus (COVID-19)"
 ---
 
-Many UK children are not currently attending school due to measures put in place to prevent the spread of Coronavirus. Information, guidance and support is available for parents and carers of children who are learning at home.
+## Information, guidance and support for parents and carers of children who are learning at home
 
 @This page will be updated regularly to include further resources and reflect the latest information and developments.@
-
-## Information, guidance and support for parents and carers of children who are learning at home
 
 [Schools, nurseries and childcare providers are currently closed](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#closures-of-schools-childcare-and-other-educational-settings) to the majority of children. Places are available for [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers).
 
@@ -40,13 +38,13 @@ Information in incorporating learning into everyday life and play.
 
 ---
 
-### [Help primary school children learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/)
+### [Help primary school children continue their education during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/)
 
 Structuring your day and knowing how to provide support and feedback.
 
 ---
 
-### [Help children with SEND learn at home during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/)
+### [Help children with SEND continue their education during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/)
 
 Resources designed to support special educational needs and disabilities.
 
