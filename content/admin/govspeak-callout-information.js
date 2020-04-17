@@ -1,10 +1,9 @@
 /* globals CMS:true */
-
 CMS.registerEditorComponent({
   id: "callout-information",
   label: "Callout Information",
   fields: [{ name: "body", label: "Body", widget: "markdown" }],
-  pattern: /^\^(.*)\^$/,
+  pattern: /^\^([\w|\W|\n]*)\^$/,
   fromBlock: function (match) {
     return {
       body: match[1],

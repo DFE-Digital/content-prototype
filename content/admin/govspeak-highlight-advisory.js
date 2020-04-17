@@ -4,7 +4,7 @@ CMS.registerEditorComponent({
   id: "highlight-advisory",
   label: "Highlight Advisory",
   fields: [{ name: "body", label: "Content", widget: "string" }],
-  pattern: /^@(.*)@$/,
+  pattern: /^@([\w|\W|\n]*)@$/,
   fromBlock: function (match) {
     return {
       body: match[1],

@@ -4,7 +4,7 @@ CMS.registerEditorComponent({
   id: "highlight-statistic-headline",
   label: "Highlight Statisic Headline",
   fields: [{ name: "body", label: "Content", widget: "string" }],
-  pattern: /^{stat-headline}\n?(.*)\n?{\/stat-headline}$/,
+  pattern: /^{stat-headline}([\w|\W|\n]*){\/stat-headline}$/,
   fromBlock: function (match) {
     return {
       body: match[1],

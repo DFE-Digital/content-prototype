@@ -4,7 +4,7 @@ CMS.registerEditorComponent({
   id: "callout-example",
   label: "Callout Example",
   fields: [{ name: "body", label: "Body", widget: "markdown" }],
-  pattern: /^\$E\n?(.*)\n?\$E$/,
+  pattern: /^\$E([\w|\W|\n]*)\$E$/,
   fromBlock: function (match) {
     return {
       body: match[1],
