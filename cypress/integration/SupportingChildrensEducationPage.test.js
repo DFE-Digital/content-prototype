@@ -16,7 +16,6 @@ describe("Supporting Children's Education Page", () => {
       "This page will be updated regularly to include further resources and reflect the latest information and developments."
     );
   });
-
   it('Links through to "Help children aged 2 to 4 to learn at home"', () => {
     cy.contains("Help children aged 2 to 4 to learn at home")
       .should((el) => {
@@ -33,7 +32,9 @@ describe("Supporting Children's Education Page", () => {
   });
 
   it('Links through to "Help primary school children learn at home"', () => {
-    cy.contains("Help primary school children continue their education during coronavirus (COVID-19)")
+    cy.contains(
+      "Help primary school children continue their education during coronavirus (COVID-19)"
+    )
       .should((el) => {
         expect(el).to.have.attr(
           "href",
@@ -45,10 +46,11 @@ describe("Supporting Children's Education Page", () => {
       "equal",
       "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/"
     );
- });
- 
- it('Links through to "Help children with SEND learn at home"', () => {
-    cy.contains("Help children with SEND continue their education during coronavirus (COVID-19)")
+  });
+  it('Links through to "Help children with SEND learn at home"', () => {
+    cy.contains(
+      "Help children with SEND continue their education during coronavirus (COVID-19)"
+    )
       .should((el) => {
         expect(el).to.have.attr(
           "href",
