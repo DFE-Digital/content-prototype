@@ -4,7 +4,7 @@ CMS.registerEditorComponent({
   id: "points-of-contact-address",
   label: "Points of Contact - Address",
   fields: [{ name: "body", label: "Content", widget: "markdown" }],
-  pattern: /^\$A\n?([\w|\W|\n]*)\$A$/,
+  pattern: /^\$A([\w|\W|\n]*)\$A$/,
   fromBlock: function (match) {
     return {
       body: match[1],
