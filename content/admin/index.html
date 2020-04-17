@@ -1,21 +1,17 @@
 <!doctype html>
 <html>
 <head>
+  <link rel="preconnect" href="//api.github.com" crossorigin>
+  <link rel="preconnect" href="//cdn.jsdelivr.net" crossorigin>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/netlify-cms@2.10.40/dist/netlify-cms.js" integrity="sha256-wrwmDhrhe7gs/CEYNlhFPKuOtMuXiP7tCeVIcjScWoY=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@10.0.0/dist/markdown-it.min.js" integrity="sha256-YASERpEeN8gRNr/Fy4Km34WGFqIq1h6HkJMAQnVHlhk=" crossorigin="anonymous"></script>
   <script src="./preview.js"></script>
-  <script src="./govspeak-highlight-answer.js"></script>
-  <script src="./govspeak-highlight-advisory.js"></script>
-  <script src="./govspeak-highlight-statistic-headline.js"></script>
-  <script src="./govspeak-callout-example.js"></script>
-  <script src="./govspeak-callout-information.js"></script>
-  <script src="./govspeak-callout-warning.js"></script>
-  <script src="./govspeak-points-of-contact-address.js"></script>
-  <script src="./govspeak-points-of-contact-contact.js"></script>
+  <script src="./govspeak-common.js"></script>
 </body>
 </html>
