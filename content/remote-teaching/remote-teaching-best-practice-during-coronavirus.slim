@@ -116,7 +116,7 @@ govuk-grid-row
     p.govuk-body
       | "We have found that staff communication has been key to maintaining our collaborative ethos and to ensure that staff do not feel alone. As everyone is trying something new it can get frustrating and tiring. Many departments have set up WhatsApp groups to support each other and are having online Teams meetings to share ideas and collaborate," said Steve Smith,HISP Research School at Thornden.
 
-.govuk-grid-column-one-third.pros-and-cons
+  .govuk-grid-column-one-third.pros-and-cons
 
     h4.govuk-heading-s Case studies
 
@@ -124,6 +124,6 @@ govuk-grid-row
       | The following case studies are from schools and teachers giving their experience on how they have adapted to support pupils’ wellbeing:
 
     ul.govuk-list.govuk-list--bullet
-      li link_to("Wave MAT", "content/remote-teaching/case-studies/wave-mat.gs")
-      li link_to("Hospital and Outreach", "content/remote-teaching/case-studies/hospital-outreach.gs")
+      li == link_to("Wave MAT", "/remote-teaching/case-studies/wave-mat/").html_safe
+      li == link_to("Hospital and Outreach", "/remote-teaching/case-studies/hospital-outreach/").html_safe
 
