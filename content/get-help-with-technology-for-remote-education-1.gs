@@ -9,8 +9,4 @@ Schools and colleges will soon be able to get access to more remote education re
 * training on using remote education resources from the technology suppliers
 * support from other schools and colleges who are already using these resources
 
-## Who will be eligible
-
-We will prioritise vulnerable and disadvantaged pupils. We’ll let you know more about this soon.
-
 We’ll update this page with more information about what is included and how to apply.
