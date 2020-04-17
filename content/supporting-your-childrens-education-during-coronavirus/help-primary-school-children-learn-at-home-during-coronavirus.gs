@@ -1,12 +1,12 @@
 ---
-title: Help primary school children learn at home during coronavirus (COVID-19)
+title: Help primary school children continue their education during coronavirus (COVID-19)
 pagination:
   previous:
     path: /supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/
     text: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
   next:
     path: /supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/
-    text: Help children with SEND learn at home during coronavirus (COVID-19)
+    text: Help children with SEND continue their education during coronavirus (COVID-19)
 ---
 
 Specific guidance is available for supporting children in [reception, year 1 and year 2](#reception-year-1-and-year-2-children), and [year 3 to 6](#year-3-to-6-children).
@@ -16,10 +16,6 @@ Specific guidance is available for supporting children in [reception, year 1 and
 While staying at home due to coronavirus (COVID-19), parents and carers will be concerned about their children’s education and the impact of missing school.
 
 No one expects parents to act as teachers, or to provide the activities and feedback that a school would. Speak to your school who will be planning work for your child to do. Parents and carers should do their best to help children and support their learning.
-
-Alongside any work your children receive from school, you can try using [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) which have been recommended by teachers and school leaders.
-
-Educational programmes to help children learn at home are available on the BBC.
 
 ## Structuring the day
 
