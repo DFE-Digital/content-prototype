@@ -1,0 +1,104 @@
+name: Test
+on:
+  - pull_request
+jobs:
+  build:
+    name: Build Site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Cache Ruby Gems
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-ruby-gems
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+      - name: Cache Node Modules
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm # npm cache files are stored in `~/.npm` on Linux/macOS
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+      - name: Setup Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Setup Node 13.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: "13.x"
+      - name: Configure
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CYPRESS_INSTALL_BINARY: 0
+          HUSKY_SKIP_INSTALL: 1
+        run: |
+          echo 'gem: --no-document' >> ~/.gemrc
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+          npm config set //npm.pkg.github.com/:_authToken=$GITHUB_TOKEN
+          npm config set @dfe-digital:registry=https://npm.pkg.github.com
+          npm install
+      - name: Build
+        run: |
+          bundle exec nanoc check
+          bundle exec nanoc compile
+      - name: Upload compiled site
+        uses: actions/upload-artifact@v1
+        with:
+          name: site
+          path: ./output
+  cypress:
+    name: Cyress E2E Tests
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v2
+     - name: Download site
+       uses: actions/download-artifact@v1
+       with:
+         name: site
+         path: ./output
+     - name: Setup Node 13.x
+       uses: actions/setup-node@v1
+       with:
+         node-version: "13.x"
+     - name: Configure
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         HUSKY_SKIP_INSTALL: 1
+       run: |
+         npm config set //npm.pkg.github.com/:_authToken=$GITHUB_TOKEN
+         npm config set @dfe-digital:registry=https://npm.pkg.github.com
+         npm install -g serve
+     - name: Run E2E Tests (Chrome)
+       uses: cypress-io/github-action@v1
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         CYPRESS_BASE_URL: http://localhost:3000
+       with:
+         cache-key: ${{ runner.os }}-build-cache-node-modules-${{ hashFiles('**/package-lock.json') }}
+         start: serve -l tcp://0.0.0.0:3000 output
+         wait-on: "http://localhost:3000"
+         browser: chrome
+     - uses: actions/upload-artifact@v1
+       if: failure()
+       with:
+         name: cypress-screenshots
+         path: cypress/screenshots
+     - uses: actions/upload-artifact@v1
+       if: failure()
+       with:
+         name: cypress-screenshots
+         path: cypress/screenshots
