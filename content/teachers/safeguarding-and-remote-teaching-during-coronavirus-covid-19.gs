@@ -3,9 +3,11 @@ title: Safeguarding and remote teaching during coronavirus (COVID-19)
 pagination:
   next:
     path: /teachers/help-with-technology/
-    text: Get help with technology for remote education
+    text: Get help with technology for remote education during coronavirus (COVID-19)
 ---
-This guidance is to help schools and teachers support pupils to continue education at home during the coronavirus (COVID-19) outbreak. It includes information about:
+This guidance is to help schools and teachers support pupils' education at home during the coronavirus (COVID-19) outbreak. 
+
+It includes information about:
 
 * safeguarding pupils and teachers online
 * reporting concerns
@@ -54,7 +56,7 @@ Use these resources to support parents and carers to keep their children safe on
 
 ## Reporting concerns
 
-It is essential to have and communicate clear reporting routes so that children, teachers, and parents/carers can raise any safeguarding concerns.
+It is essential to have and communicate clear reporting routes so that children, teachers, and parents / carers can raise any safeguarding concerns.
 
 Schools may wish to review the existing arrangements to ensure they are appropriate during school closures, or if additional or alternative arrangements need to be put in place.
 
@@ -74,9 +76,9 @@ You can:
 * get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online Protection command](https://www.ceop.police.uk/safety-centre/)
 * get advice and support from [Anti-Bullying Alliance](https://www.anti-bullyingalliance.org.uk/tools-information/if-youre-being-bullied) for children who are being bullied
 
-Schools may also wish to use resources such as[TooToot](https://tootoot.co.uk/)to provide a confidential route for pupils to report bullying or abuse.
+Schools may also wish to use resources such as [TooToot](https://tootoot.co.uk/) to provide a confidential route for pupils to report bullying or abuse.
 
-Schools can access the free [Professionals Online Safety Helpline](https://swgfl.org.uk/services/professionals-online-safety-helpline/#contact), which supports the online safeguarding of both children and professionals. Call 0344 381 4772 or email[ helpline@saferinternet.org.uk](mailto:helpline@saferinternet.org.uk). The helpline is open from Monday to Friday from 10am to 4pm.
+Schools can access the free [Professionals Online Safety Helpline](https://swgfl.org.uk/services/professionals-online-safety-helpline/#contact), which supports the online safeguarding of both children and professionals. Call 0344 381 4772 or email [helpline@saferinternet.org.uk](mailto:helpline@saferinternet.org.uk). The helpline is open from Monday to Friday from 10am to 4pm.
 
 ## Communicating with parents, carers and pupils
 
@@ -102,13 +104,13 @@ Helping parents, carers and pupils to make a weekly plan or structure that inclu
 
 As set out in [Public Health England’s guidance for parents and carers](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing/guidance-for-parents-and-carers-on-supporting-children-and-young-peoples-mental-health-and-wellbeing-during-the-coronavirus-covid-19-outbreak#helping-children-and-young-people-cope-with-stress), routine can give children and young people an increased feeling of safety in the context of uncertainty.
 
-Schools might want to consider whether one-to-one sessions could be appropriate in some circumstances. For example, to provide pastoral care or provide support for SEN/D pupils.
+Schools might want to consider whether one-to-one sessions could be appropriate in some circumstances. For example, to provide pastoral care or provide support for pupils with special educational needs and disabilities (SEND). 
 
 This should be discussed and approved by the senior leadership team to assess any risks. There may be helpful solutions, such as including a parent or additional staff member in the call.
 
 ## Personal data and GDPR
 
-Schools and colleges should continue to follow thev guidance outlined in the [data protection: toolkit for schools](https://www.gov.uk/government/publications/data-protection-toolkit-for-schools) when managing personal data and may need to consider:
+Schools and colleges should continue to follow the guidance outlined in the [data protection: toolkit for schools](https://www.gov.uk/government/publications/data-protection-toolkit-for-schools) when managing personal data and may need to consider:
 
 * taking care not to share contact details when emailing multiple people
 * being careful when sharing usernames and other personal data for access to online resources
