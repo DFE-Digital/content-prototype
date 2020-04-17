@@ -24,19 +24,46 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
-Cypress.Commands.add("shouldHaveHeading", () => {
-  cy.get(".govuk-heading-xl")
+Cypress.Commands.add("shouldHaveLargeHeading", () => {
+  cy.get(".masthead__content .govuk-heading-xl")
     .should("exist")
     .should("contain.text", "Coronavirus (COVID-19): what you need to do");
 });
-Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
-  cy.get(".masthead__header").should(
-    "contain.text",
-    "Coronavirus (COVID-19): what you need to do"
-  );
+
+Cypress.Commands.add("shouldHaveHeading", (text) => {
+  cy.get("#main-content .govuk-heading-xl")
+    .should("exist")
+    .should("contain.text", text);
+});
+
+Cypress.Commands.add("shouldHaveFooter", () => {
   cy.get(".govuk-footer").should(
     "contain.text",
     "All content is available under the Open Government Licence v3.0, except where otherwise stated"
   );
   // .should("contain.text", "© Crown copyright");
+});
+
+Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
+  cy.get(".govuk-header__content")
+    .should("contain.text", "Learning during coronavirus")
+    .should((el) => {
+      expect(el.find("a")).to.not.have.class("govuk-link");
+    });
+  cy.shouldHaveFooter();
+});
+
+Cypress.Commands.add("shouldHaveBreadcrumbs", () => {
+  cy.get(".govuk-breadcrumbs").should("exist");
+  cy.get(".govuk-breadcrumbs__list").within(() => {
+    cy.get(".govuk-breadcrumbs__link")
+      .should("have.attr", "href")
+      .should("equal", "/");
+  });
+});
+
+Cypress.Commands.add("shouldContainAdvisory", (text) => {
+  cy.get(".gem-c-govspeak .advisory")
+    .should("exist")
+    .should("contain.text", text);
 });
