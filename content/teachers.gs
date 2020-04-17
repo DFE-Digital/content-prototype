@@ -1,7 +1,7 @@
 ---
 title: Remote education during coronavirus (COVID-19)
 ---
-@This page will be updated regularly to include further resources and reflect the latest information and developments.@
+@This page and [information for parents](/supporting-your-childrens-education-during-coronavirus) will be updated regularly to include further resources and reflect the latest information and developments.@
 
 ## A guide for teachers and leaders
 

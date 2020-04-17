@@ -4,7 +4,7 @@ title: "Supporting your children's education during coronavirus (COVID-19)"
 
 ## Information, guidance and support for parents and carers of children who are learning at home
 
-@This page will be updated regularly to include further resources and reflect the latest information and developments.@
+@This page and [information for teachers](/teachers) will be updated regularly to include further resources and reflect the latest information and developments.@
 
 [Schools, nurseries and childcare providers are currently closed](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#closures-of-schools-childcare-and-other-educational-settings) to the majority of children. Places are available for [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers).
 
