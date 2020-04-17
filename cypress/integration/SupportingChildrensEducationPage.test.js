@@ -32,7 +32,33 @@ describe("Supporting Children's Education Page", () => {
     );
   });
 
-  it('Links through to "Help primary school children learn at home"');
-
-  it('Links through to "Help children with SEND learn at home"');
+  it('Links through to "Help primary school children learn at home"', () => {
+    cy.contains("Help primary school children continue their education during coronavirus (COVID-19)")
+      .should((el) => {
+        expect(el).to.have.attr(
+          "href",
+          "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/"
+        );
+      })
+      .click();
+    cy.location("pathname").should(
+      "equal",
+      "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/"
+    );
+ });
+ 
+ it('Links through to "Help children with SEND learn at home"', () => {
+    cy.contains("Help children with SEND continue their education during coronavirus (COVID-19)")
+      .should((el) => {
+        expect(el).to.have.attr(
+          "href",
+          "/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/"
+        );
+      })
+      .click();
+    cy.location("pathname").should(
+      "equal",
+      "/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/"
+    );
+  });
 });
