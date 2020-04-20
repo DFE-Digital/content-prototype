@@ -1,5 +1,6 @@
 ---
 title: Help primary school children continue their education during coronavirus (COVID-19)
+lead_paragraph: 'Advice for parents and carers looking after primary school children.'
 pagination:
   previous:
     path: /supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/
