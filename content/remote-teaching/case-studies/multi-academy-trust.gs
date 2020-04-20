@@ -1,5 +1,5 @@
 ---
-title: "Supporting pupils’ wellbeing during coronavirus (COVID-19) at Wave Multi-academy Trust (MAT)"
+title: "Supporting pupils’ wellbeing during coronavirus (COVID-19) at a Multi-academy Trust (MAT)"
 ---
 
 At Wave MAT, our approach to distance learning and safeguarding has first and foremost been to make sure that our pupils and their families know that we are still here and that we genuinely care about them. They feel isolated, anxious and in some cases very angry, and these are the initial needs we need to meet. 
@@ -14,5 +14,5 @@ To ensure that we are staying present in student lives, we have:
 * sent packs of cards and travel games to the families who we know might need additional support in structuring time together, in particular, those families who are living in poverty (sadly there are many)
 * sent chocolate bars at Easter and specially designed ‘thinking of you’ postcards at random times so pupils know that we are there.
 
-### Rob Gasson, Wave MAT
+### Case study from a small Multi-Academy Trust of Alternative Provision schools.
 

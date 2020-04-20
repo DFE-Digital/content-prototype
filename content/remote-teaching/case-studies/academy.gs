@@ -1,5 +1,5 @@
 ---
-title: "Supporting pupils’ wellbeing during coronavirus (COVID-19) at the Hospital and Outreach AP Academy"
+title: "Supporting pupils’ wellbeing during coronavirus (COVID-19) in an Academy"
 ---
 
 At the Hospital and Outreach AP Academy, we have been maintaining our relationships with key staff remotely or by telephone. Pupils need to know that the same staff that they ‘trust’ are still there for them. Regular cards and letters to the home are also being sent.
@@ -16,5 +16,5 @@ We have ensured that we have the same support staff in lessons with the teachers
 
 We are supporting parents and carers through regular contact with them as required to offer them advice on their role in supporting their children.
 
-### Sarah Dove, The Hospital and Outreach AP Academy
+### Case study from a single Alternative Provision Academy which is part of a Multi-Academy Trust.
 
