@@ -12,7 +12,7 @@ describe("Supporting Children's Education Page", () => {
   });
   it('Shows an "This page will be updated regularly" advisory ', () => {
     cy.shouldContainAdvisory(
-      "\nThis page and information for teachers will be updated regularly to include further resources and reflect the latest information and developments.\n"
+      "This page and information for teachers will be updated regularly to include further resources and reflect the latest information and developments."
     );
   });
   it('Links through to "Help children aged 2 to 4 to learn at home"', () => {
