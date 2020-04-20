@@ -14,8 +14,9 @@ html.govuk-template lang='en'
           .govuk-grid-column-two-thirds
             h1.govuk-heading-xl = item[:title]
         - if item[:lead_paragraph]
-          .govuk-grid-column-two-thirds
-          p.gem-c-lead-paragraph = item[:lead_paragraph]
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              p.gem-c-lead-paragraph = item[:lead_paragraph]
 
         .govuk-grid-row
           .govuk-grid-column-two-thirds
@@ -23,7 +24,8 @@ html.govuk-template lang='en'
               == render '/partials/safety_warning.*'
 
             main.gem-c-govspeak
-              hr
+              - if item[:lead_paragraph]
+                hr
               == yield
 
             - if item[:pagination]
