@@ -1,12 +1,11 @@
 ---
 title: Help children with SEND continue their education during coronavirus (COVID-19)
+lead_paragraph: 'Advice for parents and carers looking after children with special educational needs and disabilities (SEND)'
 pagination:
   previous:
     path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
     text: Help primary school children continue their education during coronavirus (COVID-19)
 ---
-
-## Advice for parents and carers looking after children with special educational needs and disabilities (SEND)
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend school](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
 

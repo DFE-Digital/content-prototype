@@ -11,14 +11,19 @@ html.govuk-template lang='en'
 
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
-          .govuk-grid-column-full
+          .govuk-grid-column-two-thirds
             h1.govuk-heading-xl = item[:title]
+        - if item[:lead_paragraph]
+          .govuk-grid-column-two-thirds
+          p.gem-c-lead-paragraph = item[:lead_paragraph]
+
         .govuk-grid-row
           .govuk-grid-column-two-thirds
             - if item[:safety_warning]
               == render '/partials/safety_warning.*'
 
             main.gem-c-govspeak
+              hr
               == yield
 
             - if item[:pagination]

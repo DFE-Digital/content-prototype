@@ -1,8 +1,7 @@
 ---
 title: "Supporting your children's education during coronavirus (COVID-19)"
+lead_paragraph: "Information, guidance and support for parents and carers of children who are learning at home"
 ---
-
-## Information, guidance and support for parents and carers of children who are learning at home
 
 @This page and [information for teachers](/teachers) will be updated regularly to include further resources and reflect the latest information and developments.@
 

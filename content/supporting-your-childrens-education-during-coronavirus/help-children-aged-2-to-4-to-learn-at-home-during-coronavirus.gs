@@ -1,12 +1,11 @@
 ---
 title: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
+lead_paragraph: Advice for parents and carers of children who have not yet started school
 pagination:
   next:
     path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
     text: Help primary school children learn at home during coronavirus (COVID-19)
 ---
-
-## Advice for parents and carers of children who have not yet started school
 
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
