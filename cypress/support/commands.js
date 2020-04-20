@@ -46,7 +46,7 @@ Cypress.Commands.add("shouldHaveFooter", () => {
 
 Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
   cy.get(".govuk-header__content")
-    .should("contain.text", "Learning during coronavirus")
+    .should("contain.text", "Remote education during coronavirus")
     .should((el) => {
       expect(el.find("a")).to.not.have.class("govuk-link");
     });

@@ -21,7 +21,9 @@ describe("Landing Page", () => {
     cy.get(".govuk-grid-column-two-thirds .govuk-link")
       .eq(0)
       .should((el) => {
-        expect(el).to.contain.text("Teaching during coronavirus (COVID-19)");
+        expect(el).to.contain.text(
+          "Remote education during coronavirus (COVID-19)"
+        );
         expect(el).to.have.attr("href");
         expect(el.attr("href")).to.equal("/teachers/");
       })
