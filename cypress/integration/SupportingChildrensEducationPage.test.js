@@ -10,10 +10,9 @@ describe("Supporting Children's Education Page", () => {
       "Supporting your children's education during coronavirus (COVID-19)"
     );
   });
-
   it('Shows an "This page will be updated regularly" advisory ', () => {
     cy.shouldContainAdvisory(
-      "This page will be updated regularly to include further resources and reflect the latest information and developments."
+      "\nThis page and information for teachers will be updated regularly to include further resources and reflect the latest information and developments.\n"
     );
   });
   it('Links through to "Help children aged 2 to 4 to learn at home"', () => {
@@ -47,6 +46,7 @@ describe("Supporting Children's Education Page", () => {
       "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/"
     );
   });
+
   it('Links through to "Help children with SEND learn at home"', () => {
     cy.contains(
       "Help children with SEND continue their education during coronavirus (COVID-19)"
