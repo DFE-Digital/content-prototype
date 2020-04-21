@@ -20,7 +20,7 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
     cy.contains("Providing pastoral care remotely").should("exist");
     cy.contains("Personal data and GDPR").should("exist");
   });
-
+  //At this moment I've skipped this test due to cypress domain change limitation "Cypress not able to load a different domain"
   xit('Links through to "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"', () => {
     cy.contains(
       "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"
