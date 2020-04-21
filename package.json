@@ -14,6 +14,7 @@
     "cy:run": "cypress run",
     "cy:open": "cypress open",
     "test": "concurrently \"npm:test:e2e\"",
+    "test:links": "export CYPRESS_BASE_URL=http://localhost:3000 && start-server-and-test start $CYPRESS_BASE_URL 'blc $CYPRESS_BASE_URL --recursive'",
     "test:e2e": "export CYPRESS_BASE_URL=http://localhost:3000 && start-server-and-test start $CYPRESS_BASE_URL cy:run",
     "lint:css": "stylelint **/*.scss **/*.css",
     "lint:js": "eslint .",
@@ -27,6 +28,7 @@
     "govuk-frontend": "^3.6.0"
   },
   "devDependencies": {
+    "broken-link-checker": "^0.7.8",
     "concurrently": "^5.1.0",
     "cypress": "^4.3.0",
     "eslint": "^6.8.0",
@@ -36,6 +38,7 @@
     "husky": "^4.2.3",
     "lint-staged": "^10.1.0",
     "prettier": "^2.0.2",
+    "start-server-and-test": "^1.11.0",
     "stylelint": "^13.2.1",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-prettier": "^1.1.2"
