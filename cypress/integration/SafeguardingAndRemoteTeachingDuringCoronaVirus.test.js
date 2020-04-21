@@ -20,25 +20,22 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
     cy.contains("Providing pastoral care remotely").should("exist");
     cy.contains("Personal data and GDPR").should("exist");
   });
-  //At this moment I've skipped this test due to cypress domain change limitation "Cypress not able to load a different domain"
-  xit('Links through to "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"', () => {
+
+  it('Links through to "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"', () => {
     cy.contains(
       "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"
     ).should("exist");
     cy.contains(
       "Coronavirus (COVID-19): safeguarding in schools, colleges and other providers"
-    )
-      .should((el) => {
-        expect(el).to.have.attr(
-          "href",
-          "https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers"
-        );
-      })
-      .click();
-    cy.location("pathname").should(
-      "equal",
-      "https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers"
-    );
+    ).should((el) => {
+      expect(el).to.have.attr(
+        "href",
+        "https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers"
+      );
+    });
+    cy.get(".gem-c-govspeak").within(() => {
+      cy.checksForBrokenLinks();
+    });
   });
 
   it('Links through to "Get help with technology for remote education during coronavirus (COVID-19)"', () => {

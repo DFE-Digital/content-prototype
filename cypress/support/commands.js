@@ -67,3 +67,9 @@ Cypress.Commands.add("shouldContainAdvisory", (text) => {
     .should("exist")
     .should("contain.text", text);
 });
+
+Cypress.Commands.add("checksForBrokenLinks", () => {
+  cy.get("a").each((el) => {
+    cy.request(el.attr("href")).its("status").should("equal", 200);
+  });
+});
