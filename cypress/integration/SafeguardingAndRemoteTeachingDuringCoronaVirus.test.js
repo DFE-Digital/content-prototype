@@ -33,9 +33,6 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
         "https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers"
       );
     });
-    cy.get(".gem-c-govspeak").within(() => {
-      cy.checksForBrokenLinks();
-    });
   });
 
   it('Links through to "Get help with technology for remote education during coronavirus (COVID-19)"', () => {
