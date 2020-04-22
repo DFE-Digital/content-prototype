@@ -17,7 +17,7 @@ Schools might also consider using resources from Oak National Academy, which is 
 
 Understand how to follow safeguarding procedures when planning remote education strategies and teaching remotely
 
-- - -
+---
 
 ### [Get help with technology for remote education during coronavirus (COVID-19)](/teachers/help-with-technology/)
 
