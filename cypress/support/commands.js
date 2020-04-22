@@ -73,3 +73,14 @@ Cypress.Commands.add("checksForBrokenLinks", () => {
     cy.request("HEAD", el.attr("href")).its("status").should("equal", 200);
   });
 });
+
+Cypress.Commands.add("shouldHavePagination", (href, text, direction) => {
+  cy.get(".gem-c-pagination").within(() => {
+    cy.get(`a.gem-c-pagination__link[href="${href}"]`).should(($el) => {
+      expect($el).to.contain.text(text);
+      if (direction) {
+        expect($el).to.contain.text(direction);
+      }
+    });
+  });
+});
