@@ -2,6 +2,8 @@
 title: "Using video lessons"
 ---
 
+### Case study from a multi-academy trust of alternative provision schools.
+
 Since the school closures, we have gone online wherever possible. Some staff members have made the decision to create and provide virtual lessons to pupils via YouTube.
 
 Every other day a video goes live on YouTube. The video features staff explaining a topic to learners and getting them to pause the video and complete tasks such as questions, fill in the blanks, or research activities.
@@ -12,4 +14,3 @@ This format allows pupils to have teacher interaction or correction of any work 
 
 We are not asking our students to download or learn to use any new software as this is already familiar to them.
 
-### Case study from a Multi-Academy Trust of Alternative Provision schools. One of the academies serves A level students only.
