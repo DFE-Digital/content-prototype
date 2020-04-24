@@ -47,7 +47,8 @@ Structuring your day and knowing how to provide support and feedback.
 
 Resources designed to support special educational needs and disabilities.
 
+---
 
+### [Help secondary school children continue their education during coronavirus (COVID-19)](/supporting-your-childrens-education-during-coronavirus/help-secondary-school-children-continue-their-education-during-coronavirus/)
 
-
-
+Advice for parents and carers looking after secondary school children.
