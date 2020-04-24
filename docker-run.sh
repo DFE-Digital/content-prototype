@@ -20,6 +20,10 @@ sed -i "s/listen       80;/listen $PORT;/" /etc/nginx/conf.d/default.conf
 sed -i 's/location \/ {/rewrite \^\/parents\/\$ https:\/\/dfe-content-prototype.herokuapp.com\/supporting-your-childrens-education-during-coronavirus\/help-secondary-school-children-continue-their-education-during-coronavirus\/index.html redirect;\
   location \/ {/' /etc/nginx/conf.d/default.conf
 
+# FIXME This line seems to be added in on heroku and seems to be the cause of
+# the permission error.
+sed -i 's/listen  [::]:80;//' /etc/nginx/conf.d/default.conf
+
 cat /etc/nginx/conf.d/default.conf
 
 exec nginx -g 'daemon off;'

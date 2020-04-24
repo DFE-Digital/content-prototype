@@ -23,6 +23,7 @@ RUN bundle exec nanoc compile
 FROM nginx:stable
 # Install htpasswd command
 RUN apt-get update -yqq && apt-get install -yqq apache2-utils
+ENV PORT=80
 
 COPY --from=build /app/output/ /usr/share/nginx/html/
 
