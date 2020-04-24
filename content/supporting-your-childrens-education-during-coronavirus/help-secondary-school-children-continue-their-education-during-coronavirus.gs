@@ -27,7 +27,7 @@ Alongside any work your child receives from school, you can use these [online ed
 
 [Educational programmes to help children learn at home](https://www.bbc.co.uk/bitesize/) are available on the BBC.
 
-You can also call [Starline](https://www.starline.org.uk/) on 0330 313 9162. They are a helpline that will give support and advice to parents on home learning until schools re-open.
+You can also call [Starline](https://www.starline.org.uk/) on 0330 313 9162. They are a free helpline providing support and advice to parents on home learning during the coronavirus outbreak.
 
 ##Structuring the day
 
@@ -49,7 +49,7 @@ As well as balancing their work, children will feel more comfortable and learn b
 
 ##Motivating your child
 
-Some parents may find it hard to motivate children to do school work outside of the classroom.
+Some parents may find it hard to motivate children to do school work outside the classroom.
 
 For ideas of how to motivate your child, you could try:
 
@@ -65,7 +65,7 @@ However, we know not all children have access to a device, or may only be able t
 
 Some schools have been able to provide children with devices, but this is not always possible. The government has also set up a new [scheme for schools to get devices](https://www.gov.uk/guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19) for specific groups of children to use.
 
-If you are concerned that your child cannot access the work that school is setting them contact the school.
+If you are concerned that your child cannot access the work that school is setting them, contact the school.
 
 Set age-appropriate parental controls on any devices your child uses and supervise their use of websites and apps. See [advice on keeping them safe online](https://www.gov.uk/government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online) and talk to your child about online safety.
 
@@ -121,7 +121,7 @@ The best way to help children aged 14 to 15 learn is to:
 
  * help them create a daily schedule for any work they’ve been set
  * try to help them balance any deadlines for when work has to be handed in
- * give them access to a computer of other digital device if they need it to complete their work, if one is not available contact their school
+ * give them access to a computer or another digital device if they need it to complete their work, if one is not available contact their school
  * take frequent breaks
  * praise or reward them when they do well
  * make time each day for them to read things that interest them
@@ -132,7 +132,7 @@ Ask them about what they’ve learned, or even try a quiz from [BBC bitesize](ht
 
 Parents may be worried about how the current situation will affect children sitting GCSEs next year.
 
-Our first priority has been to resolve the situation for year 11 children. However, we’re now working to make sure that children sitting exams next year are not treated unfairly because they’ve had to stay at home.
+Our first priority has been to resolve the situation for year 11 children. However, we’re now working to make sure that children sitting exams next year are treated fairly.
 
 ##Year 11 children
 
@@ -148,9 +148,7 @@ GCSE results will be given on Thursday 20 August 2020.
 
 ###If you do not agree with the estimated grade
 
-If you feel that this grade is not what your child would have got, they will be able to sit an exam later, when it’s safe to do so.
-
-If the grade they get in the exam is higher they will receive that grade. If the grade in the exam is lower they will receive the original estimated grade.
+If you and your child feel that this is not the grade you expected they will be able to sit an exam later, when it’s safe to do so.
 
 Your child should carry on doing any work or revision set for them by their school in case they want to sit an exam later and to prepare them for further education or whatever they have planned to do next.
 
@@ -179,13 +177,13 @@ Guidance is also available to help you [look after your own mental health](https
 ###What schools are doing
 
 
-Part of schools’ jobs is to provide pastoral care, the support they give children to help them to develop socially, academically, and personally. Schools are currently considering how to provide this in the current situation and are checking in on children’s wellbeing and safety.
+One of schools’ responsibilities is to provide pastoral care, the support they give children to help them to develop socially, academically, and personally. Schools are currently considering how to provide this in the current situation and are checking in on children’s wellbeing and safety.
 
 They will be contacting some children more, such as those who are vulnerable or those who are not completing work or replying to emails from teachers.
 
 Schools are also considering how to provide extra support to children who will find it harder to learn at home or are making the least progress. This includes children with special educational needs and disabilities (SEND), children who receive free school meals and children who have a social worker.
 
-If you feel that you need some more support, contact the school.
+If you feel that you need some more support, contact your child’s school.
 
 ###Talking to your child about coronavirus
 
