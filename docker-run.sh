@@ -17,7 +17,7 @@ fi
 sed -i "s/listen       80;/listen $PORT;/" /etc/nginx/conf.d/default.conf
 
 # FIXME remove this it's a temp work around for UR
-sed -i 's/location \/ {/rewrite \^\/parents\/\$ \/supporting-your-childrens-education-during-coronavirus\/help-secondary-school-children-continue-their-education-during-coronavirus\/index.html redirect;\
+sed -i 's/location \/ {/rewrite \^\/parents\/\$ https:\/\/dfe-content-prototype.herokuapp.com\/supporting-your-childrens-education-during-coronavirus\/help-secondary-school-children-continue-their-education-during-coronavirus\/index.html redirect;\
   location \/ {/' /etc/nginx/conf.d/default.conf
 
 exec nginx -g 'daemon off;'
