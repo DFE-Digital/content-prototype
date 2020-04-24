@@ -15,7 +15,7 @@ compile '/**/*.slim' do
 end
 
 compile '/**/*.gs' do
-  filter :govspeak
+  filter :govspeak, toc_levels: [1, 2]
   layout '/govspeak.*'
   write item.identifier.without_ext + '/index.html'
 end
