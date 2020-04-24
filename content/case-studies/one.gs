@@ -12,6 +12,17 @@ explore_the_topic:
 
 
 
+## A senior leader talks about her school's approach to supporting pupils' wellbeing
+
+Our school uses ClassDojo as one of a few ways to communicate with parents and carers. Families have engaged positively with us regularly and it has formed the basis of our home learning programme during this time. 
+ 
+During the transition period, we made bespoke home learning packs for our children which included a range of items such as bubbles, and craft materials as well as communication or choice boards and other table top activities. 
+ 
+In the packs, we also included specific equipment that we knew would support the children. For example, a specific cushion we have for a child via occupational therapy.
+ 
+The home learning packs were sent home with our children at the point of school closure.
+
+
 ## Adapting our programme of learning to be taught remotely
 
 Within school, we operate a personalised approach to learning to meet the individual needs of our pupils and this has continued through the programme of home learning.
@@ -29,7 +40,7 @@ We have combined ‘whole school’ sharing of activities, ideas, weblinks and s
  
 An example of this is a daily themed signing video clip led by one of our teaching assistants on the school page, and a personalised signing video done by a key worker using a child’s name and signs specific to them on a pupil’s own page. 
  
-Feedback from families have told us that their children respond really well to seeing faces and hearing voices of staff who are familiar to them. This is an important need for many children with SEND, and it has supported their motivation and engagement in attention and learning.
+Feedback from families have told us that their children respond really well to seeing faces and hearing voices of staff who are familiar to them. This is an important need for many children with SEND, and it has supported their motivation and engagement in attention and learning
 
 @These case studies share examples of best practice that the Department for Education gathered through consulting with more than 30 schools and academies across England. We've removed names of individuals and schools to protect their privacy.@
 
