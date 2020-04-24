@@ -1,0 +1,83 @@
+doctype html
+
+html.govuk-template lang='en'
+  == render '/partials/head.*'
+
+  body.govuk-template__body
+    script
+      | document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+
+    a.govuk-skip-link href="#main-content"
+      | Skip to main content
+
+    header.govuk-header.case-study-header role='banner' data-module='govuk-header'
+      .govuk-header__container.govuk-width-container
+        .govuk-header__logo
+          a.govuk-header__link.govuk-header__link--homepage href="/"
+            span.govuk-header__logotype
+              == render '/partials/crown.*'
+
+            span.govuk-header__logotype-text
+              | GOV.UK
+
+    .case-study-subheader
+      .govuk-width-container.case-study-subheader__content
+
+        == link_to 'Coronavirus (COVID-19): what you need to do', 'https://www.gov.uk/coronavirus', class: 'case-study-subheader__content--link'
+
+    .govuk-width-container
+      main#main-content.govuk-main-wrapper
+        .govuk-grid-row
+          .govuk-grid-column-two-thirds
+            span.govuk-caption-l Case study
+            h1.govuk-heading-l = item[:title]
+        - if item[:lead_paragraph]
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              p.gem-c-lead-paragraph = item[:lead_paragraph]
+
+        .govuk-grid-row
+          .govuk-grid-column-full
+            .case-study-metadata
+              ul.govuk-list
+                li
+                  | Published #{item[:date]}
+                li
+                  | From:
+
+                  strong<
+                    == link_to "Governments Actuary's Department", "https://www.gov.uk/government/organisations/government-actuarys-department"
+
+
+        .govuk-grid-row
+
+          .govuk-grid-column-two-thirds
+
+            main.gem-c-govspeak.case-study-document
+
+              == yield
+
+              - if item[:explore_the_topic]
+                .explore-the-topic
+                  h3.govuk-heading-s Explore the topic
+                  - item[:explore_the_topic].each do |link|
+                    div
+                      == link_to link[:name], link[:link]
+
+
+            - if item[:pagination]
+              == render '/partials/pagination.*', pagination: item[:pagination]
+
+          .govuk-grid-column-one-third
+            - if item[:show_teacher_contents]
+              == render '/partials/teacher_contents.*'
+
+            - if item[:related_content]
+              .related-content
+                h3.govuk-heading-s Related content
+
+                ul.govuk-list
+                  - item[:related_content].each do |link|
+                    li == link_to link[:name], link[:link]
+
+    == render '/partials/footer.*'
