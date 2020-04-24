@@ -14,9 +14,15 @@ compile '/**/*.slim' do
   write item.identifier.without_ext + '/index.html'
 end
 
+compile '/case-studies/**/*.gs' do
+  filter :govspeak
+  layout '/case-study.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 compile '/**/*.gs' do
   filter :govspeak
-  layout '/govspeak.*'
+  layout '/case-study.*'
   write item.identifier.without_ext + '/index.html'
 end
 
