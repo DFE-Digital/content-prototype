@@ -3,11 +3,19 @@ title: "Supporting the wellbeing of primary pupils’ with special educational n
 lead_paragraph: "Case study from a special school for primary age children with SEND"
 date: "24 April 2020"
 related_content:
-  - name: SEND
-    link: https://www.bbc.co.uk
+  - name: Remote education practice during coronavirus (COVID-19)
+    link: https://www.gov.uk/guidance/remote-education-during-coronavirus-covid-19
+  - name: Supporting pupils’ wellbeing
+    link: https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing		
+  - name: Adapting to remote education
+    link: https://www.gov.uk/guidance/remote-education-during-coronavirus-covid-19
+  - name: Adapting the curriculum for remote education
+    link: https://www.gov.uk/guidance/remote-education-during-coronavirus-covid-19#remote-education-resources-for-teachers
+  - name: Keeping pupils motivated and engaged
+    link: https://www.gov.uk/guidance/supporting-your-childrens-education-during-coronavirus-covid-19		
 explore_the_topic:
-  - name: Topic link
-    link: https://www.bbc.co.uk
+  - name: Case study collection on remote education practice during coronavirus
+    link: https://www.gov.uk
 ---
 
 
@@ -42,7 +50,7 @@ An example of this is a daily themed signing video clip led by one of our teachi
  
 Feedback from families have told us that their children respond really well to seeing faces and hearing voices of staff who are familiar to them. This is an important need for many children with SEND, and it has supported their motivation and engagement in attention and learning
 
-@These case studies share examples of best practice that the Department for Education gathered through consulting with more than 30 schools and academies across England. We've removed names of individuals and schools to protect their privacy.@
+@These case studies share examples of effective practice that the Department for Education gathered on [Remote education practice during coronavirus (COVID-19)](https://www.gov.uk/guidance/remote-education-during-coronavirus-covid-19) through consulting with more than 30 schools and academies across England. We've removed names of individuals and schools to protect their privacy.@
 
 
 

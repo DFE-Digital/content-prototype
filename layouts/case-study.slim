@@ -59,7 +59,7 @@ html.govuk-template lang='en'
 
               - if item[:explore_the_topic]
                 .explore-the-topic
-                  h3.govuk-heading-s Explore the topic
+                  h3.govuk-heading-s Collection
                   - item[:explore_the_topic].each do |link|
                     div
                       == link_to link[:name], link[:link]
