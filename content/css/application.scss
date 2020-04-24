@@ -14,10 +14,15 @@
 $info-bg: #edf8ff;
 
 // kramdown table of contents
+p.contents-title {
+  font-size: 16px;
+}
+
 #markdown-toc {
   margin-left: 0;
   margin-bottom: 2rem;
   list-style: none;
+  font-size: 16px;
 
   &ul,
   ul {
