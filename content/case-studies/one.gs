@@ -10,7 +10,7 @@ explore_the_topic:
     link: https://www.bbc.co.uk
 ---
 
-![Kitten](http://placekitten.com/g/200/200)
+
 
 ## Adapting our programme of learning to be taught remotely
 
@@ -31,8 +31,8 @@ An example of this is a daily themed signing video clip led by one of our teachi
  
 Feedback from families have told us that their children respond really well to seeing faces and hearing voices of staff who are familiar to them. This is an important need for many children with SEND, and it has supported their motivation and engagement in attention and learning.
 
-^These case studies share examples of best practice that the Department for Education gathered through consulting with more than 30 schools and academies across England. We've removed names of individuals and schools to protect their privacy.^
+@These case studies share examples of best practice that the Department for Education gathered through consulting with more than 30 schools and academies across England. We've removed names of individuals and schools to protect their privacy.@
 
 
-![Kitten](http://placekitten.com/g/500/200)
+
 
