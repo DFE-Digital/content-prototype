@@ -5,9 +5,8 @@ lead_paragraph: Advice for parents and carers looking after secondary school chi
 
 Contents
 {:.contents-title}
-
+{:.no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-
 {:toc}
 
 $CTA
