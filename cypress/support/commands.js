@@ -44,15 +44,6 @@ Cypress.Commands.add("shouldHaveFooter", () => {
   // .should("contain.text", "© Crown copyright");
 });
 
-Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
-  cy.get(".govuk-header__content")
-    .should("contain.text", "Remote education during coronavirus")
-    .should((el) => {
-      expect(el.find("a")).to.not.have.class("govuk-link");
-    });
-  cy.shouldHaveFooter();
-});
-
 Cypress.Commands.add("shouldHaveBreadcrumbs", () => {
   cy.get(".govuk-breadcrumbs").should("exist");
   cy.get(".govuk-breadcrumbs__list").within(() => {

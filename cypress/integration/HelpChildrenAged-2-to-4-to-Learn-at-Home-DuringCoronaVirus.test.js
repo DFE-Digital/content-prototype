@@ -3,7 +3,7 @@ describe("Help children aged 2 to 4 to learn at home during coronavirus (COVID-1
     cy.visit(
       "/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/"
     );
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 
