@@ -1,7 +1,7 @@
 describe("Help with technology page", () => {
   beforeEach(() => {
     cy.visit("/teachers/help-with-technology/");
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 

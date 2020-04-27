@@ -3,7 +3,7 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
     cy.visit(
       "/teachers/safeguarding-and-remote-teaching-during-coronavirus-covid-19/"
     );
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 

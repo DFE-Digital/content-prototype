@@ -1,7 +1,7 @@
 describe("Landing Page", () => {
   beforeEach(() => {
     cy.visit("/");
-    cy.shouldHaveLargeHeading();
+    cy.shouldHaveFooter();
     cy.shouldHaveFooter();
   });
 
