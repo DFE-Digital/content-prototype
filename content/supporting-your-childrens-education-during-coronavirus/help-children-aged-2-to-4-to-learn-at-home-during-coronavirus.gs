@@ -4,6 +4,11 @@ lead_paragraph: Advice for parents and carers of children who have not yet start
 status: published
 ---
 
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
 While children gain a lot from nursery, things that parents do at home can help their development more.
