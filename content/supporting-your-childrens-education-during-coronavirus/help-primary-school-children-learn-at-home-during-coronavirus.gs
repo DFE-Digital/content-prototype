@@ -8,6 +8,7 @@ pagination:
   next:
     path: /supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/
     text: Help children with SEND continue their education during coronavirus (COVID-19)
+status: published
 ---
 
 Specific guidance is available for supporting children in [reception, year 1 and year 2](#reception-year-1-and-year-2-children), and [year 3 to 6](#year-3-to-6-children).

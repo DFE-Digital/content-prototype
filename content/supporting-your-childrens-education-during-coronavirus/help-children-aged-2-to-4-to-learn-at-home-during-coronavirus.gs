@@ -5,6 +5,7 @@ pagination:
   next:
     path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
     text: Help primary school children learn at home during coronavirus (COVID-19)
+status: published
 ---
 
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
