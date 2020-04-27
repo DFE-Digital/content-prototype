@@ -6,6 +6,7 @@ pagination:
   previous:
     path: /teachers/safeguarding-and-remote-teaching-during-coronavirus-covid-19/
     text: Safeguarding and remote education during coronavirus (COVID-19)
+status: published
 ---
 Schools and colleges will soon be able to get access to more remote education resources during the school closure period. The Department for Education is working in partnership with technology suppliers such as Google and Microsoft to provide:
 
