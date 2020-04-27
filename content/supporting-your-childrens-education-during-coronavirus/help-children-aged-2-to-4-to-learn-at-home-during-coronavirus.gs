@@ -64,7 +64,7 @@ Try sharing things your child makes with your friends and family online and enco
 
 You can also visit [Hungry Little Minds](https://hungrylittleminds.campaign.gov.uk/) for ideas of activities to do together without using a device.
 
-### Socialising while social distancing
+## Socialising while social distancing
 
 Spending time with other children is important for your child’s development, but at the moment it is important they stay at home.
 
