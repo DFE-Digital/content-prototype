@@ -8,6 +8,7 @@ html.govuk-template lang='en'
     .govuk-width-container
       == render '/partials/phase-banner.*'
       == render '/partials/breadcrumbs.*'
+      == render '/partials/status-indicator.*'
 
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
@@ -26,6 +27,7 @@ html.govuk-template lang='en'
             main.gem-c-govspeak
               - if item[:lead_paragraph]
                 hr
+
               == yield
 
             - if item[:pagination]
