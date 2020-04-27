@@ -4,6 +4,7 @@ pagination:
   next:
     path: /teachers/help-with-technology/
     text: Get help with technology for remote education during coronavirus (COVID-19)
+status: published
 ---
 This guidance is to help schools and teachers support pupils' education at home during the coronavirus (COVID-19) outbreak. 
 
