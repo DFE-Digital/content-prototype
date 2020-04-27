@@ -4,16 +4,58 @@ title: Home
 .govuk-grid-row
   .govuk-grid-column-two-thirds
 
-    h2.govuk-heading-m
-      == link_to('Remote education during coronavirus (COVID-19)', '/teachers/')
+    #accordion-default.govuk-accordion[data-module="govuk-accordion"]
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-1.govuk-accordion__section-button
+              | School curriculum and teaching
 
-    p.govuk-body
-      | Information, guidance and support for teachers and leaders on educating children during the coronavirus outbreak.
+        #accordion-default-content-1.govuk-accordion__section-content
+          p.govuk-body
+            | School curriculum and teaching
 
-    hr.govuk-section-break.govuk-section-break--xl.govuk-section-break--visible
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-2.govuk-accordion__section-button
+              | Pupil wellbeing and safety
+        #accordion-default-content-2.govuk-accordion__section-content
+          p.govuk-body
+            | Pupil wellbeing and safety
 
-    h2.govuk-heading-m
-      == link_to(%{Supporting your children's education during coronavirus (COVID-19)}, '/supporting-your-childrens-education-during-coronavirus/')
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-2.govuk-accordion__section-button
+              | Closures, exams and managing a school or early years setting
+        #accordion-default-content-2.govuk-accordion__section-content
+          p.govuk-body
+            | Closures, exams and managing a school or early years setting
 
-    p.govuk-body
-      | Information, guidance and support for parents and carers of children who are learning at home.
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-3.govuk-accordion__section-button
+              | Funding and support for education providers
+        #accordion-default-content-3.govuk-accordion__section-content
+          p.govuk-body
+            | Funding and support for education providers
+
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-4.govuk-accordion__section-button
+              | Student accommodation, travel and financial support
+        #accordion-default-content-4.govuk-accordion__section-content
+          p.govuk-body
+            | Student accommodation, travel and financial support
+
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-5.govuk-accordion__section-button
+              | Further and higher education and vocational training
+        #accordion-default-content-5.govuk-accordion__section-content
+          p.govuk-body
+            | Further and higher education and vocational training

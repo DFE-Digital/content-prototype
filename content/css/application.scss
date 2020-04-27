@@ -87,10 +87,12 @@ code {
 
   .masthead__content {
     border-top: 10px solid govuk-colour('yellow');
+    border-bottom: 10px solid govuk-colour('yellow');
+    @include govuk-font($size: 19, $weight: 'bold');
 
-    .masthead__header > h1 {
+    .masthead__header > h2 {
       color: govuk-colour('white');
-      margin: 2rem 0;
+      margin: 1rem 0;
     }
   }
 
@@ -101,10 +103,6 @@ code {
 
     * {
       color: govuk-colour('white');
-    }
-
-    .submasthead__top_row {
-      border-bottom: 4px solid govuk-colour('yellow');
     }
 
     .submasthead__links-header {
