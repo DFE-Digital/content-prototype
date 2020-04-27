@@ -12,8 +12,10 @@ title: Home
               | School curriculum and teaching
 
         #accordion-default-content-1.govuk-accordion__section-content
-          p.govuk-body
-            | School curriculum and teaching
+          ul.govuk-list
+            li = link_to("Supporting your children's education during coronavirus", "#").html_safe
+            li = link_to("Online education resources", "#").html_safe
+            li = link_to("Remote education during coronavirus", "#").html_safe
 
       .govuk-accordion__section
         .govuk-accordion__section-header
@@ -21,8 +23,13 @@ title: Home
             span#accordion-default-heading-2.govuk-accordion__section-button
               | Pupil wellbeing and safety
         #accordion-default-content-2.govuk-accordion__section-content
-          p.govuk-body
-            | Pupil wellbeing and safety
+          ul.govuk-list
+            li = link_to("Supporting children and young people’s mental health and wellbeing", "#").html_safe
+            li = link_to("Free school meals", "#").html_safe
+            li = link_to("Implementing social distancing in education and childcare settings", "#").html_safe
+            li = link_to("Guidance on isolation for residential educational settings", "#").html_safe
+            li = link_to("Supporting vulnerable children", "#").html_safe
+            li = link_to("SEND risk assessment guidance", "#").html_safe
 
       .govuk-accordion__section
         .govuk-accordion__section-header
@@ -30,8 +37,13 @@ title: Home
             span#accordion-default-heading-2.govuk-accordion__section-button
               | Closures, exams and managing a school or early years setting
         #accordion-default-content-2.govuk-accordion__section-content
-          p.govuk-body
-            | Closures, exams and managing a school or early years setting
+          ul.govuk-list
+            li = link_to("Schools opening for children of key workers and vulnerable children", "#").html_safe
+            li = link_to("Guidance for schools and local authorities on closures", "#").html_safe
+            li = link_to("Early years and childcare closures", "#").html_safe
+            li = link_to("Guidance on early years education", "#").html_safe
+            li = link_to("Exam cancellations, results and appeals", "#").html_safe
+            li = link_to("Changes to data collection", "#").html_safe
 
       .govuk-accordion__section
         .govuk-accordion__section-header
@@ -39,8 +51,10 @@ title: Home
             span#accordion-default-heading-3.govuk-accordion__section-button
               | Funding and support for education providers
         #accordion-default-content-3.govuk-accordion__section-content
-          p.govuk-body
-            | Funding and support for education providers
+          ul.govuk-list
+            li = link_to("Get help with technology for remote education during coronavirus", "#").html_safe
+            li = link_to("Financial support for education, early years and children’s social care", "#").html_safe
+            li = link_to("Exceptional costs funding", "#").html_safe
 
       .govuk-accordion__section
         .govuk-accordion__section-header
@@ -48,8 +62,10 @@ title: Home
             span#accordion-default-heading-4.govuk-accordion__section-button
               | Student accommodation, travel and financial support
         #accordion-default-content-4.govuk-accordion__section-content
-          p.govuk-body
-            | Student accommodation, travel and financial support
+          ul.govuk-list
+            li = link_to("Student loans: current students", "#").html_safe
+            li = link_to("Student loans: prospective students", "#").html_safe
+            li = link_to("Universities: teaching, exams, accommodation, fees, loans, visas", "#").html_safe
 
       .govuk-accordion__section
         .govuk-accordion__section-header
@@ -57,5 +73,7 @@ title: Home
             span#accordion-default-heading-5.govuk-accordion__section-button
               | Further and higher education and vocational training
         #accordion-default-content-5.govuk-accordion__section-content
-          p.govuk-body
-            | Further and higher education and vocational training
+          ul.govuk-list
+            li = link_to("University admissions", "#").html_safe
+            li = link_to("Apprentices, employers and training providers", "#").html_safe
+            li = link_to("College closures", "#").html_safe
