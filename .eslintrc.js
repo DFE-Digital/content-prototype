@@ -10,6 +10,7 @@ module.exports = {
     "plugin:prettier/recommended",
     "plugin:cypress/recommended"
   ],
+  ignorePatterns: ["*.min.js"],
   rules: {
     semi: ["error", "always"],
     "prettier/prettier": ["error"],
