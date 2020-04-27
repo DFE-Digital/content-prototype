@@ -9,7 +9,7 @@ pagination:
 
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
-While children gain a lot from nursery, things that parents do at home can help their learning and development more.
+While children gain a lot from nursery, things that parents do at home can help their development more.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
 
@@ -76,6 +76,6 @@ Try a call with other people that your child knows, such as grandparents.
 
 Sit and do the call with them to help. Not all children will like it, so try again another time or have a call with family members while you are sitting down and eating a meal.
 
-Try sitting with your child and looking at pictures of their friends or family, talk about them and the things you have done together.
+Try sitting with your child and looking at pictures of their friends or family. Talk about them and the things you have done together.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
