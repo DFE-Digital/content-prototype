@@ -22,7 +22,7 @@ end
 
 compile '/**/*.gs' do
   filter :govspeak
-  layout '/case-study.*'
+  layout '/govspeak.*'
   write item.identifier.without_ext + '/index.html'
 end
 
