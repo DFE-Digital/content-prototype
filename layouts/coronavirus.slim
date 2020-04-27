@@ -25,44 +25,29 @@ html.govuk-template lang='en'
           .govuk-grid-row
             .govuk-grid-column-two-thirds
               .masthead__header
-                h1.govuk-heading-xl Coronavirus (COVID-19): what you need to do 
+                h2.govuk-heading-m Coronavirus (COVID-19): what you need to do
 
       .submasthead
         .govuk-width-container
           .govuk-grid-row.submasthead__top_row
             .govuk-grid-column-two-thirds
               section.submasthead__content
-                h3.govuk-heading-s Stay at home
+
+                span.govuk-caption-xl
+                  | Part of #{link_to('Coronavirus (COVID-19)', 'https://www.gov.uk/coronavirus').html_safe}
+                h1.govuk-heading-xl Education and childcare 
+
+
+                h3.govuk-heading-s How universities, nurseries, schools and colleges are working during coronavirus (COVID-19)
 
                 ul.govuk-list.govuk-list--bullet
-                  li Only go outside for food, health reasons or work (but only if you cannot work from home)
-                  li If you go out, stay 2 metres (6ft) away from other people at all times
-                  li Wash your hands as soon as you get home
-
+                  li Schools and nurseries remain closed to all pupils except children of keyworkers and vulnerable children
+                  li Exams are cancelled and grades will be assessed differently
+                  li Free school meals or food vouchers will be available for pupils not attending school
 
                 p.govuk-body
                   | Do not meet others, even friends or family. You can spread
-                    the virus even if you don’t have symptoms. 
-
-          .govuk-grid-row
-            .govuk-grid-column-full
-              header.submasthead__links-header
-                h3.govuk-heading-m Announcements
-          .govuk-grid-row
-            .govuk-grid-column-one-third
-              .submasthead__link
-                a.govuk-link href='https://www.gov.uk/government/news/chancellor-sets-out-extra-750-million-coronavirus-funding-for-frontline-charities'
-                  | £750 million extra funding for frontline charities
-
-            .govuk-grid-column-one-third
-              .submasthead__link
-                a.govuk-link href='https://www.nhs.uk/coronavirus-status-checker'
-                  | Tell the NHS about your current experience of coronavirus
-
-            .govuk-grid-column-one-third
-              .submasthead__link
-                a.govuk-link href='https://www.gov.uk/government/news/chancellor-gives-support-to-millions-of-self-employed-individuals'
-                  | If you're self-employed, you'll get up to £2,500 a month in grants for at least 3 months
+                    the virus even if you don’t have symptoms.
 
     .govuk-width-container
       main#main-content.govuk-main-wrapper
