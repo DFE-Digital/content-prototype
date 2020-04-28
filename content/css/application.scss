@@ -85,20 +85,10 @@ code {
 
   }
 
-  .masthead__content {
-    border-top: 10px solid govuk-colour('yellow');
-    border-bottom: 10px solid govuk-colour('yellow');
-    @include govuk-font($size: 19, $weight: 'bold');
-
-    .masthead__header > h2 {
-      color: govuk-colour('white');
-      margin: 1rem 0;
-    }
-  }
-
   $submasthead-bg: #272828;
 
   .submasthead {
+    border-top: 10px solid govuk-colour('yellow');
     background-color: $submasthead-bg;
 
     * {
