@@ -1,7 +1,7 @@
 describe("Supporting Children's Education Page", () => {
   beforeEach(() => {
     cy.visit("/supporting-your-childrens-education-during-coronavirus/");
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 

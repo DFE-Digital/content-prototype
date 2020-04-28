@@ -3,7 +3,7 @@ describe("Help children with SEND continue their education during coronavirus (C
     cy.visit(
       "/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/"
     );
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 

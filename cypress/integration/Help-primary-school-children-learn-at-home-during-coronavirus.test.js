@@ -3,7 +3,7 @@ describe("Help primary school children continue their education during coronavir
     cy.visit(
       "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/"
     );
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 
