@@ -2,7 +2,6 @@ describe("Landing Page", () => {
   beforeEach(() => {
     cy.visit("/");
     cy.shouldHaveFooter();
-    cy.shouldHaveFooter();
   });
 
   it("Shows the initial pages", () => {
