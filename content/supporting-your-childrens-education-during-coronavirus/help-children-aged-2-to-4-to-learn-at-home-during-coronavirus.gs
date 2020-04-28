@@ -1,16 +1,17 @@
 ---
 title: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
 lead_paragraph: Advice for parents and carers of children who have not yet started school
-pagination:
-  next:
-    path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
-    text: Help primary school children learn at home during coronavirus (COVID-19)
 status: published
 ---
 
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
-While children gain a lot from nursery, things that parents do at home can help their learning and development more.
+While children gain a lot from nursery, things that parents do at home can help their development more.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
 
@@ -63,7 +64,7 @@ Try sharing things your child makes with your friends and family online and enco
 
 You can also visit [Hungry Little Minds](https://hungrylittleminds.campaign.gov.uk/) for ideas of activities to do together without using a device.
 
-### Socialising while social distancing
+## Socialising while social distancing
 
 Spending time with other children is important for your child’s development, but at the moment it is important they stay at home.
 
@@ -77,6 +78,6 @@ Try a call with other people that your child knows, such as grandparents.
 
 Sit and do the call with them to help. Not all children will like it, so try again another time or have a call with family members while you are sitting down and eating a meal.
 
-Try sitting with your child and looking at pictures of their friends or family, talk about them and the things you have done together.
+Try sitting with your child and looking at pictures of their friends or family. Talk about them and the things you have done together.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
