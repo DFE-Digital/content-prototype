@@ -85,26 +85,14 @@ code {
 
   }
 
-  .masthead__content {
-    border-top: 10px solid govuk-colour('yellow');
-
-    .masthead__header > h1 {
-      color: govuk-colour('white');
-      margin: 2rem 0;
-    }
-  }
-
   $submasthead-bg: #272828;
 
   .submasthead {
+    border-top: 10px solid govuk-colour('yellow');
     background-color: $submasthead-bg;
 
     * {
       color: govuk-colour('white');
-    }
-
-    .submasthead__top_row {
-      border-bottom: 4px solid govuk-colour('yellow');
     }
 
     .submasthead__links-header {
