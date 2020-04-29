@@ -1,17 +1,12 @@
 ---
 title: Help primary school children continue their education during coronavirus (COVID-19)
 lead_paragraph: 'Advice for parents and carers looking after primary school children.'
-pagination:
-  previous:
-    path: /supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/
-    text: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
-  next:
-    path: /supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/
-    text: Help children with SEND continue their education during coronavirus (COVID-19)
 status: published
 ---
 
-Specific guidance is available for supporting children in [reception, year 1 and year 2](#reception-year-1-and-year-2-children), and [year 3 to 6](#year-3-to-6-children).
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 ^Read [advice for children of other age groups](#), and understand [which children may still attend school](#).^
 
@@ -21,7 +16,7 @@ No one expects parents to act as teachers, or to provide the activities and feed
 
 ## Structuring the day
 
-Do not worry about trying to maintain a full routine like your child had at school. But children will feel more comfortable and learn better with a predictable routine to the day, even if this is difficult.
+Do not worry about trying to maintain a full routine for your child like they had at school. But children will feel more comfortable and learn better with a predictable routine to the day, even if this is difficult.
 
 When schools provide children with work they may give you advice on how to structure the day. But generally, you should try to make sure that they:
 
@@ -36,7 +31,7 @@ Your child’s school may set them work that can be done on a digital device suc
 
 Set age-appropriate parental controls on any devices your child is using and supervise their use of websites and apps. See [advice on keeping them safe online](https://www.thinkuknow.co.uk/parents/articles/keeping-your-under-five-safe-online) and talk to your child about online safety.
 
-## Reducing screen time
+### Reducing screen time
 
 Digital devices are not the only way to learn. Manage screen time with a timer and break up screen time by getting your child to:
 
@@ -72,17 +67,17 @@ You can make a story more interesting and help your child develop their understa
 Ask your child questions about what you are reading as you go. For example:
 
 * ask some questions that only need a short answer, such as what colour something is, or the name of a character
-* ask some questions that need a longer answer, such as how is a character feeling
+* ask some questions that need a longer answer, such as how a character is feeling
 * ask them to tell you what has happened in the story so far
 
-Libraries are currently closed, however, you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
+Libraries are currently closed, but you can find digital services they are providing at [Libraries Connected](https://www.librariesconnected.org.uk/page/librariesfromhome).
 
 
 ### Phonics
 
 Phonics is a method schools use to teach children how to read quickly and skilfully.
 
-Contact your school who will be working on ways to help you with this. Try to sit with your child and practise with them, following the advice you get from their school.
+Contact your school, which will be working on ways to help you with this. Try to sit with your child and practise with them, following the advice you get from their school.
 
 ### Writing
 
@@ -130,13 +125,13 @@ Libraries are currently closed, however, you can find digital services they are 
 
 Try to help children practise their writing. Work from school may be set digitally, but using pen and paper will help children be ready for when they go back to school.
 
-## Information for parents of year 6 children
+### Information for parents of year 6 children
 
 Year 6 children (aged 10 to 11) should continue doing any work set for them by their school.
 
-To prepare for going to secondary school this can be a good time to follow their own interests. For example:
+To prepare for going to secondary school this can be a good time for them to follow their own interests. For example, for:
 
-* history, visiting the [English Heritage](https://www.english-heritage.org.uk/members-area/kids/) website to explore England’s history
+* history, by visiting the [English Heritage](https://www.english-heritage.org.uk/members-area/kids/) website to explore England’s history
 * geography, researching other countries
 * science, finding out more about the human body on [BBC Bitesize](https://www.bbc.co.uk/bitesize/topics/zcyycdm)
 * art, trying the activities on [TATE Kids](https://www.tate.org.uk/kids)
