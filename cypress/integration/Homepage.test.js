@@ -29,31 +29,23 @@ describe("Landing Page", () => {
   });
 
   it('Checks the "Remote education during coronavirus" hyperlink works', () => {
-    cy.get(".govuk-grid-column-two-thirds .govuk-link")
-      .eq(3)
+    cy.contains("Remote education during coronavirus")
       .should((el) => {
-        expect(el).to.contain.text("Remote education during coronavirus");
-        expect(el).to.have.attr("href");
-        expect(el.attr("href")).to.equal("/teachers/");
+        expect(el).to.have.attr("href", "/teachers/");
       })
-      .click({ force: true });
+      .click();
     cy.location("pathname").should("equal", "/teachers/");
   });
 
   it('Checks the "Supporting your children\'s education" hyperlink works', () => {
-    cy.get("#accordion-default-heading-1").click();
-    cy.get(".govuk-grid-column-two-thirds .govuk-link")
-      .eq(1)
+    cy.contains("Supporting your children's education during coronavirus")
       .should((el) => {
-        expect(el).to.contain.text(
-          "Supporting your children's education during coronavirus"
-        );
-        expect(el).to.have.attr("href");
-        expect(el.attr("href")).to.equal(
+        expect(el).to.have.attr(
+          "href",
           "/supporting-your-childrens-education-during-coronavirus/"
         );
       })
-      .click({ force: true });
+      .click();
     cy.location("pathname").should(
       "equal",
       "/supporting-your-childrens-education-during-coronavirus/"
