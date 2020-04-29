@@ -1,6 +1,6 @@
 ---
 title: "Supporting the wellbeing of primary pupils’ with special educational needs and disabilities (SEND)"
-lead_paragraph: "Case study from a special school for primary age children with SEND"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Remote education practice during coronavirus (COVID-19)
@@ -20,7 +20,7 @@ explore_the_topic:
 
 
 
-## A senior leader talks about her school's approach to supporting pupils' wellbeing
+
 
 Our school uses ClassDojo as one of a few ways to communicate with parents and carers. Families have engaged positively with us regularly and it has formed the basis of our home learning programme during this time. 
  
