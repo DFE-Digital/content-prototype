@@ -12,12 +12,4 @@ describe("Help children with SEND continue their education during coronavirus (C
       "Help children with SEND continue their education during coronavirus (COVID-19)"
     );
   });
-
-  it('Has "Previous" pagination', () => {
-    cy.shouldHavePagination(
-      "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/",
-      "Help primary school children continue their education during coronavirus (COVID-19)",
-      "Previous"
-    );
-  });
 });

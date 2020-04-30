@@ -18,20 +18,4 @@ describe("Help primary school children continue their education during coronavir
     cy.contains("Year 3 to 6 children").should("exist");
     cy.contains("Information for parents of year 6 children").should("exist");
   });
-
-  it('Has "Previous" pagination', () => {
-    cy.shouldHavePagination(
-      "/supporting-your-childrens-education-during-coronavirus/help-children-aged-2-to-4-to-learn-at-home-during-coronavirus/",
-      "Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)",
-      "Previous"
-    );
-  });
-
-  it('Has "Next" pagination', () => {
-    cy.shouldHavePagination(
-      "/supporting-your-childrens-education-during-coronavirus/help-children-with-send-learn-at-home-during-coronavirus/",
-      "Help children with SEND continue their education during coronavirus (COVID-19)",
-      "Next"
-    );
-  });
 });
