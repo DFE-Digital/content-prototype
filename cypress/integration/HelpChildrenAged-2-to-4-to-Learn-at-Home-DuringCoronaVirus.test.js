@@ -17,12 +17,4 @@ describe("Help children aged 2 to 4 to learn at home during coronavirus (COVID-1
     cy.contains("Television and using digital devices").should("exist");
     cy.contains("Socialising while social distancing").should("exist");
   });
-
-  it("Has pagination", () => {
-    cy.shouldHavePagination(
-      "/supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/",
-      "Help primary school children learn at home during coronavirus (COVID-19)",
-      "Next"
-    );
-  });
 });
