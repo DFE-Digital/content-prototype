@@ -5,7 +5,7 @@ show_teacher_contents: false
 pagination:
   previous:
     path: /teachers/whats-expected-of-teachers-during-coronavirus/
-    text: "What's expected of teachers during the coronavirus outbreak"
+    text: What's expected of teachers during the coronavirus outbreak
   next:
     path: /teachers/teaching-during-the-coronavirus-outbreak/
     text: Teaching during the coronavirus outbreak
@@ -49,6 +49,7 @@ For example, teachers might:
 * deliver lessons in the format their school prefers
 * give feedback on the assignments and activities pupils complete
 * be available to pupils for a certain block of time each day
+* and some other stuff
 
 You'll want to consider:
 
