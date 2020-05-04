@@ -9,7 +9,7 @@ related_content:
     link: /case-studies/adaptive-teaching-design/
   - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
-    - name: Using video lessons
+  - name: Using video lessons
     link: /case-studies/using-video-lessons/
 ---
 

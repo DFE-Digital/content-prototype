@@ -9,7 +9,7 @@ related_content:
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Adaptive teaching design
     link: /case-studies/adaptive-teaching-design/
-    - name: Using digital teaching tools
+  - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus

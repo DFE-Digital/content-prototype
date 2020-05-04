@@ -9,7 +9,7 @@ related_content:
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
-    - name: Using video lessons
+  - name: Using video lessons
     link: /case-studies/using-video-lessons/
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus

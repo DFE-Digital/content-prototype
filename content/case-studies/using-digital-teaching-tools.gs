@@ -9,7 +9,7 @@ related_content:
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Adaptive teaching design
     link: /case-studies/adaptive-teaching-design/
-    - name: Using video lessons
+  - name: Using video lessons
     link: /case-studies/using-video-lessons/
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
