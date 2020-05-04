@@ -1,5 +1,12 @@
 ---
 title: "Supporting engagement in learning for primary age pupils when direct communication is limited"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Keeping pupils motivated and engaged
+    link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+  - name: Keeping primary and secondary age pupils motivated and engaged at a distance
+    link: /case-studies/keeping-primary-and-secondary-age-pupils-motivated-and-engaged-at-a-distance/
 ---
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language
@@ -19,4 +26,5 @@ Pupils are being set daily foundation subject tasks to ensure that they do not o
 We are ensuring that all subjects are still covered over the course of two weeks, and that lessons are adapted from the existing lesson plans where possible, partly to minimise workload and partly to ensure continuity of learning.
  
 When work is set online, clear expectations of work are set out, and when work is not completed to a good standard, this is addressed through feedback to pupils and parents where necessary.
- 
+
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
