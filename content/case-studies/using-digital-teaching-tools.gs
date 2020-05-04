@@ -1,5 +1,19 @@
 ---
 title: "Using digital teaching tools"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Adapting to remote education
+    link: /remote-teaching/adapting-to-remote-education/
+  - name: Using a virtual learning environment
+    link: /case-studies/using-a-virtual-learning-environment/
+  - name: Adaptive teaching design
+    link: /case-studies/adaptive-teaching-design/
+    - name: Using video lessons
+    link: /case-studies/using-video-lessons/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: https://www.gov.uk
 ---
 
 ### Case study from a multi-academy trust of alternative provision schools.
@@ -15,3 +29,4 @@ In addition, teachers monitor the completion of the assignments, give more detai
 
 Using one platform for all the core subjects reduces the organisation demand on the learners and should support in developing the habit of online learning, at which point other strategies such as online lessons will be introduced.
 
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
