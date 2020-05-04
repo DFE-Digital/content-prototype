@@ -5,15 +5,12 @@ date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education
     link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+  - name: Adapting the primary school curriculum 
+    link: /case-studies/adapting-the-primary-school-curriculum/
+  - name: Adapting the secondary curriculum across multiple subjects
+    link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
   - name: Adapting the secondary geography curriculum
     link: /case-studies/adapting-the-secondary-geography-curriculum/
-  - name: Adaptive teaching design
-    link: /case-studies/adaptive-teaching-design/
-  - name: Using digital teaching tools
-    link: /case-studies/using-digital-teaching-tools/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from an experienced head of science who now runs an online business live streaming lessons in GCSE and A level physics.

@@ -1,5 +1,16 @@
 ---
 title: "Adapting the secondary geography curriculum"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Adapting the curriculum for remote education
+    link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+  - name: Adapting the primary school curriculum 
+    link: /case-studies/adapting-the-primary-school-curriculum/
+  - name: Adapting the secondary curriculum across multiple subjects
+    link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
+  - name: Adapting the secondary science curriculum
+    link: /case-studies/adapting-the-secondary-science-curriculum/
 ---
 
 ### Case study from a high school which is part of a small multi-academy trust and has an average proportion of pupils on free school meals.
@@ -15,3 +26,5 @@ In key stage 3, pupils are being set work fortnightly. There has been some reord
 In key stage 4, year 10 pupils are being set work weekly from a new topic that is considered to be less challenging and more accessible to work through at home. Again, this is being interleaved with review and consolidation from prior topics and/or skills development. Individual teachers are using Microsoft Teams to set practice exam questions with varying levels of engagement/success.
  
 In key stage 5, year 12 pupils are being set work weekly. They are continuing with the current topic and interleaving this with review/consolidation of prior learning.
+
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.

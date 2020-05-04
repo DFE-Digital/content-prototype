@@ -1,5 +1,16 @@
 ---
 title: "Adapting the secondary curriculum across multiple subjects"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Adapting the curriculum for remote education
+    link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+  - name: Adapting the primary school curriculum 
+    link: /case-studies/adapting-the-primary-school-curriculum/
+  - name: Adapting the secondary geography curriculum
+    link: /case-studies/adapting-the-secondary-geography-curriculum/
+  - name: Adapting the secondary science curriculum
+    link: /case-studies/adapting-the-secondary-science-curriculum/
 --- 
 
 ### Case study from a large single secondary academy with a low proportion of SEND pupils and a low proportion of pupils on free school meals.
@@ -15,3 +26,5 @@ In terms of adapting the curriculum, each department has detailed and fully reso
 Teacher explanations or teaching of new knowledge also needs to be planned more thoroughly. Many teachers are finding that they have initially been too ambitious about what can be achieved in a remote lesson compared to a normal classroom lesson. It is taking much longer to teach new knowledge and it is proving tricky to assess the students’ true understanding of this. 
 
 It is therefore important to slow things down, and in the next few weeks maybe to just focus on the essential knowledge for each topic rather than expecting to ‘cover’ the whole curriculum as it stands.
+
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.

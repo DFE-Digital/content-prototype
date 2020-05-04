@@ -1,5 +1,16 @@
 ---
 title: "Adapting the primary school curriculum"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Adapting the curriculum for remote education
+    link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+  - name: Adapting the secondary curriculum across multiple subjects
+    link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
+  - name: Adapting the secondary geography curriculum
+    link: /case-studies/adapting-the-secondary-geography-curriculum/
+  - name: Adapting the secondary science curriculum
+    link: /case-studies/adapting-the-secondary-science-curriculum/
 --- 
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language.
@@ -12,3 +23,4 @@ In key stage 1 and key stage 2, teachers set daily tasks for maths, literacy and
 
 For early years foundation stage (EYFS) we recognise that it is not easily possible for our pupils to access and submit work online, so daily work is sent to parents directly through Parent Mail. All activities for EYFS have been kept very simple and straightforward.
 
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
