@@ -3,7 +3,7 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
     cy.visit(
       "/teachers/safeguarding-and-remote-teaching-during-coronavirus-covid-19/"
     );
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 
@@ -32,9 +32,6 @@ describe("Safeguarding and remote teaching during coronavirus page", () => {
         "href",
         "https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers"
       );
-    });
-    cy.get(".gem-c-govspeak").within(() => {
-      cy.checksForBrokenLinks();
     });
   });
 

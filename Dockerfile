@@ -20,7 +20,7 @@ RUN bundle
 COPY . .
 RUN bundle exec nanoc compile
 
-FROM nginx:stable
+FROM nginx:1.16.1
 # Install htpasswd command
 RUN apt-get update -yqq && apt-get install -yqq apache2-utils
 ENV PORT=80

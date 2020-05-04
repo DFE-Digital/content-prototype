@@ -44,15 +44,6 @@ Cypress.Commands.add("shouldHaveFooter", () => {
   // .should("contain.text", "© Crown copyright");
 });
 
-Cypress.Commands.add("shouldHaveHeaderAndFooter", () => {
-  cy.get(".govuk-header__content")
-    .should("contain.text", "Remote education during coronavirus")
-    .should((el) => {
-      expect(el.find("a")).to.not.have.class("govuk-link");
-    });
-  cy.shouldHaveFooter();
-});
-
 Cypress.Commands.add("shouldHaveBreadcrumbs", () => {
   cy.get(".govuk-breadcrumbs").should("exist");
   cy.get(".govuk-breadcrumbs__list").within(() => {
@@ -68,8 +59,13 @@ Cypress.Commands.add("shouldContainAdvisory", (text) => {
     .should("contain.text", text);
 });
 
-Cypress.Commands.add("checksForBrokenLinks", () => {
-  cy.get("a").each((el) => {
-    cy.request("HEAD", el.attr("href")).its("status").should("equal", 200);
+Cypress.Commands.add("shouldHavePagination", (href, text, direction) => {
+  cy.get(".gem-c-pagination").within(() => {
+    cy.get(`a.gem-c-pagination__link[href="${href}"]`).should(($el) => {
+      expect($el).to.contain.text(text);
+      if (direction) {
+        expect($el).to.contain.text(direction);
+      }
+    });
   });
 });

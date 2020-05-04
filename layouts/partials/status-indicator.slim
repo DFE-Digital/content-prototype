@@ -1,0 +1,8 @@
+- if item[:status]&.downcase != 'published'
+  .status-indicator
+    - if item[:status]&.downcase == 'research'
+      strong.govuk-tag.govuk-tag--yellow
+        | User Research
+    - else
+      strong.govuk-tag.govuk-tag--red
+        | Draft

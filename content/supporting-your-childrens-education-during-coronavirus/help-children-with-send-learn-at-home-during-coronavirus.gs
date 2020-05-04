@@ -1,10 +1,7 @@
 ---
 title: Help children with SEND continue their education during coronavirus (COVID-19)
 lead_paragraph: 'Advice for parents and carers looking after children with special educational needs and disabilities (SEND)'
-pagination:
-  previous:
-    path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
-    text: Help primary school children continue their education during coronavirus (COVID-19)
+status: published
 ---
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend school](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
@@ -19,7 +16,7 @@ We have been working with a range of other organisations to create extra resourc
 
 * a list of [online education resources for children with SEND](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education#special-educational-needs-and-disabilities-send)
 * [coronavirus educational resources](http://www.thesensoryprojects.co.uk/covid19-resources) from The Sensory Projects
-* [SEND specific resources for learning from home](https://www.techability.org.uk/resources/aiding-learning-from-home/) from Tech Ability
+* [SEND-specific resources for learning from home](https://www.techability.org.uk/resources/aiding-learning-from-home/) from Tech Ability
 
 We have also worked with other organisations to create information on ways you can help your children learn at home. See:
 

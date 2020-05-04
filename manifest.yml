@@ -5,3 +5,8 @@ applications:
   buildpacks:
     - https://github.com/cloudfoundry/staticfile-buildpack
   root: output
+- name: remote-learning-research
+  memory: 64M
+  buildpacks:
+    - https://github.com/cloudfoundry/staticfile-buildpack
+  root: output

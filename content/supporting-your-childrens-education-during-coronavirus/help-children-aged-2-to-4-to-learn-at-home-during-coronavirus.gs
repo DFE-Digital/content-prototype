@@ -1,15 +1,17 @@
 ---
 title: Help children aged 2 to 4 to learn at home during coronavirus (COVID-19)
 lead_paragraph: Advice for parents and carers of children who have not yet started school
-pagination:
-  next:
-    path: /supporting-your-childrens-education-during-coronavirus/help-primary-school-children-learn-at-home-during-coronavirus/
-    text: Help primary school children learn at home during coronavirus (COVID-19)
+status: published
 ---
+
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 No one expects parents to act as teachers or childcare providers. Or to be able to provide all the activities that a nursery might.
 
-While children gain a lot from nursery, things that parents do at home can help their learning and development more.
+While children gain a lot from nursery, things that parents do at home can help their development more.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
 
@@ -62,7 +64,7 @@ Try sharing things your child makes with your friends and family online and enco
 
 You can also visit [Hungry Little Minds](https://hungrylittleminds.campaign.gov.uk/) for ideas of activities to do together without using a device.
 
-### Socialising while social distancing
+## Socialising while social distancing
 
 Spending time with other children is important for your child’s development, but at the moment it is important they stay at home.
 
@@ -76,6 +78,49 @@ Try a call with other people that your child knows, such as grandparents.
 
 Sit and do the call with them to help. Not all children will like it, so try again another time or have a call with family members while you are sitting down and eating a meal.
 
-Try sitting with your child and looking at pictures of their friends or family, talk about them and the things you have done together.
+Try sitting with your child and looking at pictures of their friends or family. Talk about them and the things you have done together.
 
 ^Read [advice for children of other age groups](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19), and understand [which children may still attend nursery or a childcare provider](https://www.gov.uk/government/publications/supporting-your-childrens-education-during-coronavirus-covid-19#can-i-send-my-child-to-school).^
+
+
+##Mental health and wellbeing
+
+Staying at home and the change of routine may make this a difficult time for some children. They might get upset more often, or return to some behaviours they had grown out of. It’s understandable and other families will be experiencing this.
+
+Try to keep your child away from news broadcasts that might scare them, take time to reassure them and be open to talking about their feelings.
+
+Read [advice on how to support your child’s wellbeing](https://www.gov.uk/government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing).
+
+Guidance is also available to help you [look after your own mental health](https://www.gov.uk/government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing).
+
+###Talking to your child about coronavirus
+
+Your child may ask you about what’s happening. Coronavirus can be a difficult thing to talk to young children about and you may be worried about upsetting them. However, ignoring the subject could upset them more. Be open to talking to them about it.
+
+ Try to:
+
+ * get down to your child’s level so they can see your face close to them
+ * reassure them that:
+   * you are there to keep them safe
+   * they are unlikely to get poorly and you will look after them if they do
+   * you would be looked after if you got poorly
+ * let them know it’s ok to be worried, do not dismiss their concerns or try to tell them how to feel about it
+ * avoid words they have not heard before as this might confuse them further
+ * listen to them carefully and answer the question they asked rather than giving them information they do not need
+ * be truthful, it’s ok to say you do not know the answer
+ * give simple reasons for why you are doing things such as washing hands and staying at home
+ * show them how they can help, for example by washing their hands, this will make them feel more in control
+ * use examples and comparisons they understand, for instance comparing it to a cold or staying off nursery if you are poorly
+* get your information from reliable sources such as this site or the NHS
+* help them give a name to what they are feeling, if they can’t tell you, make a suggestion like ‘“I get the feeling you’re a bit worried, it’s OK to feel worried”
+
+Talking about their feelings and concerns is a healthy thing and will help your child’s development.
+
+###Disagreements at home
+
+It’s normal to be feeling the strain at the moment and for there to be disagreements in the home.
+
+Children learn from the relationships they see between family members, particularly those between parents or carers. If your child sees you argue, it helps their wellbeing if they also see you resolving disagreements in a healthy way.
+
+This will also help them learn how to resolve their own disagreements in the future.
+

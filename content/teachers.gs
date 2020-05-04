@@ -1,5 +1,6 @@
 ---
 title: Remote education during coronavirus (COVID-19)
+status: published
 ---
 @This page and [information for parents](/supporting-your-childrens-education-during-coronavirus) will be updated regularly to include further resources and reflect the latest information and developments.@
 
@@ -17,7 +18,7 @@ Schools might also consider using resources from Oak National Academy, which is 
 
 Understand how to follow safeguarding procedures when planning remote education strategies and teaching remotely
 
-- - -
+---
 
 ### [Get help with technology for remote education during coronavirus (COVID-19)](/teachers/help-with-technology/)
 

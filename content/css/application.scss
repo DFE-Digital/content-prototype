@@ -85,26 +85,14 @@ code {
 
   }
 
-  .masthead__content {
-    border-top: 10px solid govuk-colour('yellow');
-
-    .masthead__header > h1 {
-      color: govuk-colour('white');
-      margin: 2rem 0;
-    }
-  }
-
   $submasthead-bg: #272828;
 
   .submasthead {
+    border-top: 10px solid govuk-colour('yellow');
     background-color: $submasthead-bg;
 
     * {
       color: govuk-colour('white');
-    }
-
-    .submasthead__top_row {
-      border-bottom: 4px solid govuk-colour('yellow');
     }
 
     .submasthead__links-header {
@@ -121,4 +109,69 @@ code {
     }
 
   }
+}
+
+.case-study-header {
+  background-color: govuk-colour('black');
+  border-bottom: 8px solid govuk-colour('yellow');
+
+  .govuk-header__container {
+    border-bottom: 0;
+    margin-bottom: 0;
+    .govuk-header {
+      margin-bottom: 0;
+      border-bottom: 0;
+    }
+  }
+}
+
+.case-study-subheader {
+  background-color: govuk-colour('black');
+
+  .case-study-subheader__content {
+    background-image: url('/css/component_guide/coronavirus-arrow.svg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding: 1rem 0;
+
+    .case-study-subheader__content--link {
+      color: govuk-colour('white');
+      @include govuk-font($size: 19, $weight: 'bold');
+      margin-left: 3.2rem;
+    }
+  }
+}
+
+.case-study-metadata {
+  padding: 1rem 0;
+
+  border-top: 1px solid govuk-colour('mid-grey');
+  margin: 0;
+
+  ul {
+    padding: 0;
+    li {
+      @include govuk-font($size: 14);
+    }
+  }
+}
+
+.case-study-document {
+  border-top: 1px solid govuk-colour('mid-grey');
+  padding-top: 2em;
+}
+
+.related-content {
+  border-top: 2px solid govuk-colour('blue');
+  padding-top: 2em;
+}
+
+.explore-the-topic {
+  border-top: 2px solid govuk-colour('blue');
+  margin-top: 2em;
+  padding-top: 1em;
+
+	a {
+		@include govuk-font($size: 14, $weight: 'bold');
+	}
 }

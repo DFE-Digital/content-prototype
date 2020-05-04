@@ -1,7 +1,7 @@
 describe("Teachers Page", () => {
   beforeEach(() => {
     cy.visit("/teachers/");
-    cy.shouldHaveHeaderAndFooter();
+    cy.shouldHaveFooter();
     cy.shouldHaveBreadcrumbs();
   });
 
