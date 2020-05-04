@@ -10,8 +10,6 @@ related_content:
   - name: Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust
     link: /case-studies/supporting-primary-and-secondary-age pupils-wellbeing-at-a-multi-academy-Trust/
 explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a single alternative provision academy which is part of a multi-academy trust

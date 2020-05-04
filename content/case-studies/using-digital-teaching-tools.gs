@@ -12,8 +12,6 @@ related_content:
   - name: Using video lessons
     link: /case-studies/using-video-lessons/
 explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a multi-academy trust of alternative provision schools.

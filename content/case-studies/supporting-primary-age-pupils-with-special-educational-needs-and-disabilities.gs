@@ -9,9 +9,6 @@ related_content:
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust
     link: /case-studies/supporting-primary-and-secondary-age pupils-wellbeing-at-a-multi-academy-Trust/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a special school for primary age children with SEND

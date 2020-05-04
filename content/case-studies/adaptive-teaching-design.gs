@@ -11,9 +11,6 @@ related_content:
     link: /case-studies/using-digital-teaching-tools/
   - name: Using video lessons
     link: /case-studies/using-video-lessons/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from an urban community secondary school with a high level of pupils who speak English as an additional language as well as a high proportion of pupils on free school meals.

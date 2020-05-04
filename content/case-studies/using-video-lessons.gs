@@ -11,9 +11,6 @@ related_content:
     link: /case-studies/adaptive-teaching-design/
   - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a multi-academy trust of alternative provision schools.
