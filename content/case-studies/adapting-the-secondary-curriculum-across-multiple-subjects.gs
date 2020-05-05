@@ -1,6 +1,6 @@
 ---
 title: "Adapting the secondary curriculum across multiple subjects"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A large single secondary academy with a low proportion of SEND pupils"
 date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education

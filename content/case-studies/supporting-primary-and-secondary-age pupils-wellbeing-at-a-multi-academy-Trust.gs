@@ -1,6 +1,6 @@
 ---
 title: "Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A small multi-academy trust of alternative provision schools reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Supporting pupils’ wellbeing

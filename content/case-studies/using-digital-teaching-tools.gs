@@ -1,6 +1,6 @@
 ---
 title: "Using digital teaching tools"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A multi-academy trust of alternative provision schools reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting to remote education

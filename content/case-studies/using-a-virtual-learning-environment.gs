@@ -1,6 +1,6 @@
 ---
 title: "Using a virtual learning environment"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A small multi-academy trust made up of just primary schools reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting to remote education

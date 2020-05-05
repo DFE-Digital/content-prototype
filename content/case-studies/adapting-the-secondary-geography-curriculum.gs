@@ -1,6 +1,6 @@
 ---
 title: "Adapting the secondary geography curriculum"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A high school which is part of a small multi-academy trust reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education

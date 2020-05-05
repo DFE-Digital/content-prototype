@@ -1,6 +1,6 @@
 ---
 title: "Adapting the primary school curriculum"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A large urban primary school with a high level of pupils who speak English as an additional language reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education

@@ -1,6 +1,6 @@
 ---
 title: "Keeping primary and secondary age pupils motivated and engaged at a distance"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A very large multi-academy trust which oversees a mixture of primary and secondary schools reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Keeping pupils motivated and engaged

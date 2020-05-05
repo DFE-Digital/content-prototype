@@ -1,6 +1,6 @@
 ---
 title: "Adaptive teaching design"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "An urban community secondary school with a high level of pupils who speak English as an additional language reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting to remote education
