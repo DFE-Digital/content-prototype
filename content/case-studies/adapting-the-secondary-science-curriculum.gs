@@ -1,5 +1,16 @@
 ---
 title: "Adapting the secondary science curriculum"
+lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+date: "24 April 2020"
+related_content:
+  - name: Adapting the curriculum for remote education
+    link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+  - name: Adapting the primary school curriculum 
+    link: /case-studies/adapting-the-primary-school-curriculum/
+  - name: Adapting the secondary curriculum across multiple subjects
+    link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
+  - name: Adapting the secondary geography curriculum
+    link: /case-studies/adapting-the-secondary-geography-curriculum/
 ---
 
 ### Case study from an experienced head of science who now runs an online business live streaming lessons in GCSE and A level physics.
@@ -13,5 +24,6 @@ We’re taking the following approach:
 * no work is being set for most year 11 students, though some work will be set as an option for those considering the subject at A level in September (so they can use this time to prepare)
 * for year 12, initial revision of tricky concepts and completing content for AS (with an introduction to topics they will cover in class in September)
 
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
 
 

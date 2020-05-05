@@ -9,9 +9,6 @@ related_content:
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust
     link: /case-studies/supporting-primary-and-secondary-age pupils-wellbeing-at-a-multi-academy-Trust/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a special school for primary age children with SEND
@@ -42,3 +39,4 @@ An example of this is a daily themed signing video clip led by one of our teachi
  
 Feedback from families have told us that their children respond really well to seeing faces and hearing voices of staff who are familiar to them. This is an important need for many children with SEND, and it has supported their motivation and engagement in attention and learning.
 
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.

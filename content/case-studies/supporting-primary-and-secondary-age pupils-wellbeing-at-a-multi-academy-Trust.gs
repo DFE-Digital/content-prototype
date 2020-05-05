@@ -9,9 +9,6 @@ related_content:
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting the wellbeing of primary age pupils’ with special educational needs and disabilities (SEND)
     link: /case-studies/supporting-primary-age-pupils-with-special-educational-needs-and-disabilities/
-explore_the_topic:
-  - name: Case study collection on remote education practice during coronavirus
-    link: https://www.gov.uk
 ---
 
 ### Case study from a small multi-academy trust of alternative provision schools
@@ -28,3 +25,4 @@ To ensure that we are staying present in student lives, we have:
 * sent packs of cards and travel games to the families who we know might need additional support in structuring time together, in particular, those families who are living in poverty (sadly there are many)
 * sent chocolate bars at Easter and specially designed ‘thinking of you’ postcards at random times so pupils know that we are there.
 
+@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
