@@ -1,19 +1,22 @@
 ---
 title: "Keeping primary and secondary age pupils motivated and engaged at a distance"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A very large multi-academy trust which oversees a mixture of primary and secondary schools reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Keeping pupils motivated and engaged
     link: /remote-teaching/keeping-pupils-motivated-and-engaged/
   - name: Supporting engagement in learning for primary age pupils when direct communication is limited
     link: /case-studies/supporting-engagement-in-learning-for-primary-age-pupils-when-direct-communication-is-limited/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### CCase study from a very large multi-academy trust which oversees a mixture of primary and secondary schools.
 
-Pastoral care and keeping the conversation going via online means is key. Within this environment, bitesize information is the way to sustain interest and engagement. 
+Pastoral care and continuing to communicate online is important. Bitesize information can help keep pupils interested and engaged when working online.
 
-Start by offering new information via flipped learning methods to initiate learning (where pupils are introduced to material before class, with classroom time then being used to develop understanding), then add details and more information during lesson time. This can be asynchronous (when pupils learn the same material at different times or locations) or synchronous (when pupils learn in real time with the teacher) and finish off by offering group work or activities to deepen learning.
+Start by offering new information via flipped learning methods to initiate learning (where pupils are introduced to material before class, with classroom time then being used to develop understanding), to initiate learning, then add details and more information during lesson time. This can be asynchronous (when pupils learn the same material at different times or locations) or synchronous (when pupils learn in real time with the teacher) and finish off by offering group work or activities to deepen learning.
 
 Our schools that have technology already embedded within teaching and learning have fostered effective learning communities. We are able to carry on teaching in a remote environment, if not at typical school hours, certainly for most part of the day.
 

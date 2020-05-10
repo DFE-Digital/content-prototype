@@ -1,12 +1,15 @@
 ---
 title: "Supporting engagement in learning for primary age pupils when direct communication is limited"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A large urban primary school with a high level of pupils who speak English as an additional language reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Keeping pupils motivated and engaged
     link: /remote-teaching/keeping-pupils-motivated-and-engaged/
   - name: Keeping primary and secondary age pupils motivated and engaged at a distance
     link: /case-studies/keeping-primary-and-secondary-age-pupils-motivated-and-engaged-at-a-distance/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language

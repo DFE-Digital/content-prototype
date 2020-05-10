@@ -1,14 +1,17 @@
 ---
 title: "Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A small multi-academy trust of alternative provision schools reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Supporting pupils’ wellbeing
-    link: /remote-teaching/supporting-pupils-wellbeing/		
+  - name: Supporting wellbeing
+    link: /remote-teaching/supporting-wellbeing/		
   - name: Supporting primary and secondary age pupils’ wellbeing at an academy
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting the wellbeing of primary age pupils’ with special educational needs and disabilities (SEND)
     link: /case-studies/supporting-primary-age-pupils-with-special-educational-needs-and-disabilities/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a small multi-academy trust of alternative provision schools

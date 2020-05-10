@@ -1,6 +1,6 @@
 ---
 title: "Adapting the secondary geography curriculum"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A high school which is part of a small multi-academy trust reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education
@@ -11,6 +11,11 @@ related_content:
     link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
   - name: Adapting the secondary science curriculum
     link: /case-studies/adapting-the-secondary-science-curriculum/
+  - name: Adapting the secondary curriculum at a special needs school
+    link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a high school which is part of a small multi-academy trust and has an average proportion of pupils on free school meals.

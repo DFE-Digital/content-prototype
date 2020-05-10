@@ -1,6 +1,6 @@
 ---
 title: "Adapting the primary school curriculum"
-lead_paragraph: "A special school for primary age children with SEND reveals its approach"
+lead_paragraph: "A large urban primary school with a high level of pupils who speak English as an additional language reveals its approach"
 date: "24 April 2020"
 related_content:
   - name: Adapting the curriculum for remote education
@@ -11,6 +11,11 @@ related_content:
     link: /case-studies/adapting-the-secondary-geography-curriculum/
   - name: Adapting the secondary science curriculum
     link: /case-studies/adapting-the-secondary-science-curriculum/
+  - name: Adapting the secondary curriculum at a special needs school
+    link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 --- 
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language.

@@ -3,12 +3,15 @@ title: "Supporting the wellbeing of primary age pupils’ with special education
 lead_paragraph: "A special school for primary age children with SEND reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Supporting pupils’ wellbeing
-    link: /remote-teaching/supporting-pupils-wellbeing/	
+  - name: Supporting wellbeing
+    link: /remote-teaching/supporting-wellbeing/	
   - name: Supporting primary and secondary age pupils’ wellbeing at an academy
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust
     link: /case-studies/supporting-primary-and-secondary-age pupils-wellbeing-at-a-multi-academy-Trust/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a special school for primary age children with SEND
@@ -29,9 +32,11 @@ The senior leadership created a ‘guidance for working at home’ document for 
  
 Each child has a designated ‘key worker’ who is a member of the staff team in which they are based, and therefore is someone familiar to them and their needs, and someone who already has a relationship with the family. The class teacher continues to have oversight of the home learning programmes and liaises with class teams on the engagement with families. 
  
-A structure of liaison between members of the senior management team and teachers ensures the co-ordination and effectiveness of systems across school. We have regular online senior management meetings which enables us to monitor and evaluate the systems in place and to respond to any issues.
- 
-### Things that have worked well and how we know
+Communication and coordination between members of the senior management team and teachers ensures the systems we have in place across the school are  effective.
+
+We have regular online senior management meetings which enables us to monitor and evaluate the systems in place and to respond to any issues.
+
+### What worked well and how we know
  
 We have combined ‘whole school’ sharing of activities, ideas, weblinks and support using the school ClassDojo page with a more bespoke and personalised programme of activities, ideas and links through key workers to individual pupil ClassDojo pages. 
  
