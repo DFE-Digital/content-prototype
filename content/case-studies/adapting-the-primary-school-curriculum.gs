@@ -11,6 +11,8 @@ related_content:
     link: /case-studies/adapting-the-secondary-geography-curriculum/
   - name: Adapting the secondary science curriculum
     link: /case-studies/adapting-the-secondary-science-curriculum/
+  - name: Adapting the secondary curriculum at a special needs school
+    link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
 --- 
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language.

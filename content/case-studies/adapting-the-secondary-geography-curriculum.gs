@@ -11,6 +11,8 @@ related_content:
     link: /case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/
   - name: Adapting the secondary science curriculum
     link: /case-studies/adapting-the-secondary-science-curriculum/
+  - name: Adapting the secondary curriculum at a special needs school
+    link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
 ---
 
 ### Case study from a high school which is part of a small multi-academy trust and has an average proportion of pupils on free school meals.

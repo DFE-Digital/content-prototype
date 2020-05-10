@@ -11,6 +11,8 @@ related_content:
     link: /case-studies/adapting-the-secondary-geography-curriculum/
   - name: Adapting the secondary science curriculum
     link: /case-studies/adapting-the-secondary-science-curriculum/
+  - name: Adapting the secondary curriculum at a special needs school
+    link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
 --- 
 
 ### Case study from a large single secondary academy with a low proportion of SEND pupils and a low proportion of pupils on free school meals.
