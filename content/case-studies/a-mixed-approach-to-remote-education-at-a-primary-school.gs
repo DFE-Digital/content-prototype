@@ -3,8 +3,8 @@ title: "A mixed approach to remote education at a primary school"
 lead_paragraph: "A one-form-entry primary school shares their approach. This school has a high proportion of pupils entitled to free school meals (FSM) and serves a mixed catchment area."
 date: "24 April 2020"
 related_content:
-  - name: Adapting to remote education
-    link: /remote-teaching/adapting-to-remote-education/
+  - name: Adapting teaching practise for remote education
+    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Using a virtual learning environment
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Using digital teaching tools
@@ -13,6 +13,9 @@ related_content:
     link: /case-studies/using-video-lessons/
   - name: Providing physical work packs for pupils with limited or no internet connection
     link: /case-studies/providing-physical-work-packs-for-pupils-with-limited-or-no-internet-connection/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from an one-form-entry primary school with a high proportion of pupils entitled to free school meals (FSM)

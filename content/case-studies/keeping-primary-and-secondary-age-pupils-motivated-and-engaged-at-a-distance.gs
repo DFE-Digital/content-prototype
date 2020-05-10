@@ -7,6 +7,9 @@ related_content:
     link: /remote-teaching/keeping-pupils-motivated-and-engaged/
   - name: Supporting engagement in learning for primary age pupils when direct communication is limited
     link: /case-studies/supporting-engagement-in-learning-for-primary-age-pupils-when-direct-communication-is-limited/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### CCase study from a very large multi-academy trust which oversees a mixture of primary and secondary schools.

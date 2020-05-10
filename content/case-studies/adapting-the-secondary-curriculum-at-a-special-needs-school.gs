@@ -13,6 +13,9 @@ related_content:
     link: /case-studies/adapting-the-secondary-science-curriculum/
   - name: Adapting the secondary geography curriculum
     link: /case-studies/adapting-the-secondary-geography-curriculum/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a special needs secondary school

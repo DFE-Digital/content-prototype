@@ -3,14 +3,17 @@ title: "Adaptive teaching design"
 lead_paragraph: "An urban community secondary school with a high level of pupils who speak English as an additional language reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Adapting to remote education
-    link: /remote-teaching/adapting-to-remote-education/
+  - name: Adapting teaching practise for remote education
+    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Using a virtual learning environment
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
   - name: Using video lessons
     link: /case-studies/using-video-lessons/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from an urban community secondary school with a high level of pupils who speak English as an additional language as well as a high proportion of pupils on free school meals.

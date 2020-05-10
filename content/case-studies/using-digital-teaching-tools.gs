@@ -3,8 +3,8 @@ title: "Using digital teaching tools"
 lead_paragraph: "A multi-academy trust of alternative provision schools reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Adapting to remote education
-    link: /remote-teaching/adapting-to-remote-education/
+  - name: Adapting teaching practise for remote education
+    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Using a virtual learning environment
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Adaptive teaching design
@@ -12,6 +12,8 @@ related_content:
   - name: Using video lessons
     link: /case-studies/using-video-lessons/
 explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a multi-academy trust of alternative provision schools.

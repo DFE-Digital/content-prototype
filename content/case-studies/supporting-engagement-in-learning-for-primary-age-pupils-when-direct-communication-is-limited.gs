@@ -7,6 +7,9 @@ related_content:
     link: /remote-teaching/keeping-pupils-motivated-and-engaged/
   - name: Keeping primary and secondary age pupils motivated and engaged at a distance
     link: /case-studies/keeping-primary-and-secondary-age-pupils-motivated-and-engaged-at-a-distance/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a large urban primary school which is part of a small multi-academy trust of primary schools with a high level of pupils who speak English as an additional language

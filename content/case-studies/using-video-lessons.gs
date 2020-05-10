@@ -3,14 +3,17 @@ title: "Using video lessons"
 lead_paragraph: "A a multi-academy trust of alternative provision schools reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Adapting to remote education
-    link: /remote-teaching/adapting-to-remote-education/
+  - name: Adapting teaching practise for remote education
+    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Using a virtual learning environment
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Adaptive teaching design
     link: /case-studies/adaptive-teaching-design/
   - name: Using digital teaching tools
     link: /case-studies/using-digital-teaching-tools/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a multi-academy trust of alternative provision schools.

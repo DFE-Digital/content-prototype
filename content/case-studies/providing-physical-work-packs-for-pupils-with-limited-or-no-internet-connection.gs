@@ -3,8 +3,8 @@ title: "Providing physical work packs for pupils with limited or no internet con
 lead_paragraph: "A multi-academy trust (MAT) made up of primary schools mainly located in urban and rural disadvantaged areas shares its approach."
 date: "24 April 2020"
 related_content:
-  - name: Adapting to remote education
-    link: /remote-teaching/adapting-to-remote-education/
+  - name: Adapting teaching practise for remote education
+    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Using a virtual learning environment
     link: /case-studies/using-a-virtual-learning-environment/
   - name: Using digital teaching tools
@@ -13,6 +13,9 @@ related_content:
     link: /case-studies/using-video-lessons/
   - name: A mixed approach to remote education at a primary school
     link: /case-studies/a-mixed-approach-to-remote-education-at-a-primary-school/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a multi-academy trust (MAT) made up of primary schools mainly located in urban and rural disadvantaged areas.

@@ -13,6 +13,9 @@ related_content:
     link: /case-studies/adapting-the-secondary-geography-curriculum/
   - name: Adapting the secondary curriculum at a special needs school
     link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from an experienced head of science who now runs an online business live streaming lessons in GCSE and A level physics.

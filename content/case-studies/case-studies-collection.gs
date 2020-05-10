@@ -4,7 +4,7 @@ lead_paragraph: "A collection of case studies for remote education practice for 
 date: "24 April 2020"
 related_content:
   - name: Supporting wellbeing
-    link: /remote-teaching/supporting-pupils-wellbeing/
+    link: /remote-teaching/supporting-wellbeing/
   - name: Adapting teaching practise for remote education
     link: /remote-teaching/adapting-teaching-practise-for-remote-education/
   - name: Adapting the curriculum for remote education

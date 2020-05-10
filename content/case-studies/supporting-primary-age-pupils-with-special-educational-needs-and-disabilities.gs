@@ -3,12 +3,15 @@ title: "Supporting the wellbeing of primary age pupils’ with special education
 lead_paragraph: "A special school for primary age children with SEND reveals its approach"
 date: "24 April 2020"
 related_content:
-  - name: Supporting pupils’ wellbeing
-    link: /remote-teaching/supporting-pupils-wellbeing/	
+  - name: Supporting wellbeing
+    link: /remote-teaching/supporting-wellbeing/	
   - name: Supporting primary and secondary age pupils’ wellbeing at an academy
     link: /case-studies/supporting-primary-and-secondary-age-pupils-wellbeing-at-an-academy/
   - name: Supporting primary and secondary age pupils’ wellbeing at a multi-academy trust
     link: /case-studies/supporting-primary-and-secondary-age pupils-wellbeing-at-a-multi-academy-Trust/
+explore_the_topic:
+  - name: Case study collection on remote education practice during coronavirus
+    link: /case-studies/case-studies-collection/
 ---
 
 ### Case study from a special school for primary age children with SEND
