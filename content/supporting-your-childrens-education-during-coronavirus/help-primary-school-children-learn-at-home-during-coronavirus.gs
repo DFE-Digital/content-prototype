@@ -4,6 +4,7 @@ lead_paragraph: 'Advice for parents and carers looking after primary school chil
 status: published
 ---
 
+Contents
 {:.no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}

@@ -13,10 +13,16 @@
 
 $info-bg: #edf8ff;
 
+p.no_toc {
+  font-size: 16px;
+  margin-bottom: 0;
+}
 // kramdown table of contents
 #markdown-toc {
+  font-size: 16px;
   margin-left: 0;
   margin-bottom: 2rem;
+  margin-top: 0.75rem;
   list-style: none;
 
   &ul,
