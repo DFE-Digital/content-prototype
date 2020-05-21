@@ -30,10 +30,25 @@ html.govuk-template lang='en'
 
               == yield
 
+            - if item[:explore_the_topic]
+              .explore-the-topic
+                h3.govuk-heading-s Explore the topic
+                - item[:explore_the_topic].each do |link|
+                  div
+                    == link_to link[:name], link[:link]
+
             - if item[:pagination]
               == render '/partials/pagination.*', pagination: item[:pagination]
 
           .govuk-grid-column-one-third
             - if item[:show_teacher_contents]
               == render '/partials/teacher_contents.*'
+
+            - if item[:related_content]
+              .related-content
+                h3.govuk-heading-s Related content
+
+                ul.govuk-list
+                  - item[:related_content].each do |link|
+                    li == link_to link[:name], link[:link]
     == render '/partials/footer.*'
