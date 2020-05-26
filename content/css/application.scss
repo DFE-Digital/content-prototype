@@ -117,6 +117,27 @@ code {
   }
 }
 
+.covid__page-guidance {
+  @include govuk-responsive-padding(8, "top");
+  @include govuk-responsive-padding(6, "bottom");
+  background-color: govuk-colour('light-grey');
+  color: govuk-colour('black');
+
+  li {
+    @include govuk-responsive-margin(3, "bottom");
+  }
+}
+
+.covid__list-item {
+  display: table;
+}
+
+.covid__list-bullet {
+  padding-right: 0.5rem;
+  vertical-align: top;
+  display: table-cell;
+}
+
 .case-study-header {
   background-color: govuk-colour('black');
   border-bottom: 8px solid govuk-colour('yellow');
