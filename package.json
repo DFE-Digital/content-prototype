@@ -9,12 +9,6 @@
   "scripts": {
     "prestart": "bundle exec nanoc",
     "start": "bundle exec nanoc view",
-    "cy:verify": "cypress verify",
-    "cy:info": "cypress info",
-    "cy:run": "cypress run",
-    "cy:open": "cypress open",
-    "test": "concurrently \"npm:test:e2e\"",
-    "test:e2e": "export CYPRESS_BASE_URL=http://localhost:3000 && start-server-and-test start $CYPRESS_BASE_URL cy:run",
     "lint:css": "stylelint **/*.scss **/*.css",
     "lint:js": "eslint .",
     "lint:ruby": "bundle exec rubocop .",
@@ -28,10 +22,8 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
-    "cypress": "^4.3.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",
-    "eslint-plugin-cypress": "^2.10.3",
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.0",

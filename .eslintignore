@@ -4,3 +4,4 @@ coverage
 output
 tmp
 content/css/govuk/
+content/admin/govspeak-common.js
