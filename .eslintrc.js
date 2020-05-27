@@ -7,8 +7,7 @@ module.exports = {
   // parser: 'babel-eslint',
   extends: [
     "eslint:recommended",
-    "plugin:prettier/recommended",
-    "plugin:cypress/recommended"
+    "plugin:prettier/recommended"
   ],
   ignorePatterns: ["*.min.js"],
   rules: {
