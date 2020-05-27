@@ -41,6 +41,21 @@ html.govuk-template lang='en'
                 p.govuk-body
                   | Do not meet others, even friends or family. You can spread
                     the virus even if you don’t have symptoms.
+                    
+      .covid__page-guidance
+        .govuk-width-container
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              h2 class="gem-c-heading gem-c-heading--font-size-19 govuk-!-margin-bottom-3" What you can do now
+              ul.govuk-list
+                li.covid__list-item
+                  span class="covid__list-bullet" == render '/partials/coronavirus-arrow.*'
+                  a class="govuk-link govuk-!-font-weight-bold" href="#"
+                    | Protective measures: keep children and staff safe when school reopen
+                li.covid__list-item
+                  span class="covid__list-bullet" == render '/partials/coronavirus-arrow.*'
+                  a class="govuk-link govuk-!-font-weight-bold" href="#"
+                    | School reopenings: prepare to reopen your school
 
     .govuk-width-container
       main#main-content.govuk-main-wrapper

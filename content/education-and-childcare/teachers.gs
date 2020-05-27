@@ -27,30 +27,30 @@ To help protect communities from coronavirus (COVID-19), schools and educational
 
 This guidance includes strategies and practices that teachers and leaders have found useful for supporting education in the home environment. It has been produced by the Department for Education in partnership with the education sector.
 
-## Guidance on remote education during coronavirus
-
-### [Safeguarding and remote education during coronavirus (COVID-19)](https://www.gov.uk/guidance/safeguarding-and-remote-education-during-coronavirus-covid-19)
-
-Understand how to follow safeguarding procedures when planning remote education strategies and teaching remotely.
-
-### [Remote education practice for schools during coronavirus (COVID-19)](https://www.gov.uk/guidance/remote-education-practice-for-schools-during-coronavirus-covid-19)
-
-An opportunity for schools to learn from each other’s emerging practice as they develop their approaches to providing remote education.
-
-### [Get technology support for children and schools during coronavirus (COVID-19)](https://www.gov.uk/guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19)
-
-The Department for Education is working in partnership with an industry coalition to provide technology to support remote education.
-
 ## Remote education resources for teachers
 
-### Online educational resources
+We have published an initial list of [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources) covering various subjects and age groups that have been recommended by teachers and school leaders.
 
-We have published an initial list of [online educational resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education) covering various subjects and age groups that have been recommended by teachers and school leaders.
-
-### Bitesize daily by BBC
+### The BBC
 
 [Bitesize Daily](https://www.bbc.co.uk/bitesize/dailylessons) has been developed by the BBC to provide new lessons every weekday for pupils in Year 1 to Year 10. Created in collaboration with teachers and educational experts, videos and interactive activities cover core subjects and other topics on the school curriculum. Content is available for free on television, online and through BBC iPlayer.
 
 ### Oak National Academy
 
 Schools might also consider using resources from [Oak National Academy](https://www.thenational.academy/), which was created by teachers from schools across England in response to school closures. This free resource for teachers will provide the equivalent of three hours of lessons a day for primary school pupils and four hours a day for secondary across a variety of subjects. Lessons have been devised by practising teachers, combining videos, quizzes and worksheets.
+
+Schools can download the [Oak schools pack](https://www.thenational.academy/schools-pack), which provides guidance and videos to share should schools want to use Oak as part of their remote education plans. Packs are available for primary, secondary and specialist schools, and include the full Oak curriculum (until the end of the summer term) to help schools plan.
+
+## Guidance on remote education during coronavirus
+
+### [Safeguarding and remote education during coronavirus (COVID-19)](https://www.gov.uk/guidance/safeguarding-and-remote-education-during-coronavirus-covid-19)
+
+Understand how to follow safeguarding procedures when planning remote education strategies and teaching remotely.
+
+### [Remote education practice for schools during coronavirus (COVID-19)](/remote-teaching/remote-education-practice-for-schools-during-coronavirus/)
+
+An opportunity for schools to learn from each other’s emerging practice as they develop their approaches to providing remote education.
+
+### [Get technology support for children and schools during coronavirus (COVID-19)](https://www.gov.uk/guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19)
+
+The Department for Education is working in partnership with an industry coalition to provide technology to support remote education.
