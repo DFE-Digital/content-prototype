@@ -202,3 +202,7 @@ code {
 		@include govuk-font($size: 14, $weight: 'bold');
 	}
 }
+
+.gem-c-step-nav-header.part-of-banner {
+  border-top: none;
+}
