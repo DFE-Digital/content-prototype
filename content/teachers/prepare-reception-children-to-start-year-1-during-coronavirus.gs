@@ -2,6 +2,11 @@
 title: 'Schools: prepare reception children to start year one during coronavirus (COVID-19)'
 lead_paragraph: 'Advice for schools on handling the transition from reception to year one.'
 ---
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 The move from reception to year one is a major change for children. The current situation makes it especially difficult for schools to manage this move successfully.
 
 Schools are best placed to identify the specific needs of pupils and their parents or carers. You should use the methods that you know will work best to support the move to year one. However, we recommend that you consider the steps outlined here.
