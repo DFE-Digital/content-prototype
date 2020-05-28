@@ -23,6 +23,8 @@ It outlines some approaches that have worked for schools and includes case studi
 * [adapting the curriculum for remote education](/remote-teaching/adapting-the-curriculum-for-remote-education/)
 * [keeping pupils motivated and engaged](/remote-teaching/keeping-pupils-motivated-and-engaged/)
 
+^This guidance was last updated on 31st May to include new information on staff wellbeing and ensuring remote education is accessible offline.^
+
 The schools that have informed this guidance are developing their practice in a variety of different circumstances.
 
 School leaders have explained that providing remote education will be different for every school, and that the approaches taken will depend on each school’s unique circumstances and challenges. This includes considering the age of pupils. Remote education for younger children will typically need more involvement from parents, and parents are facing a range of pressures at this time.
