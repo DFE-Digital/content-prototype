@@ -21,17 +21,6 @@ html.govuk-template lang='en'
               p.gem-c-lead-paragraph = item[:lead_paragraph]
 
         .govuk-grid-row
-          .govuk-grid-column-full
-            .case-study-metadata
-              ul.govuk-list
-                li
-                  | Published #{item[:date]}
-                li
-                  | From:
-
-                  strong< Anonymous
-
-        .govuk-grid-row
           .govuk-grid-column-two-thirds
             - if item[:safety_warning]
               == render '/partials/safety_warning.*'
