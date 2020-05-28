@@ -1,0 +1,40 @@
+.covid-bar {
+  background-color: black;
+  color: white;
+  font-family: "nta", Arial, sans-serif;
+  font-size: 19px;
+  height: 85px;
+  .covid-wrapper {
+    @include govuk-responsive-margin(6, "left");
+    @include govuk-responsive-padding(4, "top");
+    display: grid;
+    align-items: center;
+    grid-template-columns: 50px 1fr;
+    &:before {
+      background-image: url('/css/component_guide/coronavirus-arrow.svg');
+      background-repeat: no-repeat;
+      background-position: 0 50%;
+      background-size: 37px auto;
+      content: "";
+      display: inline-block;
+      height: 45px;
+      width: 50px;
+    }
+    .covid-link-container {
+      a {
+        color: white;
+      }
+      @include govuk-media-query($until: tablet) {
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+      span {
+        @include govuk-media-query($from: tablet) {
+          &:before {
+            content: " | "
+          }
+        }
+      }
+    }
+  }
+}
