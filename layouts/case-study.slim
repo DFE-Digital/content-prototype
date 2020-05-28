@@ -20,10 +20,7 @@ html.govuk-template lang='en'
             span.govuk-header__logotype-text
               | GOV.UK
 
-    .case-study-subheader
-      .govuk-width-container.case-study-subheader__content
-
-        == link_to 'Coronavirus (COVID-19): what you need to do', 'https://www.gov.uk/coronavirus', class: 'case-study-subheader__content--link'
+    == render '/partials/covid_bar.*'
 
     .govuk-width-container
       == render '/partials/part-of-banner.*'
