@@ -75,5 +75,13 @@ html.govuk-template lang='en'
                 ul.govuk-list
                   - item[:related_content].each do |link|
                     li == link_to link[:name], link[:link]
+            
+            - if item[:collection_content]
+              .collection-content
+                h3 Collection
+
+                ul.govuk-list
+                  -item[:collection_content].each do |link|
+                    li == link_to link[:name], link[:link]
 
     == render '/partials/footer.*'

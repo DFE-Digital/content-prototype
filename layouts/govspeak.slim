@@ -6,7 +6,6 @@ html.govuk-template lang='en'
   body.govuk-template__body
     == render '/partials/header.*'
     == render '/partials/covid_bar.*'
-
     .govuk-width-container
       == render '/partials/phase-banner.*'
       == render '/partials/breadcrumbs.*'
@@ -15,11 +14,22 @@ html.govuk-template lang='en'
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
           .govuk-grid-column-two-thirds
-            h1.govuk-heading-xl = item[:title]
+            h1.govuk-heading-l = item[:title]
         - if item[:lead_paragraph]
           .govuk-grid-row
             .govuk-grid-column-two-thirds
               p.gem-c-lead-paragraph = item[:lead_paragraph]
+
+        .govuk-grid-row
+          .govuk-grid-column-full
+            .case-study-metadata
+              ul.govuk-list
+                li
+                  | Published #{item[:date]}
+                li
+                  | From:
+
+                  strong< Anonymous
 
         .govuk-grid-row
           .govuk-grid-column-two-thirds
@@ -33,7 +43,7 @@ html.govuk-template lang='en'
               == yield
 
             - if item[:explore_the_topic]
-              nav.explore-the-topic
+              .explore-the-topic
                 h3.govuk-heading-s Explore the topic
                 ul.govuk-list
                   - item[:explore_the_topic].each do |link|
@@ -51,6 +61,14 @@ html.govuk-template lang='en'
                 h3.govuk-heading-s Related content
                 ul.govuk-list
                   - item[:related_content].each do |link|
+                    li == link_to link[:name], link[:link]
+                    
+            - if item[:collection_content]
+              .collection-content
+                h3 Collection
+
+                ul.govuk-list
+                  -item[:collection_content].each do |link|
                     li == link_to link[:name], link[:link]
 
     == render '/partials/footer.*'

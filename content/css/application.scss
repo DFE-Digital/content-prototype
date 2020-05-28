@@ -192,6 +192,38 @@ code {
 .related-content {
   border-top: 2px solid govuk-colour('blue');
   padding-top: 2em;
+  @include govuk-responsive-margin(6, "bottom");
+
+  li {
+    @include govuk-responsive-margin(2, "top");
+    @include govuk-responsive-margin(0, "bottom");
+    line-height: 1.28;
+  }
+
+  a {
+    @include govuk-font($size: 16);
+	}
+}
+
+.collection-content {
+  @include govuk-responsive-padding(3, "top");
+  border-top: 1px solid $govuk-border-colour;
+  border-bottom: 0;
+
+  h3 {
+    @include govuk-font($size: 16);
+    margin: 0;
+  }
+
+  li {
+    @include govuk-responsive-margin(2, "top");
+    @include govuk-responsive-margin(0, "bottom");
+    line-height: 1.28;
+  }
+
+  a {
+    @include govuk-font($size: 16);
+	}
 }
 
 .explore-the-topic {

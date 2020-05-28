@@ -14,27 +14,21 @@ explore_the_topic:
   link: /coronavirus/education-and-childcare
 ---
 
-$CTA
-Read the latest [guidance for nurseries, schools and colleges,](https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings) including information on opening to more pupils from 1 June.
-$CTA
-
 The Department for Education (DfE) has been working with schools to develop this guidance based on the current experiences and practices of teachers and school leaders.
 
 It outlines some approaches that have worked for schools and includes case studies and information about:
 
 * [supporting wellbeing](/remote-teaching/supporting-wellbeing/)
-* [adapting teaching practise for remote education](/remote-teaching/adapting-teaching-practise-for-remote-education/)
+* [adapting teaching practice for remote education](/remote-teaching/adapting-teaching-practice-for-remote-education/)
 * [adapting the curriculum for remote education](/remote-teaching/adapting-the-curriculum-for-remote-education/)
 * [keeping pupils motivated and engaged](/remote-teaching/keeping-pupils-motivated-and-engaged/)
 
 The schools that have informed this guidance are developing their practice in a variety of different circumstances.
 
-School leaders have explained that the level of challenge and nature of provision will vary across schools, and that schools need the flexibility to plan and provide remote education that is suitable for their circumstances. This includes considering the age of pupils. Remote education for younger children will typically need more involvement from parents, and parents are facing a range of pressures at this time.
+School leaders have explained that providing remote education will be different for every school, and that the approaches taken will depend on each school’s unique circumstances and challenges. This includes considering the age of pupils. Remote education for younger children will typically need more involvement from parents, and parents are facing a range of pressures at this time.
 
-Additionally, most of the examples given are from schools that already had some infrastructure or technology in place. Many schools and households do not have the same level of access. We are developing examples of effective practice from schools in these circumstances, and for schools providing education to younger children.
+## Technology support for children and schools
 
-### [Get help with technology for remote education during coronavirus (COVID-19)](https://www.gov.uk/guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19)
+Most of the examples given in this guidance are from schools that already had some infrastructure or technology in place. Many schools and households do not have the same level of access. We are developing examples of effective practice from schools in these circumstances, and for schools providing education to younger children.
 
-$CTA
-Read the other guidance on [remote education during coronavirus (COVID-19)](/education-and-childcare/teachers/).
-$CTA
+Local authorities, academy trusts and schools can [get help with technology for remote education during coronavirus](https://www.gov.uk/guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19), including information on how to get internet access, digital devices and support to provide remote education.

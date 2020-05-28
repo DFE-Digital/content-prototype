@@ -1,10 +1,13 @@
 ---
-title: Remote education during corrus (COVID-19)
+title: Remote education during coronavirus (COVID-19)
 lead_paragraph: Information, guidance and support for teachers and leaders on educating children during the coronavirus outbreak.
 date: "19 April 2020"
 related_content:
+- name: Supporting your children's education during coronavirus (COVID-19)
+  link: /supporting-your-childrens-education-during-coronavirus/
+collection_content:
 - name: Coronavirus (COVID-19) — guidance for schools and other educational settings
-  link: /remote-teaching/adapting-teaching-practise-for-remote-education/
+  link: https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
 explore_the_topic:
 - name: Education, training and skills
   link: /education
@@ -18,10 +21,6 @@ Contents
 {:.no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
-
-$CTA
-Read the latest [guidance for nurseries, schools and colleges,](https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings) including information on opening to more pupils from 1 June.
-$CTA
 
 To help protect communities from coronavirus (COVID-19), schools and educational settings are closed, except to the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers) and [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the staff needed to look after them. Schools will [begin reopening to other pupils in phases](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020) starting on 1 June.
 
