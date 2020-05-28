@@ -13,6 +13,9 @@ related_content:
     link: /case-studies/adapting-the-secondary-science-curriculum/
   - name: Adapting the secondary curriculum at a special needs school
     link: /case-studies/adapting-the-secondary-curriculum-at-a-special-needs-school/
+collection_content:
+  - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
+    link: /remote-teaching/adapting-the-curriculum-for-remote-education/
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
