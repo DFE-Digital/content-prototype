@@ -10,6 +10,7 @@
 @import "govuk_publishing_components/govuk_frontend_support";
 @import "govuk_publishing_components/component_support";
 @import "govuk_publishing_components/all_components";
+@import "covid_bar";
 
 $info-bg: #edf8ff;
 
@@ -233,4 +234,8 @@ code {
 	a {
 		@include govuk-font($size: 16, $weight: 'bold');
 	}
+}
+
+.gem-c-step-nav-header.part-of-banner {
+  border-top: none;
 }
