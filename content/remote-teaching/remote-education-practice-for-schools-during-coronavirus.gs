@@ -1,5 +1,5 @@
 ---
-title: Remote education practice for schools during coronavirus (COVID-19)
+title: Shared practice for teaching and learning in remote and online settings
 lead_paragraph: An opportunity for schools to learn from each other's emerging practice as they develop their approaches to providing remote education.
 date: "5 May 2020"
 related_content:
@@ -14,16 +14,16 @@ explore_the_topic:
   link: /coronavirus/education-and-childcare
 ---
 
+^This guidance was last updated on 31st May to include new information on staff wellbeing and ensuring remote education is accessible offline.^
+
 The Department for Education (DfE) has been working with schools to develop this guidance based on the current experiences and practices of teachers and school leaders.
 
 It outlines some approaches that have worked for schools and includes case studies and information about:
 
-* [supporting wellbeing](/remote-teaching/supporting-wellbeing/)
-* [adapting teaching practice for remote education](/remote-teaching/adapting-teaching-practice-for-remote-education/)
-* [adapting the curriculum for remote education](/remote-teaching/adapting-the-curriculum-for-remote-education/)
-* [keeping pupils motivated and engaged](/remote-teaching/keeping-pupils-motivated-and-engaged/)
-
-^This guidance was last updated on 31st May to include new information on staff wellbeing and ensuring remote education is accessible offline.^
+* [supporting wellbeing at a distance](/remote-teaching/supporting-wellbeing/)
+* [adapting teaching practice for home learning](/remote-teaching/adapting-teaching-practice-for-remote-education/)
+* [adapting the curriculum for home learning](/remote-teaching/adapting-the-curriculum-for-remote-education/)
+* [keeping pupils motivated and engaged at a distance](/remote-teaching/keeping-pupils-motivated-and-engaged/)
 
 The schools that have informed this guidance are developing their practice in a variety of different circumstances.
 

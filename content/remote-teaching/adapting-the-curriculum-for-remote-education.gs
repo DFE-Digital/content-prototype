@@ -1,8 +1,15 @@
 ---
-title: Adapting the curriculum for remote education
+title: Adapting the curriculum for home learning
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
 related_content:
+- name: Supporting wellbeing at a distance
+  link: /remote-teaching/supporting-wellbeing/
+- name: Adapting teaching practice for home learning
+  link: /remote-teaching/adapting-teaching-practice-for-remote-education/
+- name: Keeping pupils motivated and engaged
+  link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+collection_content:
 - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
   link: /case-studies/case-studies-collection/
 explore_the_topic:
@@ -11,6 +18,11 @@ explore_the_topic:
 - name: School curriculum and teaching during coronavirus
   link: https://www.gov.uk/coronavirus/education-and-childcare
 ---
+
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 Even though teaching remotely will not be the same as education in a classroom, schools have found that the essential principles of good curriculum design apply to remote education as well as classroom teaching.
 
