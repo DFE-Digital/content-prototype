@@ -2,6 +2,7 @@
 title: Keeping pupils motivated and engaged at a distance
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
+related_content:
 - name: Supporting wellbeing at a distance
   link: /remote-teaching/supporting-wellbeing/
 - name: Adapting teaching practice for home learning
