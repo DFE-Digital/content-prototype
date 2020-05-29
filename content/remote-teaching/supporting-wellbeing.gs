@@ -1,8 +1,15 @@
 ---
-title: Supporting wellbeing
+title: Supporting wellbeing at a distance
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
 related_content:
+- name: Adapting teaching practice for remote education
+  link: /remote-teaching/adapting-teaching-practice-for-remote-education/
+- name: Adapting the curriculum for remote education
+  link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+- name: Keeping pupils motivated and engaged
+  link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+collection_content:
 - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
   link: /case-studies/case-studies-collection/
 explore_the_topic:
@@ -13,6 +20,11 @@ explore_the_topic:
 - name: Pupil wellbeing and safety during coronavirus
   link: /coronavirus/education-and-childcare
 ---
+
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 ## Maintaining wellbeing by setting realistic expectations
 

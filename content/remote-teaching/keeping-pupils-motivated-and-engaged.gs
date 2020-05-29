@@ -1,8 +1,14 @@
 ---
-title: Keeping pupils motivated and engaged
+title: Keeping pupils motivated and engaged at a distance
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
-related_content:
+- name: Supporting wellbeing at a distance
+  link: /remote-teaching/supporting-wellbeing/
+- name: Adapting teaching practice for home learning
+  link: /remote-teaching/adapting-teaching-practice-for-remote-education/
+- name: Adapting the curriculum for home learning
+  link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+collection_content:
 - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
   link: /case-studies/case-studies-collection/
 explore_the_topic:
@@ -15,6 +21,11 @@ explore_the_topic:
 - name: School curriculum and teaching during coronavirus
   link: https://www.gov.uk/coronavirus/education-and-childcare
 ---
+
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 

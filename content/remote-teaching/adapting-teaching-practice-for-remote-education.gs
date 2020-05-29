@@ -1,8 +1,15 @@
 ---
-title: Adapting teaching practice for remote education
+title: Adapting teaching practice for home learning
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
 related_content:
+- name: Supporting wellbeing at a distance
+  link: /remote-teaching/supporting-wellbeing/
+- name: Adapting the curriculum for remote education
+  link: /remote-teaching/adapting-the-curriculum-for-remote-education/
+- name: Keeping pupils motivated and engaged
+  link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+collection_content:
 - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
   link: /case-studies/case-studies-collection/
 explore_the_topic:
@@ -11,6 +18,11 @@ explore_the_topic:
 - name: School curriculum and teaching during coronavirus
   link: https://www.gov.uk/coronavirus/education-and-childcare
 ---
+
+Contents
+{:.no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 With so many options available to support remote education, one of the most important decisions schools are making is to keep it simple, making sure pupils, parents, carers and teachers know what is being asked of them. 
 The exact approaches adopted by each school will vary depending on the needs of its pupils and school context. There is no single right answer. 
