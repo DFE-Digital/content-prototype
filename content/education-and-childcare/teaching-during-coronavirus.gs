@@ -23,7 +23,7 @@ Contents
 {:toc}
 
 {:.call-to-action}
-Read the latest [guidance for nurseries, schools and colleges](#), including information on opening to more pupils from 1 June.
+Read the latest [guidance for nurseries, schools and colleges](https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings), including information on opening to more pupils from 1 June.
 
 To help protect communities from coronavirus (COVID-19), schools and educational settings are closed, except to the children of [critical workers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#critical-workers) and [vulnerable children](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers/closure-of-educational-settings-information-for-parents-and-carers#vulnerable-children) and the staff needed to look after them. Schools will [begin reopening to other pupils in phases](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020) starting on 1 June.
 
@@ -37,7 +37,7 @@ Understand how to follow safeguarding procedures when planning remote education 
 
 <hr>
 
-### [Teaching in school and at home during coronavirus (COVID-19)](/remote-teaching/teaching-in-school-and-at-home-settings-during-coronavirus/)
+### [Examples of teaching practice during coronavirus (COVID-19)](/remote-teaching/examples-of-teaching-practice-during-coronavirus/)
 
 An opportunity for schools to learn from each other’s emerging practice as they develop their approaches to providing remote education.
 

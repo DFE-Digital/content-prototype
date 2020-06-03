@@ -24,6 +24,8 @@ Contents
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
+^This guidance was written prior to the phased return of some year groups to school from 1 June 2020. It has information that schools may find helpful when adapting a curriculum for accessible learning at home.^
+
 The essential principles of good curriculum design apply to remote education as well as classroom teaching. Many teachers are carefully sequencing material, to integrate knowledge into larger concepts and themes that have breadth and variety. They are also aiming to make opportunities to revisit prior knowledge.
 
 Many schools are taking a pragmatic approach to covering the curriculum, prioritising important concepts and particular groups of pupils where necessary. Some are deciding to postpone especially tricky concepts until later. They’re doing this if they can - and if the subject allows.
@@ -64,7 +66,7 @@ Sarah Dove of the National Organisation of Pupil Referral Units and Alternative 
 
 ## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
 
-Read the following case studies from schools sharing their experience on how they have adapted to remote education:
+Teachers can read the following case studies from schools and teachers about their experiences adapting curriculum content for remote education:
 
 * [adapting the primary school curriculum for learning at home](#)
 
