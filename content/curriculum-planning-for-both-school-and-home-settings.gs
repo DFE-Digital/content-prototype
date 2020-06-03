@@ -1,5 +1,5 @@
 ---
-title: Remote education
+title: Curriculum planning for both school and home settings
 ---
 
 This is just a placeholder page for the time being. This content will soon be merged into the [teacher guidance](/teachers/).
