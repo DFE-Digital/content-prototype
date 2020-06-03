@@ -31,48 +31,61 @@ explained their experience. ‘The problem we face as teachers and school leader
 
 Some schools are using collaborative planning to align what is learned at home and what is taught at school.
 
-At David Ross Education Trust they are dividing teaching staff into ‘now’ and ‘next’ teams. A mirrored curriculum aims to make sure learning at school aligns with learning at home. “We want pupils to be able to move as seamlessly as possible  between the two,” they explained. “This means designing in tandem and we are hopeful that this will keep additional planning workload to a minimum. It will involve sharing detailed, weekly plans (aligned with our medium-term plans) and asking teachers or subject teams to plan their individual lessons accordingly.”
+Simon Rose, Director of Education at David Ross Education Trust (Primary) said they are dividing teaching staff into ‘now’ and ‘next’ teams. A mirrored curriculum aims to make sure learning at school aligns with learning at home. “We want pupils to be able to move as seamlessly as possible  between the two,” he explained. “This means designing in tandem and we are hopeful that this will keep additional planning workload to a minimum. It will involve sharing detailed, weekly plans (aligned with our medium-term plans) and asking teachers or subject teams to plan their individual lessons accordingly.”
 
-here ## Deciding contact time by subject
+## Considering the physical school environment
 
-Schools are making decisions about the contact time required for each subjects based on which subjects appear to have more opportunities for work to be done at home.
+A headteacher from a London secondary school said that the need to deliver a blended curriculum (where learning takes place both in school and home settings) poses a significant challenge. “There are constraints to our physical environment (an old, reasonably small cottage hospital) and staffing that mean that it’s likely we’ll only be able to have two year groups in school at a time, while maintaining social distancing.”
 
-Sallie Stanton, Director of Education at Bedford Free School has found that hierarchical subjects with a more obvious sequence of learning are easier to plan for and other subjects (like English) have better opportunities for work to be completed from home. “We’ve not made decisions about this yet, but anticipate it will mean different amounts of contact time for different subjects – with, for example, practical subjects requiring more on site contact time with teachers,” she explained.
+“To align what is learned at home with what is taught at school,” the headteacher continued, “we will use well-structured curriculum booklets that organise and sequence learning carefully. The booklets will provide the continuity of learning across virtual and face-to-face learning. Students will be able to work on the booklets at home and in school (with staff able to check the work completed at home). This should ensure that students can be held accountable for the completion of work in a far more rigorous fashion than when it is carried out solely online.”
 
-Simon Rose, Director of Education at David Ross Education Trust (Primary) explained that for the remainder of the summer term they will have planned to offer up to ten hours of English, maths, science, humanities and modern foreign languages to year 10 and 12 pupils. “The school day will be split into morning and afternoon sessions so we can have more children in school each day,” the school stated. “If there is still a need to maintain social distancing from September onwards, we will take a similar approach with other year groups when they return to school sites.”
+This will involve the careful selection of curriculum content that can be provided at home through online learning.” 
 
-## Teaching the National Curriculum with less time on-site
+The headteacher explained that this approach will include: 
 
-Some schools are replanning their curriculum around the core concepts in each academic subject, so that pupils are secure in the ideas that underpin them.
+* opportunities for practice
+* instructional videos, online lessons 
+* careful face-to-face teaching where required (for new content)
 
-## Prioritising essential knowledge within subjects
 
-Windrush shared their approach to determining what pupils must know in maths. “We have a ‘number sense’ curriculum we previously designed with non-negotiable knowledge and skills pupils need to progress. For example, year 1 must know one more/less, ten more/less, doubles and halves. We recognise that any gaps in children’s understanding of these core concepts could lead to serious cumulative misconceptions. Areas of the maths curriculum like shape and space are obviously still important, but less hinges on them.”
+## Maintaining social distancing
+
+A headteacher of a London secondary school of School name is also concerned about how social distancing will affect their ability to teach certain subjects. ‘As part of our initial reopening plans for the summer we will focus on EBacc subjects because these are the most crucial for our pupils,’ he said.
+
+‘We will also need to think very carefully about the breadth of the curriculum and in particular about creative arts and technology subjects, as we are faced with significant challenges regarding hygiene and social distancing in more practical subjects,’ he explained.
+
+## Being realistic and focusing on what’s crucial
+
+A headteacher of a London secondary school is trying to find a balance between what they would like to do and what they can realistically do. ‘Our middle leaders are working through their long-term plans and identifying the most crucial concepts for teaching (those that underpin multiple other aspects of the curriculum),’ he explained.
+
+“Middle leaders are also identifying topics and concepts that pupils typically find more challenging. These then become the foundations of our new ‘blended learning’ curriculum (where learning takes place both on the school premises and at a distance, in online settings).’
+
+Focussing on phonics and reading in key stages 1 and 2 and, if necessary, lower key stage 3, is a priority for Sallie Stanton, Director of Education at Bedford Free School. “If pupils can't read, then they can’t access other learning, so this must be a priority for intervention. This may mean less time for some other subjects, which is not what we would want in an ideal world, but which feels necessary for us to prioritise in this context.”
+
+Similarly, Sallie is finding that there are some content areas that provide better opportunities for work that can be done at home. “Our English department decided not to teach poetry remotely, for example, as we felt that would be better served in face-to-face teaching, whereas review of literature texts already taught, and extended writing based on these, were suitable for home learning. This means we have reviewed the order of teaching in some subjects and will have to cover removed content when more students are in school based on what has been taught as well as how secure students’ grasp of the content has been,” she said.
+
+“We’ve not made decisions about this yet, but depending on the formative assessment we do, we anticipate it will mean different amounts of contact time for different subjects (with, for example, practical subjects requiring more on site contact time with teachers),” Sallie continued. In planning forwider school opening, we are finding that hierarchical subjects with a logical sequence of learning are somewhat easier to review and plan a way forward. In cumulative subjects some difficult decisions need to be made about what content is most useful to emphasise, however the subject leaders are already used to making these difficult decisions,” she explained.
+
+## Helping teachers and subject leaders to plan the curriculum
+
+Many schools are organising staff into groups or teams so that workload is shared and planning is collaborative.
+
+Sam Strickland Principal of the Duston School explained that they are separating departmental teams into three groups involving those who are:
+
+* delivering remote education online
+* teaching pupils on site
+* planning for the future behind the scenes
+
+“The size of the groups varies relative to the size of the department,” Sam explained. “But, for example, English would have 4 members of staff providing lectures, 4 members of staff providing online learning, and 4 members of staff planning and refining the curriculum.”
+
+‘It is important,’ Sam said, ‘to avoid both a ‘reactive curriculum’ (where lessons are planned by individual teachers the night before) and an ‘activity curriculum’ (where lessons are planned around the activities pupils will engage in, rather than the essential concepts and knowledge that pupils need to understand and remember),’ Sam explained. ‘Planning and creating resources in a collaborative way prevents this. Our departments have weekly Zoom meetings for planning.’
  
-Similarly, Sam Strickland, Principal of the Duston School explained their method of prioritisation. “In science, middle leaders identified six core pillars across biology, chemistry and physics, and have outlined what they want all their pupils to know, from one key stage to another. Departments should ask themselves: what do years 7, 8 and 9 need to know so that they are prepared for key stage 4?’
+Simon Rose, Director of Education at David Ross Education Trust (Primary) shared their approach. “More planning is now being done by subject leadership teams than in the past, with individual teachers doing less of their own planning,” Simon explained. “Our maths lead has been uploading weekly maths plans for all year groups, including FAQs and notes for parents. This will continue as pupils return, with teachers then tweaking those resources for use in their classrooms instead of online.”
 
-## Maintaining curriculum breadth with less classroom time
+Jez Baker, Deputy Head Teacher at Saint Thomas Aquinas Catholic School explained that the most crucial principle is simplicity. “Ensuring that your school systems are as simple as possible for staff to follow is an important aspect of support. Teaching staff also have weekly meetings with their middle leaders, which are crucial in keeping communication effective.”
 
-School leaders are also thinking of creative ways to retain breadth in the curriculum, despite the need to focus on core subjects and concepts.
+## Finding opportunities to talk and share practices
 
-## Thinking creatively
+Additionally, Jez Baker explained that their school is ‘putting in place a wider system to allow staff to talk about mental health and wellbeing, and are planning to use weekly CPD time to do this.’
 
-Sallie Stanton, Director of Education at Bedford Free School, for example, explained that ‘it is difficult planning for breadth and enrichment when we can’t be sure what pupils will be able to do come September (for example, learn an instrument, work in a group).”
-
-“It’s possible that there are aspects of a broad curriculum pupils won’t be able to access for a while yet,” Sallie continued. “So in response to this uncertainty, we are thinking creatively about what we can deliver remotely so that pupils still receive as broad an education as possible.” 
-
-Similarly, David Ross Education Trust (Primary) has instigated and will continue to run weekly, Trust-wide competitions, for example in writing, art-exhibition or maths investigations. “These are open to all year groups and are celebrated at the end of each week,” Simon Rose, Director of Education explained. “Children look forward to those challenges and it has become a good vehicle for breadth and enrichment,” he said.
- 
-Sam Strickland, Principal of the Duston School said that if more pupils return to the school site in September, they would be planning for two weeks focussing on cultural capital [or was this two cultural capital talks a week?], to broaden pupils’ minds. “This would develop from our existing cultural capital talks, where senior leaders choose a current-affairs theme from the news for wider discussion with pupils (what this looks like will depend on how many pupils we can have in school at once),” he/she explained.
-
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
-
-Read the following case studies from schools sharing their experience on how they have adapted to remote education:
-
-* [adapting the primary school curriculum for learning at home](#)
-
-* [adapting the secondary science curriculum for learning at home](#)
-
-* [adapting the secondary geography curriculum for learning at home](#)
-
-* [adapting the secondary curriculum across multiple subjects](#)
+‘We’ve also been using CPD time to share with staff some of the online offerings from ResearchED (for example, Tom Sherrington and Mary Myatt),’ Jez continued. ‘This helps to support staff in their curriculum thinking and planning. We actively encourage collaborative working. Some are shielding and can do more online, whilst some are in school teaching face to face.’

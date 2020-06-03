@@ -97,9 +97,9 @@ Chris Kirkham-Knowles, Headteacher at Newby and Scalby Primary School, shared th
 
 “Our children need mentally healthy staff,” Chris continued. “We have continually stressed that, even though staff may feel as if they are not able to contribute much right now, they are going to be able to do the best for children in the long term by keeping themselves healthy, safe and positive throughout the school closure.”
 
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
+## Case studies
 
-Read case studies from schools sharing their experiences on keeping pupils motivated remotely:
+These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
 * [supporting primary and secondary pupils’ wellbeing](/case-studies/#/)
 

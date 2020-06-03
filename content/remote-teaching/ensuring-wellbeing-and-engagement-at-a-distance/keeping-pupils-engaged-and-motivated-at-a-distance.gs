@@ -34,7 +34,17 @@ Some schools have found that tasks that are short, snappy and easy to understand
 
 Stephen Trask of Harris Federation also had a useful suggestion: “Point out the value of learning that topic, beyond just for exams purposes. Again, something like Ted Talks help here because it gives pupils the ‘bigger picture’.”
 
-## Ensuring existing practice works remotely
+## Varying activities
+
+Using a variety of appropriate teaching methods and activities can have a positive effect on engagement. Some schools have found collaborative tasks involving peer-to-peer interaction are particularly important for pupils.
+
+Neelam Parmar of ULT (Ashford School) said: “I have found that it is effective to use live sessions to introduce new material and/or connect with the pupils for the first 10 to15 minutes and then later offer a pre-recorded presentation or task.”
+
+Stephen Trask of Harris Federation made the recommendation to “build in collaborative elements and tasks that will spark interest (for example, a virtual tour of a museum or Google HQ).”
+
+Jonathan Bishop of Cornerstone Academy Trust emphasised the value of “creating opportunities for, and allowing, discussion and socialisation between pupils during a day.”
+
+## Adjusting expectations and making sure practice works for the pupil
 
 Some schools have needed to adjust existing practice and resources to make sure they are still engaging for pupils working remotely. Pupils may need more and clearer instructions for independent tasks, and they may take more time than usual.
 
@@ -50,9 +60,9 @@ Steve Smith of HISP Research School at Thornden shared his experience. “The co
 
 “For some staff,” Steve continued, “this has simply been pupils sending in a photo of their work at the end of each lesson for evidence of engagement. Some staff have then used one or two pieces of pupil work sent in to ‘live mark’ with the class the following lesson. This offers feedback and the opportunity for pupils to improve their own work.”
 
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
+## Case studies
 
-Read the following case studies from schools sharing their experience on how they have adapted to remote education:
+These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
 * [keeping primary and secondary pupils motivated and engaged at a distance](#)
 

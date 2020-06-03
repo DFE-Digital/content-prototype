@@ -41,6 +41,7 @@ Educational activities could also be created in a range of formats (for example,
 Pupils are more likely to have access to mobile phones than laptops or computers, so using formats (like PDFs) that can be viewed on mobile devices can improve access to resources. Other schools have identified teaching resources that can be easily printed and posted, although it’s understandable that schools will need to consider printing costs.
 
 With children spending more time online, it is important that schools and colleges are considering online safety as they plan and design their teaching activities.
+
 “The key is to make sure that pupils have the means to do what you’re asking them to do”, said Steve Rollett at Association of School and College Leaders. “This challenge might also be met by ensuring that some learning activities can be done without online access.”
 
 ## Ensuring remote education is accessible offline
@@ -99,7 +100,6 @@ Some teaching practices may need additional planning to work well. This might in
 
 “However, a normal classroom lesson would be dialogue rich with lots of questioning and the teacher getting feedback all of the time,” he continued. “This amount of feedback isn’t as readily available in an online lesson, therefore teacher explanations need to be planned more thoroughly. Many teachers are finding that they have initially been too ambitious about what can be achieved in a remote lesson compared to a normal classroom lesson.”
 
-
 ## Feedback and assessment
 
 Schools are considering what monitoring of pupil progress is realistic while they remain closed to most pupils, and the steps needed when schools start to open.
@@ -118,10 +118,9 @@ In secondary schools, older pupils may be able to learn more independently, whil
 
 Schools may want to consider where different approaches are appropriate, and how this can be achieved while also giving pupils, parents and carers, clear and simple ways to access information on what they need to do.
 
+## Case studies
 
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
-
-Read the following case studies from schools sharing their experience on how they have adapted to remote education:
+These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
 * [adaptive teaching design: developing practices for home learning](#)
 
