@@ -39,7 +39,7 @@ The Department for Education (DfE) has been working with schools during the coro
 
 * [Supporting staff in curriculum planning for a phased return](/remote-teaching/curriculum-planning-for-both-school-and-home-settings/supporting-staff-in-curriculum-planning-for-a-phased-return/)
 
-* [Enhancing pastoral care in the curriculum](/remote-teaching/curriculum-planning-for-both-school-and-home-settings/enhancing-pastoral-care-in-the-curriculum/)
+* [Pastoral care in the curriculum ](/remote-teaching/curriculum-planning-for-both-school-and-home-settings/pastoral-care-in-the-curriculum/)
 
 * [Identifying and addressing gaps in pupils’ understanding](/remote-teaching/curriculum-planning-for-both-school-and-home-settings/identifying-and-addressing-gaps-in-pupils-understanding/)
 
