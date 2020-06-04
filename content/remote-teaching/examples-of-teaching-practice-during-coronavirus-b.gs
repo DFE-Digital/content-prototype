@@ -37,7 +37,7 @@ Some suggestions from schools who are prioritising curriculum subjects using dif
 
 <hr>
 
-## Curriculum planning for both school and home settings
+## Curriculum planning for both in school and at home
 
 ### [Planning a curriculum for home learning](/remote-teaching/curriculum-planning-for-both-school-and-home-settings/planning-a-curriculum-for-home-learning/)
 
