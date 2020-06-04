@@ -7,11 +7,11 @@ related_content:
   link: /case-studies/case-studies-collection/
 explore_the_topic:
 - name: Teaching standards, misconduct and practice
-  link: /education
+  link: https://www.gov.uk/education/teaching-standards-misconduct-and-practice
 - name: School curriculum and teaching during coronavirus
-  link: /education-and-childcare/index/
+  link: https://www.gov.uk/coronavirus/education-and-childcare
 - name: Closures, exams and managing a school or early years setting during coronavirus
-  link: /coronavirus/education-and-childcare
+  link: https://www.gov.uk/coronavirus/education-and-childcare
 ---
 
 ^This guidance was last updated on 14 May to include new information on staff wellbeing and ensuring remote education is accessible offline.^
