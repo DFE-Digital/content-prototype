@@ -95,7 +95,7 @@ Ben Levinson of Kensington Primary School explains his schools approach: “Wher
 
 Chris Kirkham-Knowles, Headteacher at Newby and Scalby Primary School, shared their approach. “We have connected those identified as vulnerable to becoming lonely with colleagues in group activities,” he said.
 
-“Our children need mentally healthy staff,” Chris continued. “We have continually stressed that, even though staff may feel as if they are not able to contribute much right now, they are going to be able to do the best for children in the long term by keeping themselves healthy, safe and positive throughout the school closure.”
+“Our children need mentally healthy staff,” Chris continued. “We have continually stressed that, even though staff may feel as if they are not able to contribute much right now, they are going to be able to do the best for children in the long term by [keeping themselves healthy, safe and positive throughout the school closure](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources).”
 
 ## Case studies
 

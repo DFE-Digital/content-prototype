@@ -1,6 +1,5 @@
 ---
 title: Planning a curriculum for home learning
-lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
 # - name: Supporting wellbeing at a distance
@@ -26,19 +25,21 @@ Contents
 
 ^This guidance was written prior to the phased return of some year groups to school from 1 June 2020. It has information that schools may find helpful when adapting a curriculum for accessible learning at home.^
 
+## Taking a pragmatic approach
+
 The essential principles of good curriculum design apply to remote education as well as classroom teaching. Many teachers are carefully sequencing material, to integrate knowledge into larger concepts and themes that have breadth and variety. They are also aiming to make opportunities to revisit prior knowledge.
 
 Many schools are taking a pragmatic approach to covering the curriculum, prioritising important concepts and particular groups of pupils where necessary. Some are deciding to postpone especially tricky concepts until later. They’re doing this if they can - and if the subject allows.
 
-Louis Everett of West London Free School described their approach to managing workload: “We knew that the pressures ... would be increased workload adapting to remote learning, therefore, we taught year 10 and 12 only for the first two weeks following school closure. We have devised a new reduced curriculum for key stage 3 in which they will receive two live interactive lessons a week for core subjects (maths, English and science) and one for all other subjects. This approach also helps to manage the demands that families have at home, for example, access to technology when they have more than one child.” 
+Louis Everett of West London Free School described their approach to managing workload: “We knew that the pressures ... would be increased workload adapting to remote learning, therefore, we taught year 10 and 12 only for the first two weeks following school closure. We have devised a new reduced curriculum for key stage 3 in which they will receive two live interactive lessons a week for core subjects (maths, English and science) and one for all other subjects. This approach also helps to manage the demands that families have at home, for example, access to technology when they have more than one child.”
 
 ## Combining prior knowledge with teaching new content
 
-Some schools are finding it helpful to take a phased approach and they are postponing the introduction of new curriculum content until remote education practices are more established.
+Some schools are finding it helpful to take a phased approach and they postpone the introduction of new curriculum content until remote education practices are more established. But many schools are finding that this doesn’t have to mean repeating old lessons.
 
-But many schools are finding that this doesn’t have to mean repeating old lessons. Familiar concepts can be reinforced through new examples, such as using the ‘Meanwhile, elsewhere...’ approach when teaching history. In this way, some schools are finding it helpful to focus on breadth, teaching new material that revisits known concepts and supports retention.
+Familiar concepts can be reinforced through new examples, such as using the ‘Meanwhile, elsewhere...’ approach when teaching history. In this way, some schools are finding it helpful to focus on breadth, teaching new material that revisits known concepts and supports retention.
 
-“We have sequenced remote lessons just as we would in school," said Janine Ashman of St Peter’s Church of England Primary School. "This has meant consolidating existing knowledge before moving on to new concepts." 
+“We have sequenced remote lessons just as we would in school," said Janine Ashman of St Peter’s Church of England Primary School. "This has meant consolidating existing knowledge before moving on to new concepts."
 
 ## Tailoring to fit phase and subject
 
@@ -55,8 +56,7 @@ When reshaping schemes of work for remote education, schools are sharing the wor
 ## Tailoring the remote curriculum for pupils with SEND
 
 Remote education has also to be accessible to pupils with special educational needs and disabilities (SEND), including children who are receiving SEN support.
-
-Many schools have found that with the support of teaching assistants (TAs) and special educational needs and disabilities coordinators (SENCOs/SENDCOs), they have been able to produce personalised learning packs to meet individuals’ needs. 
+Many schools have found that with the support of teaching assistants (TAs) and special educational needs and disabilities coordinators (SENCOs/SENDCOs), they have been able to produce personalised learning packs to meet individuals’ needs.
 
 Janine Ashman of St Peter’s Church of England Primary School described her experience.“For SEND pupils with top-up funding, we have individual learning packs that our SENCO has created to meet Individual Education Plan (IEP) objectives,” she said. “These are physical resources that we deliver to families’ homes.”
 
@@ -64,7 +64,7 @@ Jonathan Bishop of Cornerstone Academy Trust highlighted that: “teachers conti
 
 Sarah Dove of the National Organisation of Pupil Referral Units and Alternative Provision (PRUsAP), as well as Phoenix Education Consultancy, explained: “TAs/SENCOs with specific knowledge and experience of working with pupils with SEND are asked to plan adaptations of tasks and learning activities (especially for those who have a one-to-one relationship with a key TA). They are also asked to provide video conferencing support where required to aid pupils to complete learning activities.”
 
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
+## Case studies
 
 Teachers can read the following case studies from schools and teachers about their experiences adapting curriculum content for remote education:
 

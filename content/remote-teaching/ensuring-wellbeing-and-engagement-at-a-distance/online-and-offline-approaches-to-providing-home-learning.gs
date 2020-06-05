@@ -1,6 +1,6 @@
 ---
 title: Online and offline approaches to providing home learning
-lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
+lead_paragraph: With so many options available to support remote education, one of the most important decisions schools are making is to keep it simple, making sure pupils, parents, carers and teachers know what is being asked of them.
 date: "5 May 2020"
 # related_content:
 # - name: Supporting wellbeing at a distance
@@ -24,11 +24,11 @@ Contents
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-With so many options available to support remote education, one of the most important decisions schools are making is to keep it simple, making sure pupils, parents, carers and teachers know what is being asked of them.
-
 The exact approaches adopted by each school will vary depending on the needs of its pupils and school context. There is no single right answer.
 
 The following considerations may help in adapting practices to best meet the needs of pupils.
+
+For further peer-peer support on the effective practice for using technology to teach, schools may choose to [participate in a network of schools and colleges across England offering peer-peer technology support](https://edtech-demonstrator.lgfl.net/).
 
 ## Designing activities that are accessible for pupils
 
@@ -86,7 +86,7 @@ Not all teachers, parents and pupils will feel confident using technology to sup
 
 To help all teachers and pupils make best use of technology and tools, identify any who may need additional help and think about how to address gaps in their capability and increase their confidence.
 
-Some schools have provided training or peer-to-peer support to teachers and pupils.
+Some schools have provided training or peer-to-peer support to teachers and pupils, which is also available through the [EdTech Demonstrator Programme](https://edtech-demonstrator.lgfl.net/).
 
 Sarah Dove of the National Organisation of Pupil Referral Units and Alternative Provision (PRUsAP), as well as Phoenix Education Consultancy, shared her experience. She noted that teachers are currently being trained to provide learning through Microsoft Teams. "Pupils and staff have been allocated emails and training is in place," she said. "We’re very proud of the rate at which this has happened but also recognise that this was a gap in provision when the lockdown began.”
 
