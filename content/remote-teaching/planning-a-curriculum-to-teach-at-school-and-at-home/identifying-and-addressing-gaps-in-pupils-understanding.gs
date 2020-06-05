@@ -1,6 +1,6 @@
 ---
 title: Identifying and addressing gaps in pupils’ understanding
-lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
+# lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
 # - name: Supporting wellbeing at a distance
@@ -16,7 +16,7 @@ explore_the_topic:
 - name: Teaching standards, misconduct and practice
   link: https://www.gov.uk/education/teaching-standards-misconduct-and-practice
 - name: School curriculum and teaching during coronavirus
-  link: https://www.gov.uk/coronavirus/education-and-childcare
+  link: /#/
 ---
 
 Contents
@@ -44,10 +44,12 @@ At David Ross Education Trust, subject leaders have been developing a strategy f
 
 “From there, assessment can be formalised to reduce workload and ensure a shared understanding of where students are, across all classes of the same year in each school,” Mark continued. “This will inform teaching and adjustment to long-term curriculum planning for each department,” he said.
 
-## [Case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19)
+## Case studies
 
-Teachers can read the following case studies from schools and teachers about their experiences adapting curriculum content for remote education:
+Teachers can read the following case studies from schools and teachers about their experiences identifying and addressing gaps in pupils’ understanding, including:
 
 * [regaining knowledge and improving wellbeing](#)
 
-* [organising mixed ability learners in smaller groups and helping those who need to catch up](#)
+* [organising mixed ability learners in smaller groups](#)
+
+* [helping those who need to catch up](#)

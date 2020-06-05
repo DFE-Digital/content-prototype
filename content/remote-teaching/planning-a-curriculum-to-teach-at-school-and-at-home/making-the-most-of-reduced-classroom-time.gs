@@ -1,6 +1,6 @@
 ---
 title: Making the most of reduced classroom time
-lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
+# lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
 # - name: Supporting wellbeing at a distance
@@ -40,9 +40,9 @@ Similarly, David Ross Education Trust explained their method. “We will modify 
 
 Schools are finding that prioritising essential knowledge within subject disciplines is an effective approach for pupils still learning at home.
 
-Loraine Lynch-Kelly, Vice Principal at Saint Martin's Catholic Academy explained that “some modules have been moved (out of sequence) because we feel they require the presence of the teacher for pupils to be able to understand them. We need confidence that pupils can apply this knowledge, so we will save new concepts for face-to-face teaching where possible.”
+Loraine Lynch-Kelly, Vice Principal at Saint Martin's Catholic Academy explained that “some modules have been moved (out of sequence) because we feel they require the presence of the teacher for pupils to be able to understand them. We need confidence that pupils can apply this knowledge, so we will save new concepts for face-to-face teaching where possible. For example,  in year 9 RE, we have postponed the ‘big picture’ of Catholic Christianity teaching until pupils are back in the classroom. They have touched on some of the basics remotely using Seneca Learning, but the wider topic is so dense with concepts and sources that we have kept it for the classroom.”
 
-“Lots of opportunities for practice will also be needed,” Loraine continued. “But we will expect pupils to do more of this practice independently than if they were in school full-time. This means teachers can focus the reduced time they spend on site with their classes on incisive explanations, modelling, questioning, and feedback.” 
+“Lots of opportunities for practice will also be needed,” Loraine continued. “But we will expect pupils to do more of this practice independently than if they were in school full-time. This means teachers can focus the reduced time they spend on site with their classes on incisive explanations, modelling, questioning, and feedback.”
 
 ## Making the most of face-to-face time in the classroom
 
@@ -50,7 +50,7 @@ Faced with the potential challenge of reduced classroom time, schools are consid
 
 * giving expert instruction or explanation
 * modelling
-* feedback
+* checking for understanding and feedback
 
 Sallie Stanton, Director of Education at Bedford Free School said that “pupils may be in and out of school on a rota timetable, which will mean we need (even more than usual) to make the most of the time they have with the teacher.”
 

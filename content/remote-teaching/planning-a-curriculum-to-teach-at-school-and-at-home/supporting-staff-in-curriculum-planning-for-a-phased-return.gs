@@ -1,6 +1,6 @@
 ---
 title: Supporting staff in curriculum planning for a phased return
-lead_paragraph: Schools are facing a significant challenge in re-planning their curricula, with the added complexity of aligning what is learned at home with what is taught at school.
+# lead_paragraph: Schools are facing a significant challenge in re-planning their curriculum, with the added complexity of aligning what is learned at home with what is taught at school.
 date: "5 May 2020"
 # related_content:
 # - name: Supporting wellbeing at a distance
@@ -24,14 +24,20 @@ Contents
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-Jez Baker, Deputy Head Teacher at Saint Thomas Aquinas Catholic School, 
-explained their experience. ‘The problem we face as teachers and school leaders is the learning lost as a result of the pandemic. How can a child ‘catch up’ on potentially 5 to 6 months of missed learning? Ultimately it comes down to the effective use of curriculum time (including homework) as pupils return.’
+Schools are facing a significant challenge in re-planning their curriculum, with the added complexity of aligning what is learned at home with what is taught at school.
+
+Jez Baker, Deputy Head Teacher at Saint Thomas Aquinas Catholic School, explained their experience. ‘The problem we face as teachers and school leaders is the learning lost as a result of the pandemic. How can a child ‘catch up’ on potentially 5 to 6 months of missed learning? Ultimately it comes down to the effective use of curriculum time (including homework) as pupils return.’
 
 ## Bringing school and home teaching into alignment
 
 Some schools are using collaborative planning to align what is learned at home and what is taught at school.
 
-Simon Rose, Director of Education at David Ross Education Trust (Primary) said they are dividing teaching staff into ‘now’ and ‘next’ teams. A mirrored curriculum aims to make sure learning at school aligns with learning at home. “We want pupils to be able to move as seamlessly as possible  between the two,” he explained. “This means designing in tandem and we are hopeful that this will keep additional planning workload to a minimum. It will involve sharing detailed, weekly plans (aligned with our medium-term plans) and asking teachers or subject teams to plan their individual lessons accordingly.”
+Simon Rose, Director of Education at David Ross Education Trust (Primary)
+said they are dividing teaching staff into ‘now’ and ‘next’ teams. Maths lessons are devised centrally for all year groups and these are then available for teachers to adapt as necessary at classroom level.
+
+Simon says: “These same plans are made available for distance learning for pupils not yet back in school. This is our approach for other subjects too, but with a team of teachers devising the initial plans for teachers to adapt in each school, in every classroom.”
+
+“We aim to make sure learning at school aligns with learning at home.” Simon calls this a ‘mirrored curriculum’. He says: “We want pupils to be able to move as seamlessly as possible between the two. We design in tandem and are hopeful that doing this will keep additional planning workload to a minimum. It will involve weekly planning aligned with our medium-term planning, and asking teachers or subject teams to plan their individual lessons accordingly.”
 
 ## Considering the physical school environment
 
@@ -47,14 +53,7 @@ The headteacher explained that this approach will include:
 * instructional videos, online lessons 
 * careful face-to-face teaching where required (for new content)
 
-
-## Maintaining social distancing
-
-A headteacher of a London secondary school of School name is also concerned about how social distancing will affect their ability to teach certain subjects. ‘As part of our initial reopening plans for the summer we will focus on EBacc subjects because these are the most crucial for our pupils,’ he said.
-
-‘We will also need to think very carefully about the breadth of the curriculum and in particular about creative arts and technology subjects, as we are faced with significant challenges regarding hygiene and social distancing in more practical subjects,’ he explained.
-
-## Being realistic and focusing on what’s crucial
+## Being realistic and focusing on what’s most important
 
 A headteacher of a London secondary school is trying to find a balance between what they would like to do and what they can realistically do. ‘Our middle leaders are working through their long-term plans and identifying the most crucial concepts for teaching (those that underpin multiple other aspects of the curriculum),’ he explained.
 
@@ -64,7 +63,7 @@ Focussing on phonics and reading in key stages 1 and 2 and, if necessary, lower 
 
 Similarly, Sallie is finding that there are some content areas that provide better opportunities for work that can be done at home. “Our English department decided not to teach poetry remotely, for example, as we felt that would be better served in face-to-face teaching, whereas review of literature texts already taught, and extended writing based on these, were suitable for home learning. This means we have reviewed the order of teaching in some subjects and will have to cover removed content when more students are in school based on what has been taught as well as how secure students’ grasp of the content has been,” she said.
 
-“We’ve not made decisions about this yet, but depending on the formative assessment we do, we anticipate it will mean different amounts of contact time for different subjects (with, for example, practical subjects requiring more on site contact time with teachers),” Sallie continued. In planning forwider school opening, we are finding that hierarchical subjects with a logical sequence of learning are somewhat easier to review and plan a way forward. In cumulative subjects some difficult decisions need to be made about what content is most useful to emphasise, however the subject leaders are already used to making these difficult decisions,” she explained.
+“We’ve not made decisions about this yet, but depending on the formative assessment we do, we anticipate it will mean different amounts of contact time for different subjects (with, for example, practical subjects requiring more on site contact time with teachers),” Sallie continued. In planning for wider school opening, we are finding that hierarchical subjects with a logical sequence of learning are somewhat easier to review and plan a way forward. In cumulative subjects some difficult decisions need to be made about what content is most useful to emphasise, however the subject leaders are already used to making these difficult decisions,” she explained.
 
 ## Helping teachers and subject leaders to plan the curriculum
 
