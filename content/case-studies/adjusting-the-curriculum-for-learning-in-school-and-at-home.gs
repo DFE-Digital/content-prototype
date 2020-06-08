@@ -1,6 +1,6 @@
 ---
 title: "Adjusting the curriculum for learning in school and at home"
-lead_paragraph: "A large multi-academy trust (MAT) made up of primary and secondary schools shares its approach for their primary schools."
+lead_paragraph: "A large multi-academy trust (MAT) made up of primary and secondary schools shares its approach for their primary schools"
 related_content:
   - name: Adapting teaching practise for remote education
     link: /remote-teaching/adapting-teaching-practise-for-remote-education/

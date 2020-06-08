@@ -1,6 +1,6 @@
 ---
 title: "Using a virtual learning environment"
-lead_paragraph: "A small multi-academy trust made up of just primary schools reveals its approach"
+lead_paragraph: "A small multi-academy trust (MAT) made up of just primary schools with a high proportion of pupils on free school meals shares its approach."
 date: "24 April 2020"
 related_content:
   - name: Adapting teaching practise for remote education
@@ -16,17 +16,16 @@ explore_the_topic:
     link: /case-studies/case-studies-collection/
 ---
 
-### Case study from a small multi-academy trust made up of just primary schools with  a high proportion of pupils on free school meals.
-
-Over several years, we have been investing in technology in the classroom to support our teachers and pupils. Before school closures, pupils accessed their class work via a OneNote notebook (online software that acts like a notebook) for their year group.
+Over several years, our schools have been investing in technology in the classroom to support our teachers and pupils. Before school closures, pupils accessed their class work via a OneNote notebook (online software that acts like a notebook) for their year group.
 
 As the virtual school became a reality, we have supported our families by offering:
 
 * online training through live and on-demand webinars to explain the technology and approach to learning
+
 * a loan agreement for devices for all pupils in key stage 2
 
-From this foundation, our approach to virtual school has encompassed offering as much of a traditional school day as families are able to access, with the flexibility that it is a 9am to 3.30pm provision for those that welcome and embrace this, but has the facility to ‘catch up’ as recordings of all content.  
+From this foundation, our approach to virtual school has encompassed offering as much of a traditional school day as families are able to access. But our approach also offers the flexibility that it is a 9am to 3.30pm provision for those that welcome and embrace this, and has the facility to ‘catch up’ as recordings of all content.
 
-A blended approach of live lessons aimed at classes, ability groups, year groups, and the whole school has been put in place, based on the nature of the subject. This covers the breadth from small group phonic inputs to whole trust-wide assemblies, with whole class writing lessons and key stage singing, art, drama, science, computing and movement lessons as appropriate.
+## Combining methods
 
-@ These case studies share examples of practice that the Department for Education gathered on remote education practice during coronavirus (COVID-19) by consulting with schools and academies across England. We've removed names of individuals and schools to protect their privacy.
+A blended approach of live lessons aimed at classes, ability groups, year groups and the whole school has been put in place based on the nature of the subject. This covers the breadth from small, group phonic inputs to whole, trust-wide assemblies, with whole-class writing lessons, as well as singing, art, drama, science, computing and movement lessons taught by key stage.
