@@ -239,3 +239,10 @@ code {
 .gem-c-step-nav-header.part-of-banner {
   border-top: none;
 }
+
+#case-study-image {
+  display: block;
+  @include govuk-media-query($from: tablet) {
+    width: 50%;
+  }
+}

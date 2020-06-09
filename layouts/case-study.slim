@@ -51,7 +51,7 @@ html.govuk-template lang='en'
 
             main.gem-c-govspeak.case-study-document
               - if item[:case_study_image]
-                img src="/images/#{item[:case_study_image]}"
+                img id="case-study-image" src="/images/#{item[:case_study_image]}"
 
               == yield
 
