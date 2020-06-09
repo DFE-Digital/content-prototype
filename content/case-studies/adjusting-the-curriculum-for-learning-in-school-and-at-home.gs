@@ -15,6 +15,7 @@ related_content:
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
+case_study_image: case-study-1.jpg
 ---
 
 At our primary schools, we don’t want to replace the curriculum we've worked hard on, and that we know works for our children. Instead, we think adjusting the focus of the curriculum will be necessary.

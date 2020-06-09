@@ -15,13 +15,12 @@ lead_paragraph: "An all-through school with a higher than average level of pupil
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
+case_study_image: case-study-2.jpg
 ---
 
 Our school has found that when it comes to adapting the curriculum for this context, the best approach has been to apply the same principles we would typically use when planning a curriculum, but to apply them to a more limited timeframe. This makes decisions about what to teach (what to cut, and what to keep) even more important.
 
 ## Curriculum planning
-
-This content needs updating.
 
 It is difficult planning for breadth and enrichment when we can’t be sure what pupils will be able to do come September (for example, learn an instrument or work in a group). It is possible that there are aspects of a broad curriculum pupils won’t be able to access for a while yet. Because of this uncertainty, we are thinking creatively about what we can deliver remotely so that pupils still receive as broad an education as possible.
 

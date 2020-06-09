@@ -1,5 +1,5 @@
 ---
-title: Adapting the curriculum for home learning
+title:  Adapting the curriculum for remote education
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
 related_content:
@@ -24,31 +24,27 @@ Contents
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-Even though teaching remotely will not be the same as education in a classroom, schools have found that the essential principles of good curriculum design apply to remote education as well as classroom teaching.
+^This guidance was written prior to the phased return of some year groups to school from 1 June 2020. It has information that schools may find helpful when adapting a curriculum for accessible learning at home.^
 
-Many teachers who are developing curricula for remote education are continuing to carefully sequence material. Any new knowledge is integrated into larger concepts and themes to ensure richness through breadth and variety, and to build in spaced opportunities to revisit prior content.
+## Taking a pragmatic approach
 
-## The amount of curriculum content schools are trying to teach
+The essential principles of good curriculum design apply to remote education as well as classroom teaching. Many teachers are carefully sequencing material, to integrate knowledge into larger concepts and themes that have breadth and variety. They are also aiming to make opportunities to revisit prior knowledge.
 
-Teachers should think carefully about what is most important for their pupils to learn and remember. Many schools are finding they need to take a pragmatic approach to covering the curriculum, prioritising important concepts and particular groups of pupils where necessary.
+Many schools are taking a pragmatic approach to covering the curriculum, prioritising important concepts and particular groups of pupils where necessary. Some are deciding to postpone especially tricky concepts until later. They’re doing this if they can - and if the subject allows.
 
-Teachers might decide to postpone particularly tricky concepts until a later stage, although the flexibility to alter the sequence will depend on the nature of the subject.
+Louis Everett of West London Free School described their approach to managing workload: “We knew that the pressures ... would be increased workload adapting to remote learning, therefore, we taught year 10 and 12 only for the first two weeks following school closure. We have devised a new reduced curriculum for key stage 3 in which they will receive two live interactive lessons a week for core subjects (maths, English and science) and one for all other subjects. This approach also helps to manage the demands that families have at home, for example, access to technology when they have more than one child.”
 
-Louis Everett of West London Free School described their approach to managing workload. “We knew that the pressures of working from home would vary and there would be increased workload whilst adapting to remote learning,” he said. “Therefore, we taught year 10 and 12 only for the first two weeks following school closure. We have devised a new reduced curriculum for key stage 3 in which they will receive 2 live, interactive lessons a week for core subjects (maths, English and science) and one for all other subjects. This approach also helps to manage demands at home for families (for example, access to technology in families of more than one child).” 
+## Combining prior knowledge with teaching new content
 
-## Balancing the consolidation of prior knowledge with teaching new content
+Some schools are finding it helpful to take a phased approach and they postpone the introduction of new curriculum content until remote education practices are more established. But many schools are finding that this doesn’t have to mean repeating old lessons.
 
-While adjusting to providing remote education, many schools are finding it's helpful to take a phased approach to curriculum content when familiarising teachers and pupils with new ways of working.
+Familiar concepts can be reinforced through new examples, such as using the ‘Meanwhile, elsewhere...’ approach when teaching history. In this way, some schools are finding it helpful to focus on breadth, teaching new material that revisits known concepts and supports retention.
 
-Some schools are postponing the introduction of new curriculum content until remote education practices are better embedded. They're spending the first few weeks reinforcing long-term memory by consolidating topics and concepts already taught.
+“We have sequenced remote lessons just as we would in school," said Janine Ashman of St Peter’s Church of England Primary School. "This has meant consolidating existing knowledge before moving on to new concepts."
 
-But many schools are finding that consolidation doesn’t have to mean repeating old lessons. Familiar concepts can be reinforced through new examples, such as using the ‘Meanwhile, elsewhere...’ approach when teaching history. In this way, some schools are finding it helpful to focus on breadth, teaching new material that revisits known concepts and supports retention.
+## Tailoring to fit phase and subject
 
-“We have sequenced remote lessons just as we would in school," said Janine Ashman of St Peter’s Church of England Primary School. "This has meant consolidating existing knowledge before moving onto new and ensuring links are there to support children’s schema when new concepts are introduced."
-
-## Tailoring to phase and subject
-
-Schools have tailored approaches to remote education by phase and subject. Year 10 pupils, for example, need more exposure to new material than children in key stage 1. And in many primary schools, there is a strong focus on reading for their younger pupils.
+Year 10 pupils, for example, need more exposure to new material than children in key stage 1, and in many primary schools, there is a strong focus on reading for their younger pupils.
 
 Lewis Matheson, Director of GCSE and A Level Physics Online Ltd and school-based physics coach at Beechen Cliff School, explained his experience. “We are setting theme-based project work once a fortnight at key stage 3 but are mainly consolidating GCSE content with year 10,” he said. “Any new material we introduce for year 10s will be the more straightforward topics. Year 11 are revising GCSE content, so we are not setting new work for them.”
 
@@ -74,7 +70,7 @@ Sarah Dove of the National Organisation of Pupil Referral Units and Alternative 
 
 Teachers can read the following case studies from schools and teachers about their experiences adapting curriculum content for remote education: 
 
-* [adapting the primary school curriculum](/case-studies/adapting-the-primary-school-curriculum)
-* [adapting the secondary science curriculum](/case-studies/adapting-the-secondary-science-curriculum/)
-* [adapting the secondary geography curriculum](/case-studies/adapting-the-secondary-geography-curriculum/)
-* [adapting the secondary curriculum across multiple subjects](/case-studies/adapting-the-secondary-geography-curriculum/)
+* [adapting the primary school curriculum for learning at home](/case-studies/adapting-the-primary-school-curriculum-for-learning-at-home/)
+* [adapting the secondary science curriculum for learning at home](/case-studies/adapting-the-secondary-science-curriculum-for-learning-at-home/)
+* [adapting the secondary geography curriculum for learning at home](/case-studies/adapting-the-secondary-geography-curriculum-for-learning-at-home/)
+* [adapting the secondary curriculum across multiple subjects](/case-studies/adapting-the-secondary-curriculum-across-multiple-subjects/)

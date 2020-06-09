@@ -1,5 +1,5 @@
 ---
-title: Keeping pupils motivated and engaged when working remotely
+title: Keeping pupils motivated and engaged at a distance
 lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
@@ -64,9 +64,9 @@ Steve Smith of HISP Research School at Thornden shared his experience. “The co
 
 These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
-* [keeping primary and secondary pupils motivated and engaged at a distance](#)
+* [keeping primary and secondary pupils motivated and engaged at a distance](/case-studies/keeping-primary-and-secondary-age-pupils-motivated-and-engaged-at-a-distance/)
 
-* [supporting engagement in learning for primary pupils when direct communication is limited](#)
+* [supporting engagement in learning for primary pupils when direct communication is limited](/case-studies/supporting-engagement-in-learning-for-primary-pupils-when-direct-communication-is-limited/)
 
 
 

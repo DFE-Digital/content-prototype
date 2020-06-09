@@ -16,6 +16,7 @@ related_content:
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
+# case_study_image: jigsaw-puzzles.jpg
 ---
 
 [Image:filename.png]

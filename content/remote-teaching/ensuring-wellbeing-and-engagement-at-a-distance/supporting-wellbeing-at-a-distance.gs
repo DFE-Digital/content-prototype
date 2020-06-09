@@ -54,7 +54,6 @@ Some schools have used virtual quizzes, groups on WhatsApp, fitness challenges a
 
 “Every week there has been a trust-wide virtual quiz on a Friday afternoon,” said Catherine Wright of Reading Outwood Grange Academies Trust. “All staff teaching phonics, including support staff, have been participating in online practice sessions and have been given aspects of lessons and tutoring to take away and practice. There’s also a strong sense of community on Twitter.
 
-
 ## Providing pastoral support
 
 Schools are considering how to make pastoral support available and are checking in on pupils’ wellbeing. For example, some schools provide time for pupils to talk with a mentor or a tutor. 
@@ -101,8 +100,8 @@ Chris Kirkham-Knowles, Headteacher at Newby and Scalby Primary School, shared th
 
 These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
-* [supporting primary and secondary pupils’ wellbeing](/case-studies/#/)
+* [supporting primary and secondary pupils’ wellbeing](/case-studies/supporting-primary-and-secondary-pupils-wellbeing-remotely/)
 
-* [supporting primary and secondary pupils’ wellbeing and maintaining contact at a distance](/case-studies/#/)
+* [supporting primary and secondary pupils’ wellbeing and maintaining contact at a distance](/case-studies/supporting-primary-and-secondary-pupils-wellbeing-and-maintaining-contact-at-a-distance/)
 
-* [supporting the wellbeing of primary pupils with special educational needs and disabilities (SEND)](/case-studies/#/)
+* [supporting the wellbeing of primary pupils with special educational needs and disabilities (SEND)](/case-studies/supporting-the-wellbeing-of-primary-pupils-with-special-educational-needs-and-disabilities/)
