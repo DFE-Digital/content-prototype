@@ -48,8 +48,8 @@ At David Ross Education Trust, subject leaders have been developing a strategy f
 
 Teachers can read the following case studies from schools and teachers about their experiences identifying and addressing gaps in pupils’ understanding, including:
 
-* [regaining knowledge and improving wellbeing](#)
+* [regaining knowledge and improving wellbeing](/case-studies/regaining-knowledge-and-improving-wellbeing/)
 
-* [organising mixed ability learners in smaller groups](#)
+* [organising mixed ability learners in smaller groups](/case-studies/organising-mixed-ability-learners-in-smaller-groups-and-helping-those-who-need-to-catch-up/)
 
-* [helping those who need to catch up](#)
+* [helping those who need to catch up](/remote-teaching/planning-a-curriculum-to-teach-at-school-and-at-home/identifying-and-addressing-gaps-in-pupils-understanding/#case-studies)

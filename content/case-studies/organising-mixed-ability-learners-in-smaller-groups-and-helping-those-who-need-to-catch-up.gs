@@ -15,6 +15,7 @@ lead_paragraph: "A large high school in a small multi-academy trust with higher 
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
+case_study_image: case-study-3.jpg
 ---
 
 We’re are handling the fact that pupils are working in different places. We acknowledge that the current situation presents a huge challenge. In particular it: 

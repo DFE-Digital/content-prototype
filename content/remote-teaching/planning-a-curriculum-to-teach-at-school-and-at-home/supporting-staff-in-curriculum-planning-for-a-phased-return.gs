@@ -32,8 +32,7 @@ Jez Baker, Deputy Head Teacher at Saint Thomas Aquinas Catholic School, explaine
 
 Some schools are using collaborative planning to align what is learned at home and what is taught at school.
 
-Simon Rose, Director of Education at David Ross Education Trust (Primary)
-said they are dividing teaching staff into ‘now’ and ‘next’ teams. Maths lessons are devised centrally for all year groups and these are then available for teachers to adapt as necessary at classroom level.
+Simon Rose, Director of Education at David Ross Education Trust (Primary) said they are dividing teaching staff into ‘now’ and ‘next’ teams. Maths lessons are devised centrally for all year groups and these are then available for teachers to adapt as necessary at classroom level.
 
 Simon says: “These same plans are made available for distance learning for pupils not yet back in school. This is our approach for other subjects too, but with a team of teachers devising the initial plans for teachers to adapt in each school, in every classroom.”
 

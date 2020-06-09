@@ -1,5 +1,5 @@
 ---
-title: Online and offline approaches to providing home learning
+title: Online and offline approaches to remote teaching
 lead_paragraph: With so many options available to support remote education, one of the most important decisions schools are making is to keep it simple, making sure pupils, parents, carers and teachers know what is being asked of them.
 date: "5 May 2020"
 # related_content:
@@ -122,19 +122,19 @@ Schools may want to consider where different approaches are appropriate, and how
 
 These [case studies](https://www.gov.uk/government/collections/case-studies-remote-education-practice-for-schools-during-coronavirus-covid-19) are from schools and teachers sharing their experience on how they have adapted to:
 
-* [adaptive teaching design: developing practices for home learning](#)
+* [adaptive teaching design: developing practices for home learning](/case-studies/adaptive-teaching-design/)
 
-* [using a virtual learning environment](#)
+* [using a virtual learning environment](/case-studies/using-a-virtual-learning-environment/)
 
-* [using digital teaching tools for home learning](#)
+* [using digital teaching tools for home learning](/case-studies/using-digital-teaching-tools/)
 
-* [using video lessons and making them accessible](#)
+* [using video lessons and making them accessible](/case-studies/using-video-lessons/)
 
-* [providing physical work packs for pupils with limited or no internet connection](#)
+* [providing physical work packs for pupils with limited or no internet connection](/case-studies/providing-physical-work-packs-for-pupils-with-limited-or-no-internet-connection/)
 
-* [a mixed approach to remote education at a primary school](#)
+* [a mixed approach to remote education at a primary school](/case-studies/a-mixed-approach-to-home-learning-at-a-primary-school/)
 
-* [adapting teaching practice for remote education at a special needs secondary school](#)
+* [adapting teaching practice for remote education at a special needs secondary school](/case-studies/adapting-teaching-practice-for-remote-education-at-a-special-needs-secondary-school/)
 
 
 

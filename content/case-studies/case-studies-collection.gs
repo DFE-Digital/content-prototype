@@ -3,6 +3,8 @@ title: "Case studies: remote education practice for schools during coronavirus"
 lead_paragraph: "A collection of case studies for remote education practice for schools during coronavirus"
 date: "24 April 2020"
 related_content:
+  - name: Shared practice for schools teaching remotely
+    link: /remote-teaching/examples-of-teaching-practice-during-coronavirus
   - name: Supporting wellbeing
     link: /remote-teaching/supporting-wellbeing/
   - name: Adapting teaching practise for remote education

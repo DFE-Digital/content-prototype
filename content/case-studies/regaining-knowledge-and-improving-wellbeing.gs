@@ -15,6 +15,7 @@ lead_paragraph: "A teacher in a secondary school with a lower than average numbe
 explore_the_topic:
   - name: Case study collection on remote education practice during coronavirus
     link: /case-studies/case-studies-collection/
+case_study_image: case-study-4.jpg
 ---
 
 One of our most pressing issues is not knowing for sure what pupils have, and have not, learned while at home. We will:
