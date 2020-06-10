@@ -5,14 +5,12 @@ date: "24 April 2020"
 related_content:
   - name: Shared practice for schools teaching remotely
     link: /remote-teaching/examples-of-teaching-practice-during-coronavirus
-  - name: Supporting wellbeing
-    link: /remote-teaching/supporting-wellbeing/
-  - name: Adapting teaching practise for remote education
-    link: /remote-teaching/adapting-teaching-practise-for-remote-education/
-  - name: Adapting the curriculum for remote education
-    link: /remote-teaching/adapting-the-curriculum-for-remote-education/		
-  - name: Keeping pupils motivated and engaged
-    link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+  - name: Supporting wellbeing at a distance
+    link: /remote-teaching/ensuring-wellbeing-and-engagement-at-a-distance/supporting-wellbeing-at-a-distance
+  - name: Deciding what to teach during a phased return
+    link: /remote-teaching/planning-a-curriculum-to-teach-at-school-and-at-home/deciding-what-to-teach-during-a-phased-return/		
+  - name: Keeping pupils motivated and engaged at a distance
+    link: /remote-teaching/ensuring-wellbeing-and-engagement-at-a-distance/keeping-pupils-engaged-and-motivated-at-a-distance/
 ---
 
 These case studies share examples of practice for remote education from schools and academies across England. Names of individuals and schools have been removed to protect privacy.
