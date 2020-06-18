@@ -1,7 +1,7 @@
 ---
 title: "Helping schools plan for the academic year 2020-21 with a new curriculum map tool"
 lead_paragraph: "This guidance is designed to support school leaders and subject leaders. It can be used for specific needs in relation to curriculum planning for autumn 2020."
-date: "24 April 2020"
+date: "22 June 2020"
 related_content:
   - name: Adapting teaching practise for remote education
     link: /remote-teaching/adapting-teaching-practise-for-remote-education/
@@ -61,7 +61,7 @@ You can use the following links for to find more detailed, subject-specific, inf
 
 ## Primary
 
-* [reception](/curriculum/primary-curriculum-map/)
+* [reception](/primary/reception/)
 
 * [year 1](/curriculum/primary-curriculum-map/)
 
