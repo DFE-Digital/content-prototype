@@ -61,7 +61,7 @@ You can use the following links for to find more detailed, subject-specific, inf
 
 ## Primary
 
-* [reception](/primary/reception/)
+* [reception](/curriculum/primary/reception/)
 
 * [year 1](/curriculum/primary-curriculum-map/)
 
