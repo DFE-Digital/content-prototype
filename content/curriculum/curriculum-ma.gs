@@ -39,9 +39,9 @@ Schools can use this curriculum map in a number of ways:
 
 * to select and adapt parts of the map that will enhance their existing curriculum
 
-* to adopt the map’s entire sequence of the map across subjects, year groups or key stages
+* to adopt the map’s entire sequence across subjects, year groups or key stages
 
-DfE is working closely with commercial and other resource providers and the intention is to reduce teacher workload by providing high quality resources materials to support lessons. Schools can these, and map, in a way that suits their existing curriculum planning and supports pupils’ needs.
+DfE is working closely with commercial and other resource providers and the intention is to reduce teacher workload by providing high quality resources materials to support lessons. Schools can use the map in a way that suits their existing curriculum planning and supports pupils’ needs. You have the option of [downloading a PDF of the curriculum map](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSOfzb6kGKsH1n15hPUB1iNVzQW6ten-zwLlYnoialI_1ds2BZx3XfXdTSzgTszNuS7z5Xn_IEqH4D/pubhtml#) or scrolling down to access an interactive version.
 
 ## How has the curriculum map been developed?
 
@@ -65,7 +65,7 @@ You can use the following links for to find more detailed, subject-specific, inf
 
 * [year 1](/curriculum/primary-curriculum-map/)
 
-* [year 2](/curriculum/primary-curriculum-map/)
+* [year 2](/curriculum/primary/year2/)
 
 * [year 3](/curriculum/primary-curriculum-map/)
 

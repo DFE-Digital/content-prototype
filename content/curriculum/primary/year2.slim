@@ -1,0 +1,44 @@
+---
+title: Home
+---
+.govuk-grid-row
+  .govuk-grid-column-two-thirds
+
+    #accordion-default.govuk-accordion[data-module="govuk-accordion"]
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-1.govuk-accordion__section-button
+              | English
+
+        #accordion-default-content-1.govuk-accordion__section-content
+        /   ul.govuk-list
+        /     li class="govuk-!-margin-bottom-3" = link_to("Guidance for parents and carers helping children learn from home", "/education-and-childcare/teachers/").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Find resources to support home learning", "#").html_safe
+
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-2.govuk-accordion__section-button
+              | Maths
+        #accordion-default-content-2.govuk-accordion__section-content
+          ul.govuk-list
+            li class="govuk-!-margin-bottom-3" = link_to("Identifying shapes and its properties", "/curriculum/primary/maths/identifying-shapes-and-its-properties").html_safe
+            li class="govuk-!-margin-bottom-3" = link_to("Fractions", "/curriculum/primary/maths/identifying-shapes-and-its-properties").html_safe
+            li class="govuk-!-margin-bottom-3" = link_to("Measures", "/curriculum/primary/maths/identifying-shapes-and-its-properties").html_safe
+            li class="govuk-!-margin-bottom-3" = link_to("Exploring ways of calculating strategies", "/curriculum/primary/maths/identifying-shapes-and-its-properties").html_safe
+            li class="govuk-!-margin-bottom-3" = link_to("Multiplication and division", "/curriculum/primary/maths/identifying-shapes-and-its-properties").html_safe
+
+      .govuk-accordion__section
+        .govuk-accordion__section-header
+          h2.govuk-accordion__section-heading
+            span#accordion-default-heading-2.govuk-accordion__section-button
+              | Foundation
+        / #accordion-default-content-2.govuk-accordion__section-content
+        /   ul.govuk-list
+        /     li class="govuk-!-margin-bottom-3" = link_to("Schools opening for children of key workers and vulnerable children", "#").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Guidance for schools and local authorities on closures", "#").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Early years and childcare closures", "#").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Guidance on early years education", "#").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Exam cancellations, results and appeals", "#").html_safe
+        /     li class="govuk-!-margin-bottom-3" = link_to("Changes to data collection", "#").html_safe
