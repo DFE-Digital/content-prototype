@@ -1,5 +1,5 @@
 ---
-title: "Helping schools plan for the academic year 2020-21 with a new curriculum map tool"
+title: "A new curriculum map to help schools plan for the academic year 2020 to 2021"
 lead_paragraph: "This guidance is designed to support school leaders and subject leaders. It can be used for specific needs in relation to curriculum planning for autumn 2020."
 date: "22 June 2020"
 related_content:
@@ -19,43 +19,61 @@ explore_the_topic:
 # case_study_image: jigsaw-puzzles.jpg
 ---
  
-## The national curriculum map
+The Department for Education (DfE) has been working in consultation with teachers and leaders to help schools with curriculum planning for the 2020 to 2021 academic year.
 
-Schools are presently planning their curriculum for the autumn term. The Department for Education (DfE) appreciates that this may be particularly difficult given the disruption to the summer term due to coronavirus (Covid-19). We also appreciate that not all pupils will have a secure knowledge of the summer term curriculum and that you will be adapting your curriculum to reflect the period of remote learning.
+We’re introducing this curriculum map for key stages 1 to 3, as an aid to curriculum planning for those who need it.
 
-To assist and support schools in this curriculum planning and teaching in September, the Department for Education (DfE) is sharing a ‘national curriculum map’ to help.
+This curriculum map encompasses the whole academic year and goes down to lesson level. Subjects catered for include science and maths, humanities, languages and the arts.
 
-The map is a non-statutory, non-mandatory scheme of work for each year group across key stages 1 to 3. Covering the academic year down to lesson level, it is designed to cover a wide range of subjects, including core subjects, humanities, languages and the arts.
+However, you may feel that what you are currently doing serves your pupils well. Teachers and leaders are not obliged to use this tool.
 
-## Using the curriculum map
+DfE has quality-assured and endorsed the map.
+
+## Using the curriculum map: pick and mix, or in its entirety
  
-The map is not intended to replace existing curriculum planning. If school leaders and teachers feel that their existing provision will succeed in meeting their needs, they should continue to use their own plans.
+You have 2 options for viewing the curriculum map, either as a [PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSOfzb6kGKsH1n15hPUB1iNVzQW6ten-zwLlYnoialI_1ds2BZx3XfXdTSzgTszNuS7z5Xn_IEqH4D/pubhtml#) or a sequenced interactive model. And you can use it in a number of ways:
 
-Schools can use this curriculum map in a number of ways:
+* as a tool that gives you access to learning resources that support the teaching of your current curriculum
 
-* as a tool to access lesson resources to support the teaching of their existing curriculum
+* as a guide or model
 
-* as a guide or model to support their curriculum planning
+* by selecting parts that will enhance your existing curriculum
 
-* to select and adapt parts of the map that will enhance their existing curriculum
+* by taking the entire sequence of the map across subjects, year groups or key stages
 
-* to adopt the map’s entire sequence across subjects, year groups or key stages
+The map covers the full academic year across key stages 1 to 3, primary and secondary. Each subject has its own map.
 
-DfE is working closely with commercial and other resource providers and the intention is to reduce teacher workload by providing high quality resources materials to support lessons. Schools can use the map in a way that suits their existing curriculum planning and supports pupils’ needs. You have the option of [downloading a PDF of the curriculum map](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSOfzb6kGKsH1n15hPUB1iNVzQW6ten-zwLlYnoialI_1ds2BZx3XfXdTSzgTszNuS7z5Xn_IEqH4D/pubhtml#) or scrolling down to access an interactive version.
+## How the curriculum map was developed
 
-## How has the curriculum map been developed?
+The map was developed by Oak National Academy in consultation with the education sector, teachers, senior leaders and subject bodies. Oak led on delivery, collaborating with representative bodies, together with curriculum and subject experts across the sector. Oak has worked to ensure this map is high-quality, accessible and adaptable for all schools.
 
-We’ve developed the map in consultation with the education sector; teachers and retired teachers. Oak National Academy (Oak) have led on its delivery. Oak collaborated with representative bodies, and curriculum and subject experts from across the education sector to make sure the map would be high-quality, accessible and adaptable. The DfE has quality assured and endorsed the map.
+## Resources that can be used alongside the curriculum map 
 
-## Further resources
+Schools can use a variety of appropriate resources aligned with the map in a way that complements existing curriculum planning and supports the needs of all pupils. It is also intended that the map will be adaptable to the complexities of blended learning.
 
-You can use the following links for to find more detailed, subject-specific, information:
+This is just the start and DfE is collaborating with the following to complete the process:
 
-* Mathematics National Curriculum Bridging Document LINK
+* [Oak](https://www.thenational.academy/)
 
-* Model Music Curriculum LINK
+* [BBC Bitesize](https://www.bbc.co.uk/bitesize)
 
-* National Centre for Computing Education LINK
+DfE is also working closely with commercial and other providers to include further complementary resources that can help reduce teacher workload. These are high quality, time-saving, mainly free-to-use lesson materials. The aim is to adapt and align materials to the map, do it in good time for September; and shortly achieve a full years’ worth of curriculum-map associated material.
+
+## DfE’s other resources
+
+There are various materials identified by DfE that you may wish to use in association with the curriculum map. These are [online educational resources for schools and parents](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources) to help children to learn at home during the coronavirus (COVID-19) outbreak.
+
+### Future plans for more curriculum planning help and guidance
+
+It is intended that the music and mathematics documents will be ready before the start of the autumn term:
+
+* Model Music Curriculum
+
+* Mathematics National Curriculum Bridging Document
+
+## Best practice and applying blended learning principles
+
+DfE has published case studies and good practice guidance on [planning a phased return to schools](https://www.gov.uk/guidance/supporting-staff-in-curriculum-planning-for-a-phased-return). This includes views and approaches from across the sector on blended learning and modifying plans for the curriculum.
 
 <hr>
 
