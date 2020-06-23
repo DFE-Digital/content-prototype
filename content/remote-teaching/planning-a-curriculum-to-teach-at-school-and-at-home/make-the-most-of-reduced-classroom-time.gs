@@ -1,5 +1,5 @@
 ---
-title: Making the most of reduced classroom time
+title: Make the most of reduced classroom time
 # lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
@@ -24,7 +24,7 @@ Contents
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-For many pupils, time in the classroom will be reduced due to the need for social distancing. Schools are now considering which subjects and topics to prioritise for face-to-face, classroom-based teaching.
+For some pupils, time in the classroom will be reduced due to the need for social distancing. Schools are now considering which subjects and topics to prioritise for face-to-face, classroom-based teaching.
 
 ## Deciding what to teach in the classroom and what to teach at home
 

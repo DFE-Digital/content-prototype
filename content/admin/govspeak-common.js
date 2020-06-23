@@ -25,6 +25,7 @@ CMS.registerEditorComponent({
         { label: "Additional Information", value: "$AI" },
         { label: "Call to Action", value: "$CTA" },
         { label: "Summary", value: "$!" },
+        { label: "Blockquote", value: "$BQ" },
       ],
     },
     { name: "body", label: "Body", widget: "markdown" },
@@ -85,6 +86,8 @@ CMS.registerEditorComponent({
       return `<div class="call-to-action">${body}</div>`;
     } else if (obj.tag === "$!") {
       return `<div class="summary">${body}</div>`;
+    } else if (obj.tag === "$BQ") {
+      return `<div class="blockquote">${body}</div>`;
     } else {
       return body;
     }

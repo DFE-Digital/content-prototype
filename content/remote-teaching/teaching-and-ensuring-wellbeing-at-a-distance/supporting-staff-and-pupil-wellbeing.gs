@@ -1,5 +1,5 @@
 ---
-title: Supporting wellbeing at a distance
+title: Supporting staff and pupil wellbeing
 lead_paragraph: Schools have been using various methods to ensure that they are supporting pupils’ wellbeing and providing pastoral care.
 date: "5 May 2020"
 # related_content:

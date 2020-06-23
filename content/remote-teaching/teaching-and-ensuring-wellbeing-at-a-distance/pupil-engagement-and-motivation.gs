@@ -1,5 +1,5 @@
 ---
-title: Keeping pupils motivated and engaged at a distance
+title: Pupil engagement and motivation
 lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
 # related_content:
@@ -66,7 +66,7 @@ These [case studies](https://www.gov.uk/government/collections/case-studies-remo
 
 * [keeping primary and secondary pupils motivated and engaged at a distance](/case-studies/keeping-primary-and-secondary-age-pupils-motivated-and-engaged-at-a-distance/)
 
-* [supporting engagement in learning for primary pupils when direct communication is limited](/case-studies/supporting-engagement-in-learning-for-primary-pupils-when-direct-communication-is-limited/)
+* [supporting primary pupils’ learning when direct communication is limited](/case-studies/supporting-engagement-in-learning-for-primary-pupils-when-direct-communication-is-limited/)
 
 
 
