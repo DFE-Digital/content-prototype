@@ -31,7 +31,7 @@ DfE has quality-assured and endorsed the map.
 
 ## Using the curriculum map: pick and mix, or in its entirety
  
-You have 2 options for viewing the curriculum map, either as a [PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSOfzb6kGKsH1n15hPUB1iNVzQW6ten-zwLlYnoialI_1ds2BZx3XfXdTSzgTszNuS7z5Xn_IEqH4D/pubhtml#) or a sequenced interactive model. And you can use it in a number of ways:
+You have 2 options for viewing the curriculum map, either as a [PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSOfzb6kGKsH1n15hPUB1iNVzQW6ten-zwLlYnoialI_1ds2BZx3XfXdTSzgTszNuS7z5Xn_IEqH4D/pubhtml#) or a [sequenced interactive model](/curriculum/curriculum-ma/#primary). And you can use it in a number of ways:
 
 * as a tool that gives you access to learning resources that support the teaching of your current curriculum
 
