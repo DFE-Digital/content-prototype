@@ -1,14 +1,17 @@
 ---
-title: Deciding what to teach during a phased return
+title: Decide what to teach during a phased return
 # lead_paragraph: Schools are using various methods to keep pupils interested and motivated when learning remotely. Many schools have found that engagement and motivation are strongly linked to other areas such as wellbeing and curriculum design.
 date: "5 May 2020"
-# related_content:
-# - name: Supporting wellbeing at a distance
-#   link: /remote-teaching/supporting-wellbeing/
-# - name: Adapting the curriculum for remote education
-#   link: /remote-teaching/adapting-the-curriculum-for-remote-education/
-# - name: Keeping pupils motivated and engaged
-#   link: /remote-teaching/keeping-pupils-motivated-and-engaged/
+related_content:
+- name: Identify gaps in pupils’ understanding
+  link: /remote-teaching/planning-a-curriculum-to-teach-at-school-and-at-home/identify-gaps-in-pupils-understanding/
+
+- name: Making the most of reduced classroom time
+  link: /remote-teaching/planning-a-curriculum-to-teach-at-school-and-at-home/make-the-most-of-reduced-classroom-time/
+
+- name: Pastoral care in the curriculum as schools return
+  link: /remote-teaching/planning-a-curriculum-to-teach-at-school-and-at-home/pastoral-care-in-the-curriculum-as-schools-return/
+
 collection_content:
 - name: Case studies — remote education practice for schools during coronavirus (COVID-19)
   link: /case-studies/case-studies-collection/
