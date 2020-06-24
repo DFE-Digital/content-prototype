@@ -111,7 +111,7 @@ The following [case studies](https://www.gov.uk/government/collections/case-stud
 
 * [supporting enrichment and extracurricular activities remotely](/case-studies/supporting-enrichment-and-extracurricular-activities-remotely/)
 
-* [offering enrichment and extracurricular activities to primary pupils](/case-studies/offering-online-enrichment-and-extracurricular-activities-to-primary-pupils/)
+* [offering online enrichment and extracurricular activities to primary pupils](/case-studies/offering-online-enrichment-and-extracurricular-activities-to-primary-pupils/)
 
 * [maintaining enrichment and extracurricular activities for unconnected secondary pupils](/case-studies/maintaining-enrichment-and-extracurricular-activities-for-unconnected-secondary-pupils/)
 
