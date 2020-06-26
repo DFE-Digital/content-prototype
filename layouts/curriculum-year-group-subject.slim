@@ -1,0 +1,77 @@
+doctype html
+
+html.govuk-template lang='en'
+  == render '/partials/head.*'
+
+  body.govuk-template__body
+    == render '/partials/header.*'
+    == render '/partials/covid_bar.*'
+    .govuk-width-container
+      == render '/partials/breadcrumbs.*'
+    script
+      | document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+
+    a.govuk-skip-link href="#main-content"
+      | Skip to main content
+    .govuk-width-container
+      main#main-content class="govuk-main-wrapper govuk-!-padding-top-1"
+        div class="govuk-grid-row app-manuals-header"
+          .govuk-grid-column-two-thirds
+            h1 class="govuk-heading-l" = item[:title]
+            .case-study-metadata
+              ul.govuk-list
+                li
+                  | Published #{item[:date]}
+                li
+                  | From:
+
+                  strong< Department for Education
+
+        - if item[:lead_heading]
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              h2.govuk-heading-m = item[:lead_heading]
+
+        - if item[:lead_paragraph]
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              p.gem-c-lead-paragraph = item[:lead_paragraph]
+
+        .govuk-grid-row
+          .govuk-grid-column-full
+            - if item[:safety_warning]
+              == render '/partials/safety_warning.*'
+
+            main.gem-c-govspeak
+              - if item[:lead_paragraph]
+              == yield
+
+            - if item[:explore_the_topic]
+              .explore-the-topic
+                h3.govuk-heading-s Explore the topic
+                ul.govuk-list
+                  - item[:explore_the_topic].each do |link|
+                    li == link_to link[:name], link[:link]
+
+            - if item[:pagination]
+              == render '/partials/pagination.*', pagination: item[:pagination]
+
+          .govuk-grid-column-one-third
+            - if item[:show_teacher_contents]
+              == render '/partials/teacher_contents.*'
+
+            - if item[:related_content]
+              .related-content
+                h3.govuk-heading-s Related content
+                ul.govuk-list
+                  - item[:related_content].each do |link|
+                    li == link_to link[:name], link[:link]
+                    
+            - if item[:collection_content]
+              .collection-content
+                h3 Collection
+
+                ul.govuk-list
+                  -item[:collection_content].each do |link|
+                    li == link_to link[:name], link[:link]
+    == render '/partials/footer.*'
