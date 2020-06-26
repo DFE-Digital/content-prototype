@@ -8,6 +8,12 @@ compile '/index.slim' do
   write '/index.html'
 end
 
+compile '/education-childcare.slim' do
+  filter :slim
+  layout '/coronavirus.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 compile '/curriculum/*.gs' do
   filter :govspeak
   layout '/curriculum-wrapper.*'
