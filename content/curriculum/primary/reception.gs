@@ -20,17 +20,17 @@ You don't have to use this tool as you may feel that what you're currently doing
 
 <hr>
 
-### [English](#)
+### English
 English curriculum framework for reception pupils.
 
 <hr>
 
-### [Maths](#)
+### [Maths](/curriculum/primary/reception/maths/)
 Maths curriculum framework for reception pupils.
 
 <hr>
 
-### [Foundation](#)
+### Foundation
 Foundation curriculum framework for reception pupils.
 
 <hr>
