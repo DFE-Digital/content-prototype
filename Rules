@@ -8,9 +8,21 @@ compile '/index.slim' do
   write '/index.html'
 end
 
-compile '/curriculum/**/*.gs' do
+compile '/curriculum/*.gs' do
   filter :govspeak
   layout '/curriculum-wrapper.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
+compile '/curriculum/primary/*.gs' do
+  filter :govspeak
+  layout '/curriculum-year-group.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
+compile '/curriculum/primary/reception/*.slim' do
+  filter :slim
+  layout '/curriculum-year-group-subject.*'
   write item.identifier.without_ext + '/index.html'
 end
 

@@ -28,7 +28,7 @@ Contents
 {:toc}
 
 Some pupils have been attending school throughout the coronavirus pandemic, but now that more pupils are beginning to return, schools are faced with a new challenge.
- 
+
 That challenge is to deliver a coherent curriculum to pupils both at home and in school, while maintaining social distancing and safety for staff and pupils.
 The schools we have spoken to in collating these examples have been thinking about what the return of Reception, year 1, year 6, year 10 and year 12 pupils means for their curriculum planning.
  

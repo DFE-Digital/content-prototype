@@ -81,7 +81,7 @@ DfE has published case studies and good practice guidance on [planning a phased 
 
 * [reception](/curriculum/primary/reception/)
 
-* [year 1](/curriculum/primary-curriculum-map/)
+* [year 1](/curriculum/primary/#)
 
 * [year 2](/curriculum/primary/year2/)
 
