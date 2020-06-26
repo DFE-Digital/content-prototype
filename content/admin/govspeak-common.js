@@ -30,7 +30,7 @@ CMS.registerEditorComponent({
     },
     { name: "body", label: "Body", widget: "markdown" },
   ],
-  pattern: /^(?<tag>\$E|\$C|\$A|\$D|\$P|\$I|\$AI|\$CTA|\$!|\^|@|%|{::highlight-answer}|{stat-headline})(?<body>[\w|\W|\n]*)(\k<tag>|{:\/highlight-answer}|{\/stat-headline})$/,
+  pattern: /^(?<tag>\$E|\$C|\$A|\$BQ|\$D|\$P|\$I|\$AI|\$CTA|\$!|\^|@|%|{::highlight-answer}|{stat-headline})(?<body>[\w|\W|\n]*)(\k<tag>|{:\/highlight-answer}|{\/stat-headline})$/,
   fromBlock: function (match) {
     return {
       tag: match[1],
