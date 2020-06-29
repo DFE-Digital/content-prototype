@@ -174,7 +174,7 @@ $CTA
 <p class="govuk-body govuk-!-font-size-14 govuk-!-margin-bottom-9"> 18 June 2020 </p>
 
 
-## Residential settings
+## Residential setting
 
 #### [Coronavirus (COVID-19): guidance on isolation for residential educational settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings)
 <p class="govuk-body govuk-!-font-size-14 govuk-!-margin-bottom-9"> 27 May 2020 </p>
