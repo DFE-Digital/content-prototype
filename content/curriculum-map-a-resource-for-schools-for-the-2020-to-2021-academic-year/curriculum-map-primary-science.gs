@@ -21,13 +21,13 @@ explore_the_topic:
     <h2 class="govuk-heading-m govuk-!-margin-bottom-6"> Documents </h2>
     <div class="gem-c-attachment govuk-!-margin-bottom-6">
       <div class="gem-c-attachment__thumbnail">
-        <a href="/pdf/primary-science-ks1-ks2.pdf/" class="gem-c-attachment__thumbnail-image">
+        <a href="/pdf/primary-science-ks1-ks2.pdf" class="gem-c-attachment__thumbnail-image">
           <img src="/images/primary-science-ks1-ks2.png" alt="pdf document">
         </a>
       </div>
       <div class="gem-c-attachment__details gem-c-details">
         <h2 class="gem-c-attachment__title">
-          <a href="/pdf/primary-science-ks1-ks2.pdf/" class="gem-c-attachment__link govuk-link">Curriculum map: Primary science, key stage 1 and 2</a>
+          <a href="/pdf/primary-science-ks1-ks2.pdf" class="gem-c-attachment__link govuk-link">Curriculum map: Primary science, key stage 1 and 2</a>
         </h2>
         <p class="gem-c-attachment__metadata"> PDF, 1.7MB, 27 pages </p>
       </div>
