@@ -14,7 +14,8 @@ html.govuk-template lang='en'
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
           .govuk-grid-column-two-thirds
-            h1 class="govuk-!-margin-top-2 govuk-heading-l" = item[:title]
+            span.govuk-caption-l Collection
+            h1.govuk-heading-l = item[:title]
         - if item[:lead_paragraph]
           .govuk-grid-row
             .govuk-grid-column-two-thirds

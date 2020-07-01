@@ -128,7 +128,7 @@ $CTA
 <p class="govuk-body govuk-!-font-size-14"> 22 May 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map for teachers and school leaders](/curriculum/curriculum-map/)
+#### [Curriculum map: help for schools for 2020 to 2021 academic year](/curriculum-map-help-for-schools-for-2020-2021-academic-year/)
 <p class="govuk-body govuk-!-font-size-14"> 29 June 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
@@ -174,7 +174,7 @@ $CTA
 <p class="govuk-body govuk-!-font-size-14 govuk-!-margin-bottom-9"> 18 June 2020 </p>
 
 
-## Residential setting
+## Residential settings
 
 #### [Coronavirus (COVID-19): guidance on isolation for residential educational settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings)
 <p class="govuk-body govuk-!-font-size-14 govuk-!-margin-bottom-9"> 27 May 2020 </p>
