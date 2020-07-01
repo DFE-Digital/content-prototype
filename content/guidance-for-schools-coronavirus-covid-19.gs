@@ -128,7 +128,7 @@ $CTA
 <p class="govuk-body govuk-!-font-size-14"> 22 May 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: help for schools for 2020 to 2021 academic year](/curriculum-map-help-for-schools-for-2020-2021-academic-year/)
+#### [Curriculum map: a resource for schools for the 2020 to 2021 academic year](/education-and-childcare/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/)
 <p class="govuk-body govuk-!-font-size-14"> 29 June 2020 </p>
 <hr class="govuk-!-margin-top-0">
 

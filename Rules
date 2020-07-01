@@ -14,13 +14,19 @@ compile '/education-childcare.slim' do
   write item.identifier.without_ext + '/index.html'
 end
 
-compile '/curriculum/*.gs' do
+compile '/curriculum-map-help-for-schools-for-2020-2021-academic-year/*.gs' do
   filter :govspeak
   layout '/curriculum-wrapper.*'
   write item.identifier.without_ext + '/index.html'
 end
 
-compile '/curriculum/primary/*.gs' do
+compile '/not-in-use/curriculum/*.gs' do
+  filter :govspeak
+  layout '/curriculum-wrapper.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
+compile '/not-in-use-curriculum/not-in-use/primary/*.gs' do
   filter :govspeak
   layout '/curriculum-year-group.*'
   write item.identifier.without_ext + '/index.html'
