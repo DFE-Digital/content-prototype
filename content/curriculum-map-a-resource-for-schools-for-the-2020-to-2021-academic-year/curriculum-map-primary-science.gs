@@ -1,5 +1,5 @@
 ---
-title: "Curriculum map: help for schools for the 2020 to 2021 academic year – Primary science, key stage 1 and 2"
+title: "Curriculum map: help for schools for the 2020 to 2021 academic year – primary science, key stage 1 and 2"
 lead_paragraph: "A national curriculum map for key stages 1 to 2 Primary science to help schools with planning following the outbreak of coronavirus (COVID-19)."
 date: "30 June 2020"
 related_content:
@@ -27,7 +27,7 @@ explore_the_topic:
       </div>
       <div class="gem-c-attachment__details gem-c-details">
         <h2 class="gem-c-attachment__title">
-          <a href="/pdf/primary-science-ks1-ks2.pdf" class="gem-c-attachment__link govuk-link">Curriculum map: Primary science, key stage 1 and 2</a>
+          <a href="/pdf/primary-science-ks1-ks2.pdf" class="gem-c-attachment__link govuk-link">Curriculum map: primary science, key stage 1 and 2</a>
         </h2>
         <p class="gem-c-attachment__metadata"> PDF, 1.7MB, 27 pages </p>
       </div>
@@ -43,7 +43,7 @@ $CTA
 
 This curriculum map:
 
-* covers Science across key stages 1 to 2, primary
+* covers science across key stages 1 to 2, primary
 
 * goes down to lesson level outcomes
 

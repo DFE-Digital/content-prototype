@@ -43,15 +43,15 @@ We do not expect that schools that have fully-resourced, robust contingency plan
 
 ## View the curriculum map by subject
 
-#### [Curriculum map: Science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
 <p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: History in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+#### [Curriculum map: history in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map:  Primary science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-primary-science/)
+#### [Curriculum map:  primary science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-primary-science/)
 <p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
