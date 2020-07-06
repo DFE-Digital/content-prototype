@@ -23,37 +23,21 @@ This curriculum map:
 
 * covers the full academic year across key stages 1 to 3, primary and secondary
 
-* goes down to lesson level outcomes
-
 * includes science and maths, humanities, languages and the arts
 
-* by the autumn term, will link to high quality, time saving, sequenced lesson resources
+* by the autumn term, will contain links to high-quality, time-saving lesson resources
+
+## How to use the curriculum map
+
+This flexible support tool is intended to support schools’ ability to switch between classroom teaching and remote provision immediately in case of local lockdowns or self-isolation.
+
+We do not expect that schools that have fully-resourced, robust contingency plans in place for remote provision will adopt this map wholesale, though they will be able to.
 
 $CTA
 This curriculum map is a flexible support tool that’s entirely optional, and for schools to choose to use if they wish. It’s not linked to any accountability measures.
 
 [View the national curriculum](https://www.gov.uk/government/collections/national-curriculum) if you’re looking for statutory guidance.
 $CTA
-
-## How you might want to use the curriculum map
-
-This flexible support tool is intended to support schools’ ability to switch between classroom teaching and remote provision immediately in case of local lockdowns or self-isolation.
-
-We do not expect that schools that have fully-resourced, robust contingency plans in place for remote provision will adopt this map wholesale, though they may choose to do so if they wish.
-
-## View the curriculum map by subject
-
-#### [Curriculum map: science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
-<p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
-<hr class="govuk-!-margin-top-0">
-
-#### [Curriculum map: history in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
-<p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
-<hr class="govuk-!-margin-top-0">
-
-#### [Curriculum map:  primary science in the 2020 to 2021 academic year](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-primary-science/)
-<p class="govuk-body govuk-!-font-size-14"> 30 June 2020 </p>
-<hr class="govuk-!-margin-top-0">
 
 ## By teachers, for teachers: how the curriculum map was developed
 
@@ -71,16 +55,44 @@ You will be able to use the map and resources in a number of ways:
 
 * by adopting the entire sequence of the map across subjects, year groups or key stages
 
-## Related guidance and support
+## Subjects
 
-DfE has already published an [extensive list of online educational resources for schools and parents](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources) to help children to learn at home. These are not aligned to the curriculum map but you may find them useful for remote and blended learning.
+#### [Curriculum map: a resource for schools for 2020 to 2021  – art](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
 
-* curriculum expectations 
+#### [Curriculum map: a resource for schools for 2020 to 2021  – citizenship](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
 
-* [curriculum planning a phased return to schools](https://www.gov.uk/guidance/supporting-staff-in-curriculum-planning-for-a-phased-return)
+#### [Curriculum map: a resource for schools for 2020 to 2021  – computing](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
 
-* Model Music Curriculum 
+#### [Curriculum map: a resource for schools for 2020 to 2021  – English](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
 
-* Mathematics National Curriculum Bridging Document 
+#### [Curriculum map: a resource for schools for 2020 to 2021  – geography](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
 
-* Wellbeing resources and guidance 
+#### [Curriculum map: a resource for schools for 2020 to 2021  – history](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: a resource for schools for 2020 to 2021  – MFL principles](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: a resource for schools for 2020 to 2021  – music](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: a resource for schools for 2020 to 2021  – RE](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: a resource for schools for 2020 to 2021  – science](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<!-- <hr class="govuk-!-margin-top-0"> -->
