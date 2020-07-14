@@ -35,6 +35,8 @@ explore_the_topic:
   </div>
 </div>
 
+## Details
+
 $CTA
 This curriculum map is a flexible support tool that’s entirely optional, and for schools to choose to use if they wish. It’s not linked to any accountability measures.
 

@@ -1,7 +1,7 @@
 ---
-title: "Curriculum map: help for schools for the 2020 to 2021 academic year – science, key stage 3 and 4"
-lead_paragraph: "A national curriculum map for key stages 3 to 4 Science to help schools with planning following the outbreak of coronavirus (COVID-19)."
-date: "30 June 2020"
+title: "Curriculum map: mathematics"
+lead_paragraph: "A national curriculum map for key stages 1 to 3 mathematics to help schools with planning following the outbreak of coronavirus (COVID-19)."
+date: "8 July 2020"
 related_content:
   # - name: Adapting teaching practise for remote education
   #   link: /remote-teaching/adapting-teaching-practise-for-remote-education/
@@ -27,7 +27,7 @@ explore_the_topic:
       </div>
       <div class="gem-c-attachment__details gem-c-details">
         <h2 class="gem-c-attachment__title">
-          <a href="/pdf/science-ks3-ks4.pdf" class="gem-c-attachment__link govuk-link">Curriculum map: science, key stage 3 and 4</a>
+          <a href="/pdf/science-ks3-ks4.pdf" class="gem-c-attachment__link govuk-link">Curriculum map: mathematics, key stage 1 to 3</a>
         </h2>
         <p class="gem-c-attachment__metadata"> PDF, 5.2MB, 89 pages </p>
       </div>
@@ -45,8 +45,8 @@ $CTA
 
 This curriculum map:
 
-* covers science across key stages 3 and 4
-
-* goes down to lesson level outcomes
+* covers mathematics across key stages 1 to 3
 
 * by the autumn term, will link to high quality, time saving, sequenced lesson resources
+
+View the [guidance on teaching mathematics at keystages 1 and 2](https://www.gov.uk/government/publications/teaching-mathematics-in-primary-schools).
