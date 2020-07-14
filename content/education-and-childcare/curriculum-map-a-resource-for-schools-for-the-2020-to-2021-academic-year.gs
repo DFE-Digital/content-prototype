@@ -29,19 +29,25 @@ This curriculum map:
 
 ## How to use the curriculum map
 
+$CTA
+
+[View the curriculum map](/education-and-childcare/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year#primary-school-subjects)
+
 This flexible support tool is intended to support schools’ ability to switch between classroom teaching and remote provision immediately in case of local lockdowns or self-isolation.
 
-We do not expect that schools that have fully-resourced, robust contingency plans in place for remote provision will adopt this map wholesale, though they will be able to.
-
-$CTA
-This curriculum map is a flexible support tool that’s entirely optional, and for schools to choose to use if they wish. It’s not linked to any accountability measures.
-
-[View the national curriculum](https://www.gov.uk/government/collections/national-curriculum) if you’re looking for statutory guidance.
+If you are looking for statutory guidance, [view the national curriculum](https://www.gov.uk/government/collections/national-curriculum).
 $CTA
 
 ## By teachers, for teachers: how the curriculum map was developed
 
-DfE has worked with Oak National Academy to produce this curriculum map, which has been developed in consultation with teachers, senior leaders and subject experts.
+The map was developed by Oak National Academy in consultation with:
+
+* the education sector
+* teachers
+* senior leaders 
+* subject bodies
+
+Oak led on delivery, collaborating with representative bodies, together with curriculum and subject experts across the sector. Oak has worked to ensure this map is high-quality, sequenced, accessible and adaptable for all schools.
 
 ## Plans to produce future resources aligned to the curriculum map
 
@@ -55,44 +61,77 @@ You will be able to use the map and resources in a number of ways:
 
 * by adopting the entire sequence of the map across subjects, year groups or key stages
 
-## Subjects
+## Primary school subjects
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – art](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: science](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: history](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: primary science](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+<p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: English](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – citizenship](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: mathematics](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-mathematics/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – computing](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: geography](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – English](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: RE](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – geography](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: music](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+
+## Secondary school subjects
+
+#### [Curriculum map: English](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – history](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+#### [Curriculum map: mathematics](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – MFL principles](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+#### [Curriculum map: geography](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – music](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+#### [Curriculum map: history](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – RE](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+#### [Curriculum map: RE](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Curriculum map: a resource for schools for 2020 to 2021  – science](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
+#### [Curriculum map: citizenship](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: modern foreign languages](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: computing](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: music](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-history/)
+<p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
+<hr class="govuk-!-margin-top-0">
+
+#### [Curriculum map: art and design](/curriculum-map-a-resource-for-schools-for-the-2020-to-2021-academic-year/curriculum-map-science/)
 <p class="govuk-body govuk-!-font-size-14"> 3 July 2020 </p>
 <!-- <hr class="govuk-!-margin-top-0"> -->
